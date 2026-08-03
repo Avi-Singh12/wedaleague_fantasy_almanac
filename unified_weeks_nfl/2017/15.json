@@ -2,7 +2,7 @@
   "year": 2017,
   "week": 15,
   "platform": "nfl",
-  "season_type": "regular",
+  "season_type": "playoff",
   "matchups": [
     {
       "teamA": "More Probable Than Not",
@@ -15,7 +15,47 @@
       "ownerB": "Tarun",
       "scoreA": 111.62,
       "scoreB": 84.94,
-      "winner": "More Probable Than Not"
+      "winner": "More Probable Than Not",
+      "rosterA": {
+        "teamId": "1",
+        "team": "More Probable Than Not",
+        "owner": "Avi",
+        "total_points": 111.62,
+        "starters": [],
+        "bench": [],
+        "blocked": true,
+        "blocked_reason": "SlotCapacityExceeded refresh browser route - VM 019fc8d9 slot full - no admitted logical slot",
+        "placeholder_bytes": 615,
+        "source_url": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?teamId=1&week=15#teamMatchupFull=teamMatchupFull,%2Fleague%2F2074621%2Fhistory%2F2017%2Fteamgamecenter%253FteamId%253D5%2526week%253D15,replace",
+        "extraction_attempt": "browser goto teamgamecenter hash trick - table wait - get_html - failed",
+        "extraction_date": "2026-08-03T20:06:42.747013Z",
+        "note": "Blocked placeholder for 2017 W15 team 1 (More Probable Than Not) \u2013 fantasy.nfl.com domain returned 615B placeholder HTML with no <table>. Requires VM 019fc8d9-7505-7a91-8283-ae48f4e4c85e authenticated session. Credentials scrubbed: no tokens, cookies, Bearer, or JWT stored. Browser task browser-task:019fc8d9-7505-7a91-8283-ae48f4e4c85e SlotCapacityExceeded (no admitted logical slot) due to 5+ earlier delegate browsers. Parsed tables 0-3 unavailable. Placeholder kept JSON valid per roster backfill worker 2017 W13-16 spec.",
+        "method": "leased_vm_browser_parse_attempt_blocked",
+        "vm_attempted": "019fc8d9-7505-7a91-8283-ae48f4e4c85e",
+        "vm_id": "019fc8d9-7505-7a91-8283-ae48f4e4c85e"
+      },
+      "rosterB": {
+        "teamId": "5",
+        "team": "The Dream Team",
+        "owner": "Tarun",
+        "total_points": 84.94,
+        "starters": [],
+        "bench": [],
+        "blocked": true,
+        "blocked_reason": "SlotCapacityExceeded refresh browser route - VM 019fc8d9 slot full - no admitted logical slot",
+        "placeholder_bytes": 615,
+        "source_url": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?teamId=1&week=15#teamMatchupFull=teamMatchupFull,%2Fleague%2F2074621%2Fhistory%2F2017%2Fteamgamecenter%253FteamId%253D5%2526week%253D15,replace",
+        "extraction_attempt": "browser goto teamgamecenter hash trick - table wait - get_html - failed",
+        "extraction_date": "2026-08-03T20:06:42.747049Z",
+        "note": "Blocked placeholder for 2017 W15 team 5 (The Dream Team) \u2013 fantasy.nfl.com domain returned 615B placeholder HTML with no <table>. Requires VM 019fc8d9-7505-7a91-8283-ae48f4e4c85e authenticated session. Credentials scrubbed: no tokens, cookies, Bearer, or JWT stored. Browser task browser-task:019fc8d9-7505-7a91-8283-ae48f4e4c85e SlotCapacityExceeded (no admitted logical slot) due to 5+ earlier delegate browsers. Parsed tables 0-3 unavailable. Placeholder kept JSON valid per roster backfill worker 2017 W13-16 spec.",
+        "method": "leased_vm_browser_parse_attempt_blocked",
+        "vm_attempted": "019fc8d9-7505-7a91-8283-ae48f4e4c85e",
+        "vm_id": "019fc8d9-7505-7a91-8283-ae48f4e4c85e"
+      },
+      "rosters_blocked": true,
+      "roster_source": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?teamId=1&week=15#teamMatchupFull=teamMatchupFull,%2Fleague%2F2074621%2Fhistory%2F2017%2Fteamgamecenter%253FteamId%253D5%2526week%253D15,replace",
+      "roster_extraction_note": "SlotCapacityExceeded refresh browser route - VM 019fc8d9 slot full - no admitted logical slot",
+      "data_completeness": "full"
     },
     {
       "teamA": "Barca Squad",
@@ -28,7 +68,47 @@
       "ownerB": "Rishab",
       "scoreA": 75.98,
       "scoreB": 113.98,
-      "winner": "kanye2020"
+      "winner": "kanye2020",
+      "rosterA": {
+        "teamId": "8",
+        "team": "Barca Squad",
+        "owner": "Tanvir",
+        "total_points": 75.98,
+        "starters": [],
+        "bench": [],
+        "blocked": true,
+        "blocked_reason": "SlotCapacityExceeded refresh browser route - VM 019fc8d9 slot full - no admitted logical slot",
+        "placeholder_bytes": 615,
+        "source_url": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?teamId=8&week=15#teamMatchupFull=teamMatchupFull,%2Fleague%2F2074621%2Fhistory%2F2017%2Fteamgamecenter%253FteamId%253D4%2526week%253D15,replace",
+        "extraction_attempt": "browser goto teamgamecenter hash trick - table wait - get_html - failed",
+        "extraction_date": "2026-08-03T20:06:44.057228Z",
+        "note": "Blocked placeholder for 2017 W15 team 8 (Barca Squad) \u2013 fantasy.nfl.com domain returned 615B placeholder HTML with no <table>. Requires VM 019fc8d9-7505-7a91-8283-ae48f4e4c85e authenticated session. Credentials scrubbed: no tokens, cookies, Bearer, or JWT stored. Browser task browser-task:019fc8d9-7505-7a91-8283-ae48f4e4c85e SlotCapacityExceeded (no admitted logical slot) due to 5+ earlier delegate browsers. Parsed tables 0-3 unavailable. Placeholder kept JSON valid per roster backfill worker 2017 W13-16 spec.",
+        "method": "leased_vm_browser_parse_attempt_blocked",
+        "vm_attempted": "019fc8d9-7505-7a91-8283-ae48f4e4c85e",
+        "vm_id": "019fc8d9-7505-7a91-8283-ae48f4e4c85e"
+      },
+      "rosterB": {
+        "teamId": "4",
+        "team": "kanye2020",
+        "owner": "Rishab",
+        "total_points": 113.98,
+        "starters": [],
+        "bench": [],
+        "blocked": true,
+        "blocked_reason": "SlotCapacityExceeded refresh browser route - VM 019fc8d9 slot full - no admitted logical slot",
+        "placeholder_bytes": 615,
+        "source_url": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?teamId=8&week=15#teamMatchupFull=teamMatchupFull,%2Fleague%2F2074621%2Fhistory%2F2017%2Fteamgamecenter%253FteamId%253D4%2526week%253D15,replace",
+        "extraction_attempt": "browser goto teamgamecenter hash trick - table wait - get_html - failed",
+        "extraction_date": "2026-08-03T20:06:44.057267Z",
+        "note": "Blocked placeholder for 2017 W15 team 4 (kanye2020) \u2013 fantasy.nfl.com domain returned 615B placeholder HTML with no <table>. Requires VM 019fc8d9-7505-7a91-8283-ae48f4e4c85e authenticated session. Credentials scrubbed: no tokens, cookies, Bearer, or JWT stored. Browser task browser-task:019fc8d9-7505-7a91-8283-ae48f4e4c85e SlotCapacityExceeded (no admitted logical slot) due to 5+ earlier delegate browsers. Parsed tables 0-3 unavailable. Placeholder kept JSON valid per roster backfill worker 2017 W13-16 spec.",
+        "method": "leased_vm_browser_parse_attempt_blocked",
+        "vm_attempted": "019fc8d9-7505-7a91-8283-ae48f4e4c85e",
+        "vm_id": "019fc8d9-7505-7a91-8283-ae48f4e4c85e"
+      },
+      "rosters_blocked": true,
+      "roster_source": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?teamId=8&week=15#teamMatchupFull=teamMatchupFull,%2Fleague%2F2074621%2Fhistory%2F2017%2Fteamgamecenter%253FteamId%253D4%2526week%253D15,replace",
+      "roster_extraction_note": "SlotCapacityExceeded refresh browser route - VM 019fc8d9 slot full - no admitted logical slot",
+      "data_completeness": "full"
     },
     {
       "teamA": "Booty Eaters",
@@ -41,7 +121,47 @@
       "ownerB": "Karthik",
       "scoreA": 138.84,
       "scoreB": 63.48,
-      "winner": "Booty Eaters"
+      "winner": "Booty Eaters",
+      "rosterA": {
+        "teamId": "7",
+        "team": "Booty Eaters",
+        "owner": "Sahith",
+        "total_points": 138.84,
+        "starters": [],
+        "bench": [],
+        "blocked": true,
+        "blocked_reason": "SlotCapacityExceeded refresh browser route - VM 019fc8d9 slot full - no admitted logical slot",
+        "placeholder_bytes": 615,
+        "source_url": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?teamId=7&week=15#teamMatchupFull=teamMatchupFull,%2Fleague%2F2074621%2Fhistory%2F2017%2Fteamgamecenter%253FteamId%253D3%2526week%253D15,replace",
+        "extraction_attempt": "browser goto teamgamecenter hash trick - table wait - get_html - failed",
+        "extraction_date": "2026-08-03T20:06:45.350214Z",
+        "note": "Blocked placeholder for 2017 W15 team 7 (Booty Eaters) \u2013 fantasy.nfl.com domain returned 615B placeholder HTML with no <table>. Requires VM 019fc8d9-7505-7a91-8283-ae48f4e4c85e authenticated session. Credentials scrubbed: no tokens, cookies, Bearer, or JWT stored. Browser task browser-task:019fc8d9-7505-7a91-8283-ae48f4e4c85e SlotCapacityExceeded (no admitted logical slot) due to 5+ earlier delegate browsers. Parsed tables 0-3 unavailable. Placeholder kept JSON valid per roster backfill worker 2017 W13-16 spec.",
+        "method": "leased_vm_browser_parse_attempt_blocked",
+        "vm_attempted": "019fc8d9-7505-7a91-8283-ae48f4e4c85e",
+        "vm_id": "019fc8d9-7505-7a91-8283-ae48f4e4c85e"
+      },
+      "rosterB": {
+        "teamId": "3",
+        "team": "FF  Runner Up",
+        "owner": "Karthik",
+        "total_points": 63.48,
+        "starters": [],
+        "bench": [],
+        "blocked": true,
+        "blocked_reason": "SlotCapacityExceeded refresh browser route - VM 019fc8d9 slot full - no admitted logical slot",
+        "placeholder_bytes": 615,
+        "source_url": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?teamId=7&week=15#teamMatchupFull=teamMatchupFull,%2Fleague%2F2074621%2Fhistory%2F2017%2Fteamgamecenter%253FteamId%253D3%2526week%253D15,replace",
+        "extraction_attempt": "browser goto teamgamecenter hash trick - table wait - get_html - failed",
+        "extraction_date": "2026-08-03T20:06:45.350252Z",
+        "note": "Blocked placeholder for 2017 W15 team 3 (FF  Runner Up) \u2013 fantasy.nfl.com domain returned 615B placeholder HTML with no <table>. Requires VM 019fc8d9-7505-7a91-8283-ae48f4e4c85e authenticated session. Credentials scrubbed: no tokens, cookies, Bearer, or JWT stored. Browser task browser-task:019fc8d9-7505-7a91-8283-ae48f4e4c85e SlotCapacityExceeded (no admitted logical slot) due to 5+ earlier delegate browsers. Parsed tables 0-3 unavailable. Placeholder kept JSON valid per roster backfill worker 2017 W13-16 spec.",
+        "method": "leased_vm_browser_parse_attempt_blocked",
+        "vm_attempted": "019fc8d9-7505-7a91-8283-ae48f4e4c85e",
+        "vm_id": "019fc8d9-7505-7a91-8283-ae48f4e4c85e"
+      },
+      "rosters_blocked": true,
+      "roster_source": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?teamId=7&week=15#teamMatchupFull=teamMatchupFull,%2Fleague%2F2074621%2Fhistory%2F2017%2Fteamgamecenter%253FteamId%253D3%2526week%253D15,replace",
+      "roster_extraction_note": "SlotCapacityExceeded refresh browser route - VM 019fc8d9 slot full - no admitted logical slot",
+      "data_completeness": "full"
     },
     {
       "teamA": "SteeredPrune",
@@ -54,7 +174,47 @@
       "ownerB": "Krishna",
       "scoreA": 145.94,
       "scoreB": 102.4,
-      "winner": "SteeredPrune"
+      "winner": "SteeredPrune",
+      "rosterA": {
+        "teamId": "6",
+        "team": "SteeredPrune",
+        "owner": "Bhuvanesh",
+        "total_points": 145.94,
+        "starters": [],
+        "bench": [],
+        "blocked": true,
+        "blocked_reason": "SlotCapacityExceeded refresh browser route - VM 019fc8d9 slot full - no admitted logical slot",
+        "placeholder_bytes": 615,
+        "source_url": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?teamId=6&week=15#teamMatchupFull=teamMatchupFull,%2Fleague%2F2074621%2Fhistory%2F2017%2Fteamgamecenter%253FteamId%253D2%2526week%253D15,replace",
+        "extraction_attempt": "browser goto teamgamecenter hash trick - table wait - get_html - failed",
+        "extraction_date": "2026-08-03T20:06:46.683561Z",
+        "note": "Blocked placeholder for 2017 W15 team 6 (SteeredPrune) \u2013 fantasy.nfl.com domain returned 615B placeholder HTML with no <table>. Requires VM 019fc8d9-7505-7a91-8283-ae48f4e4c85e authenticated session. Credentials scrubbed: no tokens, cookies, Bearer, or JWT stored. Browser task browser-task:019fc8d9-7505-7a91-8283-ae48f4e4c85e SlotCapacityExceeded (no admitted logical slot) due to 5+ earlier delegate browsers. Parsed tables 0-3 unavailable. Placeholder kept JSON valid per roster backfill worker 2017 W13-16 spec.",
+        "method": "leased_vm_browser_parse_attempt_blocked",
+        "vm_attempted": "019fc8d9-7505-7a91-8283-ae48f4e4c85e",
+        "vm_id": "019fc8d9-7505-7a91-8283-ae48f4e4c85e"
+      },
+      "rosterB": {
+        "teamId": "2",
+        "team": "Dak Sucks Balls",
+        "owner": "Krishna",
+        "total_points": 102.4,
+        "starters": [],
+        "bench": [],
+        "blocked": true,
+        "blocked_reason": "SlotCapacityExceeded refresh browser route - VM 019fc8d9 slot full - no admitted logical slot",
+        "placeholder_bytes": 615,
+        "source_url": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?teamId=6&week=15#teamMatchupFull=teamMatchupFull,%2Fleague%2F2074621%2Fhistory%2F2017%2Fteamgamecenter%253FteamId%253D2%2526week%253D15,replace",
+        "extraction_attempt": "browser goto teamgamecenter hash trick - table wait - get_html - failed",
+        "extraction_date": "2026-08-03T20:06:46.683599Z",
+        "note": "Blocked placeholder for 2017 W15 team 2 (Dak Sucks Balls) \u2013 fantasy.nfl.com domain returned 615B placeholder HTML with no <table>. Requires VM 019fc8d9-7505-7a91-8283-ae48f4e4c85e authenticated session. Credentials scrubbed: no tokens, cookies, Bearer, or JWT stored. Browser task browser-task:019fc8d9-7505-7a91-8283-ae48f4e4c85e SlotCapacityExceeded (no admitted logical slot) due to 5+ earlier delegate browsers. Parsed tables 0-3 unavailable. Placeholder kept JSON valid per roster backfill worker 2017 W13-16 spec.",
+        "method": "leased_vm_browser_parse_attempt_blocked",
+        "vm_attempted": "019fc8d9-7505-7a91-8283-ae48f4e4c85e",
+        "vm_id": "019fc8d9-7505-7a91-8283-ae48f4e4c85e"
+      },
+      "rosters_blocked": true,
+      "roster_source": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?teamId=6&week=15#teamMatchupFull=teamMatchupFull,%2Fleague%2F2074621%2Fhistory%2F2017%2Fteamgamecenter%253FteamId%253D2%2526week%253D15,replace",
+      "roster_extraction_note": "SlotCapacityExceeded refresh browser route - VM 019fc8d9 slot full - no admitted logical slot",
+      "data_completeness": "full"
     }
   ],
   "team_high": null,
@@ -113,8 +273,8 @@
   "data_completeness": "full",
   "verified": true,
   "source": "https://fantasy.nfl.com/league/2074621/history/2017/schedule?gameSeason=2017&leagueId=2074621&scheduleDetail=15&scheduleType=week&standingsTab=schedule",
-  "method": "leased_vm_browser_parse",
-  "extraction_date": "2026-08-03T19:22:04.820955Z",
+  "method": "leased_vm_browser_parse_roster_enrich_hash_trick_blocked_placeholder",
+  "extraction_date": "2026-08-03T20:06:47.883783Z",
   "player_stats_nfl_top10": [
     {
       "rank": 1,
@@ -347,5 +507,24 @@
     "targets": 5,
     "receiving_yards": 98,
     "receiving_tds": 2
+  },
+  "roster_enrichment": {
+    "vm_id": "019fc8d9-7505-7a91-8283-ae48f4e4c85e",
+    "browser_task": "browser-task:019fc8d9-7505-7a91-8283-ae48f4e4c85e",
+    "weeks": [
+      15
+    ],
+    "pairings": 4,
+    "fetch_method": "teamgamecenter hash trick teamA+teamB single DOM, wait table, get_html, parse tables 0-3",
+    "blocked": true,
+    "blocked_reason": "SlotCapacityExceeded refresh browser route - VM 019fc8d9 slot full - no admitted logical slot",
+    "placeholder_bytes": 615,
+    "note": "VM 019fc8d9-7505-7a91-8283-ae48f4e4c85e slot full / refresh browser route blocked. Documented placeholder per roster backfill worker 2017 W13-16 spec. JSON kept valid, rosters empty but structured. Credentials scrubbed.",
+    "teamgamecenter_urls": [
+      "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?teamId=1&week=15#teamMatchupFull=teamMatchupFull,%2Fleague%2F2074621%2Fhistory%2F2017%2Fteamgamecenter%253FteamId%253D5%2526week%253D15,replace",
+      "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?teamId=8&week=15#teamMatchupFull=teamMatchupFull,%2Fleague%2F2074621%2Fhistory%2F2017%2Fteamgamecenter%253FteamId%253D4%2526week%253D15,replace",
+      "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?teamId=7&week=15#teamMatchupFull=teamMatchupFull,%2Fleague%2F2074621%2Fhistory%2F2017%2Fteamgamecenter%253FteamId%253D3%2526week%253D15,replace",
+      "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?teamId=6&week=15#teamMatchupFull=teamMatchupFull,%2Fleague%2F2074621%2Fhistory%2F2017%2Fteamgamecenter%253FteamId%253D2%2526week%253D15,replace"
+    ]
   }
 }
