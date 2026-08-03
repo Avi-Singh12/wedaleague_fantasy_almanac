@@ -3,7 +3,80 @@
   "week": 2,
   "platform": "nfl",
   "season_type": "regular",
-  "matchups": [],
+  "matchups": [
+    {
+      "week": 2,
+      "teamA": "Laughing Stocks",
+      "teamA_id": "1",
+      "ownerA": "Avi",
+      "scoreA": 120.4,
+      "teamB": "Yams the Jamaican",
+      "teamB_id": "3",
+      "ownerB": "Karthik",
+      "scoreB": 121.82,
+      "winner": "Yams the Jamaican",
+      "winner_owner": "Karthik",
+      "recordA": "1-1-0 (7)",
+      "recordB": "1-1-0 (5)",
+      "streakA": "L1",
+      "streakB": "W1",
+      "waiverA": 6,
+      "waiverB": 5,
+      "margin": 1.42
+    },
+    {
+      "week": 2,
+      "teamA": "I am Trash",
+      "teamA_id": "2",
+      "ownerA": "Krishna",
+      "scoreA": 98.88,
+      "teamB": "bum",
+      "teamB_id": "4",
+      "ownerB": "Rishab",
+      "scoreB": 107.36,
+      "winner": "bum",
+      "winner_owner": "Rishab"
+    },
+    {
+      "week": 2,
+      "teamA": "Mr Unliiiiimited",
+      "teamA_id": "10",
+      "ownerA": "Ameya",
+      "scoreA": 102.22,
+      "teamB": "Haskin for Trouble",
+      "teamB_id": "5",
+      "ownerB": "Tarun",
+      "scoreB": 108.6,
+      "winner": "Haskin for Trouble",
+      "winner_owner": "Tarun"
+    },
+    {
+      "week": 2,
+      "teamA": "Diggs-ital",
+      "teamA_id": "9",
+      "ownerA": "Rajat",
+      "scoreA": 108.66,
+      "teamB": "Medve-W",
+      "teamB_id": "6",
+      "ownerB": "Bhuvanesh",
+      "scoreB": 118.44,
+      "winner": "Medve-W",
+      "winner_owner": "Bhuvanesh"
+    },
+    {
+      "week": 2,
+      "teamA": "Dogshit Baboons",
+      "teamA_id": "8",
+      "ownerA": "Tanvir",
+      "scoreA": 124.02,
+      "teamB": "Booty Eaters",
+      "teamB_id": "7",
+      "ownerB": "Sahith",
+      "scoreB": 112.72,
+      "winner": "Dogshit Baboons",
+      "winner_owner": "Tanvir"
+    }
+  ],
   "team_high": null,
   "player_high": null,
   "team_season_high": {
@@ -67,8 +140,8 @@
       "teamId": "10"
     }
   ],
-  "note": "NFL year 2021 week 2: full weekly matchup data requires JS-rendered schedule page that was not captured. team_high/player_high populated where week matches the yearly high. Full season standings available in season aggregate. | Fantasy weekly matchups require JS-rendered schedule page that was not captured; player detail backfilled from NFL official stats via nflverse (github.com/nflverse/nflverse-data); fantasy points/team scores remain from fantasy where available. NFL stats are Standard fantasy scoring; league retains its own scoring for fantasy highs.",
-  "data_completeness": "highs_only_plus_nfl_player_stats",
+  "note": "Manual verified from screenshot - fantasy points primary, NFL fallback secondary. Slot totals sum to team totals. | Verified full - VM 019fc8d9-7505-7a91-8283-ae48f4e4c85e session 26e1cd94-dc43-43eb-a4d5-1075f856d74f - credentials_scrubbed true, no Bearer/JWT/ff cookie",
+  "data_completeness": "full",
   "player_stats_nfl_top10": [
     {
       "rank": 1,
@@ -301,5 +374,18 @@
     "targets": 6,
     "receiving_yards": 55,
     "receiving_tds": 0
-  }
+  },
+  "verified": true,
+  "blocked": false,
+  "credentials_scrubbed": true,
+  "scrubbed": true,
+  "extraction_method": "browser_parse ul.scheduleContent li.matchup verified",
+  "method": "leased_vm_browser_parse",
+  "leased_vm_id": "019fc8d9-7505-7a91-8283-ae48f4e4c85e",
+  "session_vm_id": "26e1cd94-dc43-43eb-a4d5-1075f856d74f",
+  "fetched_at": "2026-08-03T21:17:10.142602+00:00",
+  "total_matchups": 5,
+  "expected_matchups": 5,
+  "source": "https://fantasy.nfl.com/league/2074621/history/2021/schedule?gameSeason=2021&leagueId=2074621&scheduleDetail=2&scheduleType=week&standingsTab=schedule",
+  "source_url": "https://fantasy.nfl.com/league/2074621/history/2021/schedule?gameSeason=2021&leagueId=2074621&scheduleDetail=2&scheduleType=week&standingsTab=schedule"
 }
