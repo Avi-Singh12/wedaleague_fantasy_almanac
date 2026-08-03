@@ -3,7 +3,63 @@
   "week": 11,
   "platform": "nfl",
   "season_type": "regular",
-  "matchups": [],
+  "matchups": [
+    {
+      "teamA": "Laughing Stocks",
+      "teamB": "ameyagadkari",
+      "teamIdA": "1",
+      "teamIdB": "3",
+      "ownerA": "Avi",
+      "ownerB": "Karthik",
+      "scoreA": 116.42,
+      "scoreB": 117.54,
+      "winner": "ameyagadkari"
+    },
+    {
+      "teamA": "bum",
+      "teamB": "I am Trash",
+      "teamIdA": "4",
+      "teamIdB": "2",
+      "ownerA": "Rishab",
+      "ownerB": "Krishna",
+      "scoreA": 63.18,
+      "scoreB": 97.34,
+      "winner": "I am Trash"
+    },
+    {
+      "teamA": "Haskin for Trouble",
+      "teamB": "Tua Time",
+      "teamIdA": "5",
+      "teamIdB": "10",
+      "ownerA": "Tarun",
+      "ownerB": "Ameya",
+      "scoreA": 115.74,
+      "scoreB": 80.32,
+      "winner": "Haskin for Trouble"
+    },
+    {
+      "teamA": "SteeredPrune",
+      "teamB": "Stefon Diggs' Mistress",
+      "teamIdA": "6",
+      "teamIdB": "9",
+      "ownerA": "Bhuvanesh",
+      "ownerB": "Rajat",
+      "scoreA": 101.86,
+      "scoreB": 123.54,
+      "winner": "Stefon Diggs' Mistress"
+    },
+    {
+      "teamA": "Booty Eaters",
+      "teamB": "Dogshit Baboons",
+      "teamIdA": "7",
+      "teamIdB": "8",
+      "ownerA": "Sahith",
+      "ownerB": "Tanvir",
+      "scoreA": 58.38,
+      "scoreB": 79.96,
+      "winner": "Dogshit Baboons"
+    }
+  ],
   "team_high": null,
   "player_high": null,
   "team_season_high": {
@@ -67,8 +123,8 @@
       "teamId": "10"
     }
   ],
-  "note": "NFL year 2020 week 11: full weekly matchup data requires JS-rendered schedule page that was not captured. team_high/player_high populated where week matches the yearly high. Full season standings available in season aggregate. | Fantasy weekly matchups require JS-rendered schedule page that was not captured; player detail backfilled from NFL official stats via nflverse (github.com/nflverse/nflverse-data); fantasy points/team scores remain from fantasy where available. NFL stats are Standard fantasy scoring; league retains its own scoring for fantasy highs.",
-  "data_completeness": "highs_only_plus_nfl_player_stats",
+  "note": "Week 11 matchup scores extracted from fantasy.nfl.com schedule page (2020) via leased VM 019fc8d9-7505-7a91-8283-ae48f4e4c85e. Verified ul.scheduleContent li.matchup teamWrap-1/2 teamTotal float extraction. Fantasy points primary. Credentials scrubbed.",
+  "data_completeness": "full",
   "player_stats_nfl_top10": [
     {
       "rank": 1,
@@ -301,5 +357,10 @@
     "targets": 19,
     "receiving_yards": 145,
     "receiving_tds": 1
-  }
+  },
+  "verified": true,
+  "credentials_scrubbed": true,
+  "total_matchups": 5,
+  "source": "https://fantasy.nfl.com/league/2074621/history/2020/schedule?gameSeason=2020&leagueId=2074621&scheduleDetail=11&scheduleType=week&standingsTab=schedule",
+  "blocked": false
 }
