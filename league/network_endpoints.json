@@ -1,0 +1,86 @@
+{
+  "currentUrl": "https://fantasy.nfl.com/league/2074621/history",
+  "verifiedTitle": "League History - Almanac | NFL Fantasy",
+  "privateLeagueAccess": "GRANTED - Error page 'You do not have permission' gone after login; server-rendered tables visible",
+  "endpointsObserved": [
+    {
+      "urlPattern": "https://fantasy.nfl.com/api/token",
+      "method": "GET",
+      "auth": "Cookie + NFL SSO session (returns JWT accessToken)",
+      "responseShape": {
+        "clientId": "string uuid",
+        "clientKey": "string",
+        "iss": "NFL",
+        "productName": "FANTASY",
+        "roles": [
+          "content",
+          "experience",
+          "football",
+          "teams",
+          "play",
+          "live",
+          "identity",
+          "ngs_stats",
+          "... many more"
+        ],
+        "city": "string",
+        "region": "string",
+        "dmaCode": "string",
+        "countryCode": "US",
+        "exp": "unix timestamp int",
+        "expiresIn": "int",
+        "accessToken": "[REDACTED JWT]",
+        "refreshToken": "[REDACTED]",
+        "claims": "[]"
+      },
+      "scrubbed": true,
+      "purpose": "Obtain Bearer token for ffsim proxy calls; required headers for subsequent API calls"
+    },
+    {
+      "urlPattern": "https://fantasy.nfl.com/api/proxy",
+      "method": "GET (Next.js rewrite)",
+      "queryParam": "?url=<encoded ffsim endpoint>",
+      "methodObserved": "404 without query; with query proxies to ffsim* domain",
+      "requiredHeaders": [
+        "Authorization: Bearer [REDACTED]",
+        "Cookie: ff=[REDACTED]; nfl.com SSO cookies",
+        "Referer: https://fantasy.nfl.com/league/2074621/history",
+        "User-Agent: Mozilla/5.0",
+        "x-nfl-fantasy-impersonate-user (allowed)"
+      ],
+      "purpose": "Proxy to ffsim01.api.fantasy.nfl.com, ffsim-product.api.fantasy.nfl.com, etc."
+    },
+    {
+      "urlPattern": "https://ffsim01.api.fantasy.nfl.com/* , https://ffsim-product.api.fantasy.nfl.com/*",
+      "method": "GET",
+      "auth": "Bearer JWT from /api/token + ff cookie",
+      "cors": "Allows https://www.nfl.com origin",
+      "endpointsInferredFromJSBundle": [
+        "/v1/{leagueId}",
+        "/league/{leagueId}",
+        "/api/v1/league/{leagueId}/details?season=YYYY",
+        "/api/league/{leagueId}/roster?teamId=X&season=YYYY",
+        "/api/league/{leagueId}/matchups?season=YYYY&week=N",
+        "/api/league/{leagueId}/draft?season=YYYY",
+        "/api/league/{leagueId}/standings/history"
+      ],
+      "statusWhenAuthed": "Requires valid league membership; returns JSON with games, standings, teams, roster, schedule, draft",
+      "statusWhenUnauthed": "404/403 or Remote closed connection"
+    },
+    {
+      "urlPattern": "https://id.nfl.com/oidc/op/v1.0/.../authorize?client_id=QQGrZiryRodzyfcyi_Cn-O-g&redirect_uri=https://fantasy.nfl.com&response_type=code&scope=openid profile email fantasy",
+      "purpose": "OIDC login redirect handling Gigya apikey 3_WPLZFkJ278FjSau2FfLCrTRUyksAjeYpcva-qIfGl71F4VWrI-7Xb5y0snqKXDva"
+    }
+  ],
+  "authEvidence": {
+    "cookiePresent": true,
+    "tokenPresent": true,
+    "localStorage": "Contains NFL ID tokens / Gigya session (present but values scrubbed per instruction)",
+    "emailInPage": "[REDACTED] - observed in footer of settings page as logged-in user indicator; scrubbed from report"
+  },
+  "screenshotsCaptured": [
+    "league_home snapshot bundle showing wedaleague Home with private league nav (Manage, Edit Settings, 10 teams, commissioner privileged)",
+    "history snapshot bundle showing LEAGUE HISTORY - ALMANAC with 12 seasons 2013-2024 champions table",
+    "standings/draftresults/transactions snapshots showing authenticated shell (JS-required placeholder but no permission error)"
+  ]
+}
