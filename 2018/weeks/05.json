@@ -15,7 +15,27 @@
       "ownerB": "Bhuvanesh",
       "scoreA": 126.64,
       "scoreB": 81.0,
-      "winner": "More Probable Than Not"
+      "winner": "More Probable Than Not",
+      "rosterA": {
+        "teamId": "1",
+        "owner": "Avi",
+        "teamName": "More Probable Than Not",
+        "total_points": 126.64,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "source_url": "https://fantasy.nfl.com/league/2074621/history/2018/teamgamecenter?teamId=1&week=5#teamMatchupFull=teamMatchupFull,%2Fleague%2F2074621%2Fhistory%2F2018%2Fteamgamecenter%253FteamId%253D6%2526week%253D5,replace"
+      },
+      "rosterB": {
+        "teamId": "6",
+        "owner": "Bhuvanesh",
+        "teamName": "SteeredPrune",
+        "total_points": 81.0,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "source_url": "https://fantasy.nfl.com/league/2074621/history/2018/teamgamecenter?teamId=6&week=5"
+      }
     },
     {
       "teamA": "Booty Eaters",
@@ -28,7 +48,27 @@
       "ownerB": "Tarun",
       "scoreA": 114.02,
       "scoreB": 94.34,
-      "winner": "Booty Eaters"
+      "winner": "Booty Eaters",
+      "rosterA": {
+        "teamId": "7",
+        "owner": "Sahith",
+        "teamName": "Booty Eaters",
+        "total_points": 114.02,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "source_url": "https://fantasy.nfl.com/league/2074621/history/2018/teamgamecenter?teamId=7&week=5#teamMatchupFull=teamMatchupFull,%2Fleague%2F2074621%2Fhistory%2F2018%2Fteamgamecenter%253FteamId%253D5%2526week%253D5,replace"
+      },
+      "rosterB": {
+        "teamId": "5",
+        "owner": "Tarun",
+        "teamName": "The Dream Team",
+        "total_points": 94.34,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "source_url": "https://fantasy.nfl.com/league/2074621/history/2018/teamgamecenter?teamId=5&week=5"
+      }
     },
     {
       "teamA": "Dogshit Baboons",
@@ -41,7 +81,27 @@
       "ownerB": "Rishab",
       "scoreA": 130.84,
       "scoreB": 115.6,
-      "winner": "Dogshit Baboons"
+      "winner": "Dogshit Baboons",
+      "rosterA": {
+        "teamId": "8",
+        "owner": "Tanvir",
+        "teamName": "Dogshit Baboons",
+        "total_points": 130.84,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "source_url": "https://fantasy.nfl.com/league/2074621/history/2018/teamgamecenter?teamId=8&week=5#teamMatchupFull=teamMatchupFull,%2Fleague%2F2074621%2Fhistory%2F2018%2Fteamgamecenter%253FteamId%253D4%2526week%253D5,replace"
+      },
+      "rosterB": {
+        "teamId": "4",
+        "owner": "Rishab",
+        "teamName": "kanye2020",
+        "total_points": 115.6,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "source_url": "https://fantasy.nfl.com/league/2074621/history/2018/teamgamecenter?teamId=4&week=5"
+      }
     },
     {
       "teamA": "I am Trash",
@@ -54,7 +114,27 @@
       "ownerB": "Karthik",
       "scoreA": 123.38,
       "scoreB": 121.16,
-      "winner": "I am Trash"
+      "winner": "I am Trash",
+      "rosterA": {
+        "teamId": "2",
+        "owner": "Krishna",
+        "teamName": "I am Trash",
+        "total_points": 123.38,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "source_url": "https://fantasy.nfl.com/league/2074621/history/2018/teamgamecenter?teamId=2&week=5#teamMatchupFull=teamMatchupFull,%2Fleague%2F2074621%2Fhistory%2F2018%2Fteamgamecenter%253FteamId%253D3%2526week%253D5,replace"
+      },
+      "rosterB": {
+        "teamId": "3",
+        "owner": "Karthik",
+        "teamName": "FF  Runner Up",
+        "total_points": 121.16,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "source_url": "https://fantasy.nfl.com/league/2074621/history/2018/teamgamecenter?teamId=3&week=5"
+      }
     }
   ],
   "team_high": null,
@@ -347,5 +427,7 @@
     "targets": 12,
     "receiving_yards": 112,
     "receiving_tds": 1
-  }
+  },
+  "roster_enrichment_attempt": "2026-08-03T20:06:14.173567Z",
+  "roster_status": "slot_capacity_exceeded_fallback_skeleton"
 }
