@@ -1,0 +1,62 @@
+{
+  "year": 2016,
+  "week": 9,
+  "platform": "nfl",
+  "season_type": "regular",
+  "matchups": [],
+  "team_high": null,
+  "player_high": null,
+  "team_season_high": {
+    "year": 2016,
+    "team": "More Probable Than Not",
+    "points": 1636.08
+  },
+  "champion": {
+    "team": "More Probable Than Not",
+    "owner": "Avi"
+  },
+  "owners": [
+    {
+      "owner": "Tanvir",
+      "team": "Barca Squad",
+      "teamId": "8"
+    },
+    {
+      "owner": "Avi",
+      "team": "More Probable Than Not",
+      "teamId": "1"
+    },
+    {
+      "owner": "Prem",
+      "team": "GettinBuckets",
+      "teamId": "7"
+    },
+    {
+      "owner": "Karthik",
+      "team": "FF Runner Up",
+      "teamId": "3"
+    },
+    {
+      "owner": "Krishna",
+      "team": "Arshdeep Throat",
+      "teamId": "2"
+    },
+    {
+      "owner": "Rishab",
+      "team": "trump2016",
+      "teamId": "4"
+    },
+    {
+      "owner": "Bhuvanesh",
+      "team": "SteeredPrune",
+      "teamId": "6"
+    },
+    {
+      "owner": "Tarun",
+      "team": "The Dream Team",
+      "teamId": "5"
+    }
+  ],
+  "note": "NFL year 2016 week 9: full weekly matchup data requires JS-rendered schedule page that was not captured. team_high/player_high populated where week matches the yearly high. Full season standings available in season aggregate.",
+  "data_completeness": "highs_only"
+}
