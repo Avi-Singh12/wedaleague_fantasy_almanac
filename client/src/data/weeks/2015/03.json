@@ -1,0 +1,668 @@
+{
+  "year": 2015,
+  "week": 3,
+  "platform": "nfl",
+  "season_type": "regular",
+  "matchups": [
+    {
+      "week": 3,
+      "teamA": "More Probable Than Not",
+      "teamB": "team sucks ass",
+      "teamIdA": "1",
+      "teamIdB": "4",
+      "teamA_id": "1",
+      "teamB_id": "4",
+      "ownerA": "Avi",
+      "ownerB": "Rishab",
+      "scoreA": 163.48,
+      "scoreB": 130.2,
+      "winner": "More Probable Than Not",
+      "winner_owner": "Avi",
+      "rosterA": {
+        "teamId": "1",
+        "team": "More Probable Than Not",
+        "owner": "Avi",
+        "total_points": 163.48,
+        "starters": [
+          {
+            "slot": "QB",
+            "player": "T. Brady",
+            "pos": "QB",
+            "nfl_team": "NE",
+            "opp": "JAX",
+            "points": 26.72
+          },
+          {
+            "slot": "RB",
+            "player": "D. Martin",
+            "pos": "RB",
+            "nfl_team": "TB",
+            "opp": "@HOU",
+            "points": 4.6
+          },
+          {
+            "slot": "RB",
+            "player": "J. Randle",
+            "pos": "RB",
+            "nfl_team": "",
+            "opp": "Bye",
+            "points": 28.5
+          },
+          {
+            "slot": "WR",
+            "player": "R. Cobb",
+            "pos": "WR",
+            "nfl_team": "GB",
+            "opp": "KC",
+            "points": 28.3
+          },
+          {
+            "slot": "WR",
+            "player": "O. Beckham",
+            "pos": "WR",
+            "nfl_team": "NYG",
+            "opp": "WAS",
+            "points": 13.9
+          },
+          {
+            "slot": "TE",
+            "player": "J. Graham",
+            "pos": "TE",
+            "nfl_team": "SEA",
+            "opp": "CHI",
+            "points": 14.3
+          },
+          {
+            "slot": "Q/R/W/T",
+            "player": "E. Manning",
+            "pos": "QB",
+            "nfl_team": "NYG",
+            "opp": "WAS",
+            "points": 27.16
+          },
+          {
+            "slot": "K",
+            "player": "M. Bryant",
+            "pos": "K",
+            "nfl_team": "ATL",
+            "opp": "@DAL",
+            "points": 7.0
+          },
+          {
+            "slot": "DEF",
+            "player": "Seahawks",
+            "pos": "DEF",
+            "nfl_team": "",
+            "opp": "CHI",
+            "points": 13.0
+          }
+        ],
+        "bench": [
+          {
+            "slot": "BN",
+            "player": "E. Royal",
+            "pos": "WR",
+            "nfl_team": "CHI",
+            "opp": "@SEA",
+            "points": 1.7
+          },
+          {
+            "slot": "BN",
+            "player": "A. Foster",
+            "pos": "RB",
+            "nfl_team": "HOU",
+            "opp": "TB",
+            "points": 0.0
+          },
+          {
+            "slot": "BN",
+            "player": "J. Thomas",
+            "pos": "TE",
+            "nfl_team": "JAC",
+            "opp": "@NE",
+            "points": 0.0
+          },
+          {
+            "slot": "BN",
+            "player": "K. Rudolph",
+            "pos": "TE",
+            "nfl_team": "MIN",
+            "opp": "LAC",
+            "points": 1.4
+          },
+          {
+            "slot": "BN",
+            "player": "T. Romo",
+            "pos": "QB",
+            "nfl_team": "DAL",
+            "opp": "ATL",
+            "points": 0.0
+          },
+          {
+            "slot": "BN",
+            "player": "A. Boldin",
+            "pos": "WR",
+            "nfl_team": "SF",
+            "opp": "@ARI",
+            "points": 1.6
+          },
+          {
+            "slot": "BN",
+            "player": "L. Fitzgerald",
+            "pos": "WR",
+            "nfl_team": "ARI",
+            "opp": "SF",
+            "points": 25.4
+          },
+          {
+            "slot": "BN",
+            "player": "V. Cruz",
+            "pos": "WR",
+            "nfl_team": "NYG",
+            "opp": "WAS",
+            "points": 0.0
+          },
+          {
+            "slot": "BN",
+            "player": "D. Baldwin",
+            "pos": "WR",
+            "nfl_team": "SEA",
+            "opp": "CHI",
+            "points": 3.5
+          },
+          {
+            "slot": "BN",
+            "player": "B. Quick",
+            "pos": "WR",
+            "nfl_team": "STL",
+            "opp": "PIT",
+            "points": 0.0
+          },
+          {
+            "slot": "BN",
+            "player": "D. Adams",
+            "pos": "WR",
+            "nfl_team": "GB",
+            "opp": "KC",
+            "points": 0.0
+          },
+          {
+            "slot": "BN",
+            "player": "J. Winston",
+            "pos": "QB",
+            "nfl_team": "TB",
+            "opp": "@HOU",
+            "points": 11.44
+          },
+          {
+            "slot": "BN",
+            "player": "T. Lockett",
+            "pos": "WR",
+            "nfl_team": "SEA",
+            "opp": "CHI",
+            "points": 6.0
+          },
+          {
+            "slot": "BN",
+            "player": "T. Coleman",
+            "pos": "RB",
+            "nfl_team": "ATL",
+            "opp": "@DAL",
+            "points": 0.0
+          },
+          {
+            "slot": "BN",
+            "player": "M. Gordon",
+            "pos": "RB",
+            "nfl_team": "LAC",
+            "opp": "@MIN",
+            "points": 5.1
+          },
+          {
+            "slot": "BN",
+            "player": "M. Jones",
+            "pos": "RB",
+            "nfl_team": "WAS",
+            "opp": "@NYG",
+            "points": -1.2
+          },
+          {
+            "slot": "BN",
+            "player": "M. Prater",
+            "pos": "K",
+            "nfl_team": "DET",
+            "opp": "DEN",
+            "points": 0.0
+          },
+          {
+            "slot": "BN",
+            "player": "C. Catanzaro",
+            "pos": "K",
+            "nfl_team": "ARI",
+            "opp": "SF",
+            "points": 9.0
+          },
+          {
+            "slot": "BN",
+            "player": "Bengals",
+            "pos": "DEF",
+            "nfl_team": "",
+            "opp": "@BAL",
+            "points": 8.5
+          },
+          {
+            "slot": "BN",
+            "player": "Broncos",
+            "pos": "DEF",
+            "nfl_team": "",
+            "opp": "@DET",
+            "points": 23.0
+          },
+          {
+            "slot": "RES",
+            "player": "J. Nelson",
+            "pos": "WR",
+            "nfl_team": "GB",
+            "opp": "KC",
+            "points": 0.0
+          },
+          {
+            "slot": "RES",
+            "player": "K. Benjamin",
+            "pos": "WR",
+            "nfl_team": "CAR",
+            "opp": "NO",
+            "points": 0.0
+          }
+        ],
+        "fetch_status": "full",
+        "source": "https://fantasy.nfl.com/league/2074621/history/2015/teamgamecenter?teamId=1&week=3"
+      },
+      "rosterB": {
+        "teamId": "4",
+        "team": "team sucks ass",
+        "owner": "Rishab",
+        "total_points": 130.2,
+        "starters": [
+          {
+            "slot": "QB",
+            "player": "R. Wilson",
+            "pos": "QB",
+            "nfl_team": "SEA",
+            "opp": "CHI",
+            "points": 18.2
+          },
+          {
+            "slot": "RB",
+            "player": "J. Charles",
+            "pos": "RB",
+            "nfl_team": "KC",
+            "opp": "@GB",
+            "points": 26.2
+          },
+          {
+            "slot": "RB",
+            "player": "L. McCoy",
+            "pos": "RB",
+            "nfl_team": "BUF",
+            "opp": "@MIA",
+            "points": 8.6
+          },
+          {
+            "slot": "WR",
+            "player": "J. Edelman",
+            "pos": "WR",
+            "nfl_team": "NE",
+            "opp": "JAX",
+            "points": 8.5
+          },
+          {
+            "slot": "WR",
+            "player": "D. Hopkins",
+            "pos": "WR",
+            "nfl_team": "HOU",
+            "opp": "TB",
+            "points": 16.1
+          },
+          {
+            "slot": "TE",
+            "player": "H. Miller",
+            "pos": "TE",
+            "nfl_team": "PIT",
+            "opp": "@LAR",
+            "points": 1.7
+          },
+          {
+            "slot": "Q/R/W/T",
+            "player": "C. Newton",
+            "pos": "QB",
+            "nfl_team": "CAR",
+            "opp": "NO",
+            "points": 33.9
+          },
+          {
+            "slot": "K",
+            "player": "M. Crosby",
+            "pos": "K",
+            "nfl_team": "GB",
+            "opp": "KC",
+            "points": 8.0
+          },
+          {
+            "slot": "DEF",
+            "player": "Texans",
+            "pos": "DEF",
+            "nfl_team": "",
+            "opp": "TB",
+            "points": 9.0
+          }
+        ],
+        "bench": [
+          {
+            "slot": "BN",
+            "player": "B. Hoyer",
+            "pos": "QB",
+            "nfl_team": "HOU",
+            "opp": "TB",
+            "points": 0.0
+          },
+          {
+            "slot": "BN",
+            "player": "G. Tate",
+            "pos": "WR",
+            "nfl_team": "DET",
+            "opp": "DEN",
+            "points": 5.7
+          },
+          {
+            "slot": "BN",
+            "player": "S. Vereen",
+            "pos": "RB",
+            "nfl_team": "NYG",
+            "opp": "WAS",
+            "points": 2.3
+          },
+          {
+            "slot": "BN",
+            "player": "J. Cutler",
+            "pos": "QB",
+            "nfl_team": "CHI",
+            "opp": "@SEA",
+            "points": 0.0
+          },
+          {
+            "slot": "BN",
+            "player": "B. Marshall",
+            "pos": "WR",
+            "nfl_team": "NYJ",
+            "opp": "PHI",
+            "points": 11.9
+          },
+          {
+            "slot": "BN",
+            "player": "C. Fleener",
+            "pos": "TE",
+            "nfl_team": "IND",
+            "opp": "@TEN",
+            "points": 5.1
+          },
+          {
+            "slot": "BN",
+            "player": "A. Jeffery",
+            "pos": "WR",
+            "nfl_team": "CHI",
+            "opp": "@SEA",
+            "points": 0.0
+          },
+          {
+            "slot": "BN",
+            "player": "R. Randle",
+            "pos": "WR",
+            "nfl_team": "NYG",
+            "opp": "WAS",
+            "points": 21.6
+          },
+          {
+            "slot": "BN",
+            "player": "L. Donnell",
+            "pos": "TE",
+            "nfl_team": "NYG",
+            "opp": "WAS",
+            "points": 3.2
+          },
+          {
+            "slot": "BN",
+            "player": "G. Bernard",
+            "pos": "RB",
+            "nfl_team": "CIN",
+            "opp": "@BAL",
+            "points": 8.3
+          },
+          {
+            "slot": "BN",
+            "player": "B. Bortles",
+            "pos": "QB",
+            "nfl_team": "JAC",
+            "opp": "@NE",
+            "points": 26.38
+          },
+          {
+            "slot": "BN",
+            "player": "A. Williams",
+            "pos": "RB",
+            "nfl_team": "NYG",
+            "opp": "WAS",
+            "points": 8.9
+          },
+          {
+            "slot": "BN",
+            "player": "G. Gano",
+            "pos": "K",
+            "nfl_team": "CAR",
+            "opp": "NO",
+            "points": 9.0
+          },
+          {
+            "slot": "BN",
+            "player": "R. Bullock",
+            "pos": "K",
+            "nfl_team": "NYJ",
+            "opp": "PHI",
+            "points": 7.0
+          },
+          {
+            "slot": "BN",
+            "player": "Chiefs",
+            "pos": "DEF",
+            "nfl_team": "",
+            "opp": "@GB",
+            "points": -1.0
+          },
+          {
+            "slot": "BN",
+            "player": "Vikings",
+            "pos": "DEF",
+            "nfl_team": "",
+            "opp": "LAC",
+            "points": 23.5
+          }
+        ],
+        "fetch_status": "full",
+        "source": "https://fantasy.nfl.com/league/2074621/history/2015/teamgamecenter?teamId=4&week=3"
+      }
+    },
+    {
+      "week": 3,
+      "teamA": "The Dream Team",
+      "teamB": "FF  Runner Up",
+      "teamIdA": "5",
+      "teamIdB": "3",
+      "teamA_id": "5",
+      "teamB_id": "3",
+      "ownerA": "Tarun",
+      "ownerB": "Karthik",
+      "scoreA": 98.08,
+      "scoreB": 103.28,
+      "winner": "FF  Runner Up",
+      "winner_owner": "Karthik",
+      "rosterA": {
+        "teamId": "5",
+        "team": "The Dream Team",
+        "owner": "Tarun",
+        "total_points": 98.08,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      },
+      "rosterB": {
+        "teamId": "3",
+        "team": "FF  Runner Up",
+        "owner": "Karthik",
+        "total_points": 103.28,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      }
+    },
+    {
+      "week": 3,
+      "teamA": "SteeredPrune",
+      "teamB": "Arshdeep Throat",
+      "teamIdA": "6",
+      "teamIdB": "2",
+      "teamA_id": "6",
+      "teamB_id": "2",
+      "ownerA": "Bhuvanesh",
+      "ownerB": "Krishna",
+      "scoreA": 132.76,
+      "scoreB": 106.4,
+      "winner": "SteeredPrune",
+      "winner_owner": "Bhuvanesh",
+      "rosterA": {
+        "teamId": "6",
+        "team": "SteeredPrune",
+        "owner": "Bhuvanesh",
+        "total_points": 132.76,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      },
+      "rosterB": {
+        "teamId": "2",
+        "team": "Arshdeep Throat",
+        "owner": "Krishna",
+        "total_points": 106.4,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      }
+    },
+    {
+      "week": 3,
+      "teamA": "GettinBuckets",
+      "teamB": "Barca Squad",
+      "teamIdA": "7",
+      "teamIdB": "8",
+      "teamA_id": "7",
+      "teamB_id": "8",
+      "ownerA": "Prem",
+      "ownerB": "Tanvir",
+      "scoreA": 127.08,
+      "scoreB": 152.6,
+      "winner": "Barca Squad",
+      "winner_owner": "Tanvir",
+      "rosterA": {
+        "teamId": "7",
+        "team": "GettinBuckets",
+        "owner": "Prem",
+        "total_points": 127.08,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      },
+      "rosterB": {
+        "teamId": "8",
+        "team": "Barca Squad",
+        "owner": "Tanvir",
+        "total_points": 152.6,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      }
+    }
+  ],
+  "team_high": null,
+  "player_high": null,
+  "team_season_high": {
+    "year": 2015,
+    "team": "More Probable Than Not",
+    "points": 1749.42
+  },
+  "champion": {
+    "team": "team sucks ass",
+    "owner": "Rishab"
+  },
+  "owners": [
+    {
+      "owner": "Avi",
+      "team": "More Probable Than Not",
+      "teamId": "1"
+    },
+    {
+      "owner": "Krishna",
+      "team": "Arshdeep Throat",
+      "teamId": "2"
+    },
+    {
+      "owner": "Karthik",
+      "team": "FF  Runner Up",
+      "teamId": "3"
+    },
+    {
+      "owner": "Tanvir",
+      "team": "Barca Squad",
+      "teamId": "8"
+    },
+    {
+      "owner": "Rishab",
+      "team": "team sucks ass",
+      "teamId": "4"
+    },
+    {
+      "owner": "Prem",
+      "team": "GettinBuckets",
+      "teamId": "7"
+    },
+    {
+      "owner": "Tarun",
+      "team": "The Dream Team",
+      "teamId": "5"
+    },
+    {
+      "owner": "Bhuvanesh",
+      "team": "SteeredPrune",
+      "teamId": "6"
+    }
+  ],
+  "data_completeness": "full",
+  "verified": true,
+  "blocked": false,
+  "credentials_scrubbed": true,
+  "scrubbed": true,
+  "source": "https://fantasy.nfl.com/league/2074621/history/2015/schedule?gameSeason=2015&leagueId=2074621&scheduleDetail=3&scheduleType=week&standingsTab=schedule",
+  "source_url": "https://fantasy.nfl.com/league/2074621/history/2015/schedule?gameSeason=2015&leagueId=2074621&scheduleDetail=3&scheduleType=week&standingsTab=schedule",
+  "method": "leased_vm_browser_parse",
+  "extraction_method": "browser_parse ul.scheduleContent - leased_vm 019fc961-d0c9-76e3-a99a-701dcc24c8e0",
+  "extraction_date": "2026-08-03T21:23:31.428836Z",
+  "fetched_at": "2026-08-03T21:23:31.428836Z",
+  "total_matchups": 4,
+  "expected_matchups": 4,
+  "note": "Unified reconstructed from leased VM browser parse of https://fantasy.nfl.com/league/2074621/history/2015/schedule?gameSeason=2015&leagueId=2074621&scheduleDetail=3&scheduleType=week&standingsTab=schedule - ul.scheduleContent li.matchup teamWrap-1/2 parsed; throttled 1.2s; credentials scrubbed; no invented scores; exact float from FINAL.",
+  "leased_vm_id": "019fc961-d0c9-76e3-a99a-701dcc24c8e0"
+}
