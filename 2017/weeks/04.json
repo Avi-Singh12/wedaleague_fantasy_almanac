@@ -5,6 +5,7 @@
   "season_type": "regular",
   "matchups": [
     {
+      "week": 4,
       "teamA": "More Probable Than Not",
       "teamB": "The Dream Team",
       "teamIdA": "1",
@@ -15,9 +16,11 @@
       "ownerB": "Tarun",
       "scoreA": 108.78,
       "scoreB": 68.24,
-      "winner": "More Probable Than Not"
+      "winner": "More Probable Than Not",
+      "winner_owner": "Avi"
     },
     {
+      "week": 4,
       "teamA": "kanye2020",
       "teamB": "SteeredPrune",
       "teamIdA": "4",
@@ -28,9 +31,11 @@
       "ownerB": "Bhuvanesh",
       "scoreA": 91.0,
       "scoreB": 101.02,
-      "winner": "SteeredPrune"
+      "winner": "SteeredPrune",
+      "winner_owner": "Bhuvanesh"
     },
     {
+      "week": 4,
       "teamA": "FF  Runner Up",
       "teamB": "Booty Eaters",
       "teamIdA": "3",
@@ -41,9 +46,11 @@
       "ownerB": "Sahith",
       "scoreA": 119.6,
       "scoreB": 104.88,
-      "winner": "FF  Runner Up"
+      "winner": "FF  Runner Up",
+      "winner_owner": "Karthik"
     },
     {
+      "week": 4,
       "teamA": "Dak Sucks Balls",
       "teamB": "Barca Squad",
       "teamIdA": "2",
@@ -54,7 +61,8 @@
       "ownerB": "Tanvir",
       "scoreA": 133.06,
       "scoreB": 64.06,
-      "winner": "Dak Sucks Balls"
+      "winner": "Dak Sucks Balls",
+      "winner_owner": "Krishna"
     }
   ],
   "team_high": null,
@@ -70,19 +78,9 @@
   },
   "owners": [
     {
-      "owner": "Tanvir",
-      "team": "Barca Squad",
-      "teamId": "8"
-    },
-    {
       "owner": "Avi",
       "team": "More Probable Than Not",
       "teamId": "1"
-    },
-    {
-      "owner": "Karthik",
-      "team": "FF Runner Up",
-      "teamId": "3"
     },
     {
       "owner": "Krishna",
@@ -90,9 +88,19 @@
       "teamId": "2"
     },
     {
+      "owner": "Karthik",
+      "team": "FF  Runner Up",
+      "teamId": "3"
+    },
+    {
       "owner": "Rishab",
       "team": "kanye2020",
       "teamId": "4"
+    },
+    {
+      "owner": "Tarun",
+      "team": "The Dream Team",
+      "teamId": "5"
     },
     {
       "owner": "Bhuvanesh",
@@ -105,247 +113,18 @@
       "teamId": "7"
     },
     {
-      "owner": "Tarun",
-      "team": "The Dream Team",
-      "teamId": "5"
+      "owner": "Tanvir",
+      "team": "Barca Squad",
+      "teamId": "8"
     }
   ],
   "data_completeness": "full",
   "verified": true,
+  "blocked": false,
+  "credentials_scrubbed": true,
+  "scrubbed": true,
   "source": "https://fantasy.nfl.com/league/2074621/history/2017/schedule?gameSeason=2017&leagueId=2074621&scheduleDetail=4&scheduleType=week&standingsTab=schedule",
   "method": "leased_vm_browser_parse",
-  "extraction_date": "2026-08-03T19:21:02.531915Z",
-  "player_stats_nfl_top10": [
-    {
-      "rank": 1,
-      "name": "Kareem Hunt",
-      "position": "RB",
-      "nfl_team": "KC",
-      "opponent": "NE",
-      "fantasy_points_nfl": 45.6,
-      "fantasy_points_std": 40.6,
-      "passing_yards": 0,
-      "passing_tds": 0,
-      "passing_interceptions": null,
-      "completions": 0,
-      "attempts": 0,
-      "carries": 17,
-      "rushing_yards": 148,
-      "rushing_tds": 1,
-      "receptions": 5,
-      "targets": 5,
-      "receiving_yards": 98,
-      "receiving_tds": 2
-    },
-    {
-      "rank": 2,
-      "name": "Alex Smith",
-      "position": "QB",
-      "nfl_team": "KC",
-      "opponent": "NE",
-      "fantasy_points_nfl": 31.02,
-      "fantasy_points_std": 31.02,
-      "passing_yards": 368,
-      "passing_tds": 4,
-      "passing_interceptions": null,
-      "completions": 28,
-      "attempts": 35,
-      "carries": 5,
-      "rushing_yards": 3,
-      "rushing_tds": 0,
-      "receptions": 0,
-      "targets": 0,
-      "receiving_yards": 0,
-      "receiving_tds": 0
-    },
-    {
-      "rank": 3,
-      "name": "Antonio Brown",
-      "position": "WR",
-      "nfl_team": "PIT",
-      "opponent": "CLE",
-      "fantasy_points_nfl": 29.2,
-      "fantasy_points_std": 18.2,
-      "passing_yards": 0,
-      "passing_tds": 0,
-      "passing_interceptions": null,
-      "completions": 0,
-      "attempts": 0,
-      "carries": 0,
-      "rushing_yards": 0,
-      "rushing_tds": 0,
-      "receptions": 11,
-      "targets": 11,
-      "receiving_yards": 182,
-      "receiving_tds": 0
-    },
-    {
-      "rank": 4,
-      "name": "Stefon Diggs",
-      "position": "WR",
-      "nfl_team": "MIN",
-      "opponent": "NO",
-      "fantasy_points_nfl": 27.7,
-      "fantasy_points_std": 20.7,
-      "passing_yards": 0,
-      "passing_tds": 0,
-      "passing_interceptions": null,
-      "completions": 0,
-      "attempts": 0,
-      "carries": 1,
-      "rushing_yards": -6,
-      "rushing_tds": 0,
-      "receptions": 7,
-      "targets": 8,
-      "receiving_yards": 93,
-      "receiving_tds": 2
-    },
-    {
-      "rank": 5,
-      "name": "Matthew Stafford",
-      "position": "QB",
-      "nfl_team": "DET",
-      "opponent": "ARI",
-      "fantasy_points_nfl": 27.08,
-      "fantasy_points_std": 27.08,
-      "passing_yards": 292,
-      "passing_tds": 4,
-      "passing_interceptions": null,
-      "completions": 29,
-      "attempts": 41,
-      "carries": 2,
-      "rushing_yards": 14,
-      "rushing_tds": 0,
-      "receptions": 0,
-      "targets": 0,
-      "receiving_yards": 0,
-      "receiving_tds": 0
-    },
-    {
-      "rank": 6,
-      "name": "Tyreek Hill",
-      "position": "WR",
-      "nfl_team": "KC",
-      "opponent": "NE",
-      "fantasy_points_nfl": 26.8,
-      "fantasy_points_std": 19.8,
-      "passing_yards": 0,
-      "passing_tds": 0,
-      "passing_interceptions": null,
-      "completions": 0,
-      "attempts": 0,
-      "carries": 2,
-      "rushing_yards": 5,
-      "rushing_tds": 0,
-      "receptions": 7,
-      "targets": 8,
-      "receiving_yards": 133,
-      "receiving_tds": 1
-    },
-    {
-      "rank": 7,
-      "name": "Sam Bradford",
-      "position": "QB",
-      "nfl_team": "MIN",
-      "opponent": "NO",
-      "fantasy_points_nfl": 25.54,
-      "fantasy_points_std": 25.54,
-      "passing_yards": 346,
-      "passing_tds": 3,
-      "passing_interceptions": null,
-      "completions": 27,
-      "attempts": 32,
-      "carries": 2,
-      "rushing_yards": -3,
-      "rushing_tds": 0,
-      "receptions": 0,
-      "targets": 0,
-      "receiving_yards": 0,
-      "receiving_tds": 0
-    },
-    {
-      "rank": 8,
-      "name": "Tarik Cohen",
-      "position": "RB",
-      "nfl_team": "CHI",
-      "opponent": "ATL",
-      "fantasy_points_nfl": 25.3,
-      "fantasy_points_std": 17.3,
-      "passing_yards": 0,
-      "passing_tds": 0,
-      "passing_interceptions": null,
-      "completions": 0,
-      "attempts": 0,
-      "carries": 5,
-      "rushing_yards": 66,
-      "rushing_tds": 0,
-      "receptions": 8,
-      "targets": 12,
-      "receiving_yards": 47,
-      "receiving_tds": 1
-    },
-    {
-      "rank": 9,
-      "name": "Adam Thielen",
-      "position": "WR",
-      "nfl_team": "MIN",
-      "opponent": "NO",
-      "fantasy_points_nfl": 24.7,
-      "fantasy_points_std": 15.7,
-      "passing_yards": 0,
-      "passing_tds": 0,
-      "passing_interceptions": null,
-      "completions": 0,
-      "attempts": 0,
-      "carries": 0,
-      "rushing_yards": 0,
-      "rushing_tds": 0,
-      "receptions": 9,
-      "targets": 10,
-      "receiving_yards": 157,
-      "receiving_tds": 0
-    },
-    {
-      "rank": 10,
-      "name": "Kenny Golladay",
-      "position": "WR",
-      "nfl_team": "DET",
-      "opponent": "ARI",
-      "fantasy_points_nfl": 22.9,
-      "fantasy_points_std": 18.9,
-      "passing_yards": 0,
-      "passing_tds": 0,
-      "passing_interceptions": null,
-      "completions": 0,
-      "attempts": 0,
-      "carries": 0,
-      "rushing_yards": 0,
-      "rushing_tds": 0,
-      "receptions": 4,
-      "targets": 7,
-      "receiving_yards": 69,
-      "receiving_tds": 2
-    }
-  ],
-  "player_high_nfl": {
-    "rank": 1,
-    "name": "Kareem Hunt",
-    "position": "RB",
-    "nfl_team": "KC",
-    "opponent": "NE",
-    "fantasy_points_nfl": 45.6,
-    "fantasy_points_std": 40.6,
-    "passing_yards": 0,
-    "passing_tds": 0,
-    "passing_interceptions": null,
-    "completions": 0,
-    "attempts": 0,
-    "carries": 17,
-    "rushing_yards": 148,
-    "rushing_tds": 1,
-    "receptions": 5,
-    "targets": 5,
-    "receiving_yards": 98,
-    "receiving_tds": 2
-  }
+  "total_matchups": 4,
+  "note": "Unified reconstructed from leased VM browser parse of https://fantasy.nfl.com/league/2074621/history/2017/schedule?gameSeason=2017&leagueId=2074621&scheduleDetail=4&scheduleType=week&standingsTab=schedule - ul.scheduleContent li.matchup teamWrap-1/2 parsed; throttled 1s; credentials scrubbed; no invented scores."
 }
