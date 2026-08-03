@@ -37,12 +37,12 @@
             "is_home": false,
             "points": 8.62,
             "starter": true,
-            "stats": "303 Pass Yds , 1 Pass TD , 1 Int , 5 Rush Yds , Rush TD , 1 Fum , 2PT , ...",
+            "stats": "303 Pass Yds, 1 Pass TD, 1 Int, 5 Rush Yds, Rush TD, 1 Fum, 2PT",
             "game_status": "Win, 19 - 14"
           },
           {
-            "roster_slot": "RB",
-            "slot": "RB",
+            "roster_slot": "RB-1",
+            "slot": "RB-1",
             "player": "L. Bell",
             "player_full": "L. Bell RB - PIT",
             "pos": "RB",
@@ -52,27 +52,27 @@
             "is_home": true,
             "points": 9.3,
             "starter": true,
-            "stats": "47 Rush Yds , Rush TD , Fum , 46 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "47 Rush Yds, Rush TD, Fum, 46 Rec Yds, Rec TD, 2PT",
             "game_status": "Loss, 9 - 30"
           },
           {
-            "roster_slot": "RB",
-            "slot": "RB",
-            "player": "",
+            "roster_slot": "RB-2",
+            "slot": "RB-2",
+            "player": "K. Hunt",
             "player_full": "K. Hunt RB - KC",
-            "pos": "K",
+            "pos": "RB",
             "nfl_team": "KC",
             "opp": "@HOU",
             "opp_team": "HOU",
             "is_home": false,
             "points": 11.6,
             "starter": true,
-            "stats": "107 Rush Yds , Rush TD , Fum , 9 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "107 Rush Yds, Rush TD, Fum, 9 Rec Yds, Rec TD, 2PT",
             "game_status": "Win, 42 - 34"
           },
           {
-            "roster_slot": "WR",
-            "slot": "WR",
+            "roster_slot": "WR-1",
+            "slot": "WR-1",
             "player": "G. Tate",
             "player_full": "G. Tate WR - DET",
             "pos": "WR",
@@ -82,12 +82,12 @@
             "is_home": true,
             "points": 4.8,
             "starter": true,
-            "stats": "48 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "48 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 24 - 27"
           },
           {
-            "roster_slot": "WR",
-            "slot": "WR",
+            "roster_slot": "WR-2",
+            "slot": "WR-2",
             "player": "T. Hilton",
             "player_full": "T. Hilton WR - IND",
             "pos": "WR",
@@ -97,7 +97,7 @@
             "is_home": true,
             "points": 17.7,
             "starter": true,
-            "stats": "177 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "177 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 26 - 23"
           },
           {
@@ -112,12 +112,12 @@
             "is_home": true,
             "points": 0.0,
             "starter": true,
-            "stats": "Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 22 - 27"
           },
           {
-            "roster_slot": "R/W/ T",
-            "slot": "R/W/ T",
+            "roster_slot": "R/W/T",
+            "slot": "R/W/T",
             "player": "J. Howard",
             "player_full": "J. Howard RB - CHI",
             "pos": "RB",
@@ -127,7 +127,7 @@
             "is_home": true,
             "points": 7.6,
             "starter": true,
-            "stats": "76 Rush Yds , Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "76 Rush Yds, Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": "Loss, 17 - 20"
           },
           {
@@ -142,7 +142,7 @@
             "is_home": true,
             "points": 6.0,
             "starter": true,
-            "stats": "3 PAT , PAT Miss , 0-19 , 20-29 , 1 30-39 , 40-49 , 50+ , Miss 0-19 , Miss 20-29 , Miss 30-39 , Miss 40-49 , Miss 50+ , ...",
+            "stats": "3 PAT, PAT Miss, 0-19, 20-29, 1 30-39, 40-49, 50+, Miss 0-19, Miss 20-29, Miss 30-39, Miss 40-49, Miss 50+",
             "game_status": "Loss, 24 - 27"
           },
           {
@@ -157,7 +157,7 @@
             "is_home": false,
             "points": 5.5,
             "starter": true,
-            "stats": "14 Pts , 2 Sck , Int , Fum , TD , Ret TD , Saf , ...",
+            "stats": "14 Pts, 2 Sck, Int, Fum, TD, Ret TD, Saf",
             "game_status": "Win, 19 - 14"
           }
         ],
@@ -174,7 +174,7 @@
             "is_home": true,
             "points": 18.32,
             "starter": false,
-            "stats": "328 Pass Yds , 1 Pass TD , 2 Int , 2 Rush Yds , Rush TD , Fum , 2PT , ...",
+            "stats": "328 Pass Yds, 1 Pass TD, 2 Int, 2 Rush Yds, Rush TD, Fum, 2PT",
             "game_status": "Win, 20 - 16"
           },
           {
@@ -189,7 +189,7 @@
             "is_home": false,
             "points": 2.9,
             "starter": false,
-            "stats": "29 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "29 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 35 - 31"
           },
           {
@@ -204,7 +204,7 @@
             "is_home": true,
             "points": 0.0,
             "starter": false,
-            "stats": "Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 20 - 16"
           },
           {
@@ -219,7 +219,7 @@
             "is_home": true,
             "points": 10.4,
             "starter": false,
-            "stats": "44 Rec Yds , 1 Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "44 Rec Yds, 1 Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 16 - 10"
           },
           {
@@ -234,7 +234,7 @@
             "is_home": true,
             "points": 1.6,
             "starter": false,
-            "stats": "16 Rush Yds , Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "16 Rush Yds, Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": "Win, 20 - 16"
           },
           {
@@ -249,7 +249,7 @@
             "is_home": false,
             "points": 0.0,
             "starter": false,
-            "stats": "Pass Yds , Pass TD , Int , Rush Yds , Rush TD , Fum , 2PT , ...",
+            "stats": "Pass Yds, Pass TD, Int, Rush Yds, Rush TD, Fum, 2PT",
             "game_status": "Loss, 23 - 26"
           },
           {
@@ -264,7 +264,7 @@
             "is_home": false,
             "points": 13.3,
             "starter": false,
-            "stats": "1 Rush Yds , Rush TD , Fum , 12 Rec Yds , 2 Rec TD , 2PT , ...",
+            "stats": "1 Rush Yds, Rush TD, Fum, 12 Rec Yds, 2 Rec TD, 2PT",
             "game_status": "Win, 42 - 34"
           },
           {
@@ -279,7 +279,7 @@
             "is_home": true,
             "points": 3.4,
             "starter": false,
-            "stats": "31 Rush Yds , Rush TD , Fum , 3 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "31 Rush Yds, Rush TD, Fum, 3 Rec Yds, Rec TD, 2PT",
             "game_status": "Loss, 24 - 27"
           },
           {
@@ -294,7 +294,7 @@
             "is_home": false,
             "points": 3.5,
             "starter": false,
-            "stats": "20 Rush Yds , Rush TD , Fum , 15 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "20 Rush Yds, Rush TD, Fum, 15 Rec Yds, Rec TD, 2PT",
             "game_status": "Win, 16 - 10"
           },
           {
@@ -309,7 +309,7 @@
             "is_home": true,
             "points": 0.9,
             "starter": false,
-            "stats": "9 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "9 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 22 - 27"
           },
           {
@@ -324,7 +324,7 @@
             "is_home": false,
             "points": 0.0,
             "starter": false,
-            "stats": "Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 10 - 16"
           },
           {
@@ -339,7 +339,7 @@
             "is_home": true,
             "points": 8.2,
             "starter": false,
-            "stats": "57 Rush Yds , Rush TD , Fum , 25 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "57 Rush Yds, Rush TD, Fum, 25 Rec Yds, Rec TD, 2PT",
             "game_status": "Loss, 22 - 27"
           },
           {
@@ -354,7 +354,7 @@
             "is_home": true,
             "points": 49.54,
             "starter": false,
-            "stats": "261 Pass Yds , 5 Pass TD , Int , 31 Rush Yds , Rush TD , Fum , 1 2PT , ...",
+            "stats": "261 Pass Yds, 5 Pass TD, Int, 31 Rush Yds, Rush TD, Fum, 1 2PT",
             "game_status": "Loss, 34 - 42"
           },
           {
@@ -369,7 +369,7 @@
             "is_home": false,
             "points": 10.0,
             "starter": false,
-            "stats": "1 PAT , PAT Miss , 0-19 , 1 20-29 , 2 30-39 , 40-49 , 50+ , Miss 0-19 , Miss 20-29 , Miss 30-39 , Miss 40-49 , Miss 50+ , ...",
+            "stats": "1 PAT, PAT Miss, 0-19, 1 20-29, 2 30-39, 40-49, 50+, Miss 0-19, Miss 20-29, Miss 30-39, Miss 40-49, Miss 50+",
             "game_status": "Loss, 16 - 20"
           },
           {
@@ -384,7 +384,7 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "Pts , Sck , Int , Fum , TD , Ret TD , Saf , ...",
+            "stats": "Pts, Sck, Int, Fum, TD, Ret TD, Saf",
             "game_status": ""
           },
           {
@@ -399,7 +399,7 @@
             "is_home": true,
             "points": 0.0,
             "starter": false,
-            "stats": "Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 17 - 20"
           },
           {
@@ -414,13 +414,13 @@
             "is_home": false,
             "points": 0.0,
             "starter": false,
-            "stats": "Rush Yds , Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "Rush Yds, Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": "Win, 20 - 17"
           }
         ],
         "fetch_status": "full",
-        "source_url": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?teamId=1&week=5#teamMatchupFull=teamMatchupFull%2C%2Fleague%2F2074621%2Fhistory%2F2017%2Fteamgamecenter%253FteamId%253D6%2526week%253D5%2Creplace",
-        "extraction_date": "2026-08-03T21:26:40.734320Z",
+        "source_url": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?leagueId=2074621&teamId=1&week=5",
+        "extraction_date": "2026-08-03T21:46:19.992612Z",
         "blocked": false
       },
       "rosterB": {
@@ -442,12 +442,12 @@
             "is_home": true,
             "points": 15.0,
             "starter": true,
-            "stats": "225 Pass Yds , 2 Pass TD , 1 Int , Rush Yds , Rush TD , 1 Fum , 2PT , ...",
+            "stats": "225 Pass Yds, 2 Pass TD, 1 Int, Rush Yds, Rush TD, 1 Fum, 2PT",
             "game_status": "Loss, 22 - 27"
           },
           {
-            "roster_slot": "RB",
-            "slot": "RB",
+            "roster_slot": "RB-1",
+            "slot": "RB-1",
             "player": "L. Fournette",
             "player_full": "L. Fournette RB - JAX",
             "pos": "RB",
@@ -457,12 +457,12 @@
             "is_home": false,
             "points": 39.4,
             "starter": true,
-            "stats": "181 Rush Yds , 2 Rush TD , Fum , 3 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "181 Rush Yds, 2 Rush TD, Fum, 3 Rec Yds, Rec TD, 2PT",
             "game_status": "Win, 30 - 9"
           },
           {
-            "roster_slot": "RB",
-            "slot": "RB",
+            "roster_slot": "RB-2",
+            "slot": "RB-2",
             "player": "C. McCaffrey",
             "player_full": "C. McCaffrey RB - CAR",
             "pos": "RB",
@@ -472,12 +472,12 @@
             "is_home": false,
             "points": 9.8,
             "starter": true,
-            "stats": "7 Rush Yds , Rush TD , Fum , 31 Rec Yds , 1 Rec TD , 2PT , ...",
+            "stats": "7 Rush Yds, Rush TD, Fum, 31 Rec Yds, 1 Rec TD, 2PT",
             "game_status": "Win, 27 - 24"
           },
           {
-            "roster_slot": "WR",
-            "slot": "WR",
+            "roster_slot": "WR-1",
+            "slot": "WR-1",
             "player": "J. Brown",
             "player_full": "J. Brown WR - ARI",
             "pos": "WR",
@@ -487,12 +487,12 @@
             "is_home": false,
             "points": 3.9,
             "starter": true,
-            "stats": "39 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "39 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 7 - 34"
           },
           {
-            "roster_slot": "WR",
-            "slot": "WR",
+            "roster_slot": "WR-2",
+            "slot": "WR-2",
             "player": "B. Cooks",
             "player_full": "B. Cooks WR - NE",
             "pos": "WR",
@@ -502,7 +502,7 @@
             "is_home": false,
             "points": 8.5,
             "starter": true,
-            "stats": "85 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "85 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 19 - 14"
           },
           {
@@ -517,12 +517,12 @@
             "is_home": false,
             "points": 8.9,
             "starter": true,
-            "stats": "29 Rec Yds , 1 Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "29 Rec Yds, 1 Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 17 - 14"
           },
           {
-            "roster_slot": "R/W/ T",
-            "slot": "R/W/ T",
+            "roster_slot": "R/W/T",
+            "slot": "R/W/T",
             "player": "D. Henry",
             "player_full": "D. Henry RB - TEN",
             "pos": "RB",
@@ -532,7 +532,7 @@
             "is_home": false,
             "points": 0.9,
             "starter": true,
-            "stats": "9 Rush Yds , Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "9 Rush Yds, Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": "Loss, 10 - 16"
           },
           {
@@ -547,7 +547,7 @@
             "is_home": false,
             "points": 13.0,
             "starter": true,
-            "stats": "1 PAT , PAT Miss , 0-19 , 2 20-29 , 30-39 , 2 40-49 , 50+ , Miss 0-19 , Miss 20-29 , Miss 30-39 , Miss 40-49 , Miss 50+ , ...",
+            "stats": "1 PAT, PAT Miss, 0-19, 2 20-29, 30-39, 2 40-49, 50+, Miss 0-19, Miss 20-29, Miss 30-39, Miss 40-49, Miss 50+",
             "game_status": "Win, 19 - 14"
           },
           {
@@ -562,7 +562,7 @@
             "is_home": false,
             "points": 5.0,
             "starter": true,
-            "stats": "34 Pts , 1 Sck , 1 Int , Fum , TD , Ret TD , Saf , ...",
+            "stats": "34 Pts, 1 Sck, 1 Int, Fum, TD, Ret TD, Saf",
             "game_status": "Loss, 7 - 34"
           }
         ],
@@ -579,7 +579,7 @@
             "is_home": false,
             "points": 4.4,
             "starter": false,
-            "stats": "21 Rush Yds , Rush TD , Fum , 23 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "21 Rush Yds, Rush TD, Fum, 23 Rec Yds, Rec TD, 2PT",
             "game_status": "Win, 27 - 24"
           },
           {
@@ -594,7 +594,7 @@
             "is_home": false,
             "points": 32.2,
             "starter": false,
-            "stats": "355 Pass Yds , 3 Pass TD , Int , Rush Yds , Rush TD , Fum , 2PT , ...",
+            "stats": "355 Pass Yds, 3 Pass TD, Int, Rush Yds, Rush TD, Fum, 2PT",
             "game_status": "Win, 27 - 24"
           },
           {
@@ -609,7 +609,7 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "Rush Yds , Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "Rush Yds, Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": ""
           },
           {
@@ -624,7 +624,7 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": ""
           },
           {
@@ -639,7 +639,7 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "Pass Yds , Pass TD , Int , Rush Yds , Rush TD , Fum , 2PT , ...",
+            "stats": "Pass Yds, Pass TD, Int, Rush Yds, Rush TD, Fum, 2PT",
             "game_status": ""
           },
           {
@@ -654,7 +654,7 @@
             "is_home": false,
             "points": 2.3,
             "starter": false,
-            "stats": "23 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "23 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 27 - 22"
           },
           {
@@ -669,7 +669,7 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": ""
           },
           {
@@ -684,7 +684,7 @@
             "is_home": true,
             "points": 14.2,
             "starter": false,
-            "stats": "74 Rush Yds , 1 Rush TD , Fum , 8 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "74 Rush Yds, 1 Rush TD, Fum, 8 Rec Yds, Rec TD, 2PT",
             "game_status": "Loss, 14 - 19"
           },
           {
@@ -699,22 +699,22 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": ""
           },
           {
             "roster_slot": "BN",
             "slot": "BN",
-            "player": "",
+            "player": "K. Benjamin",
             "player_full": "K. Benjamin WR - BUF",
-            "pos": "K",
+            "pos": "WR",
             "nfl_team": "BUF",
             "opp": "@CIN",
             "opp_team": "CIN",
             "is_home": false,
             "points": 11.8,
             "starter": false,
-            "stats": "58 Rec Yds , 1 Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "58 Rec Yds, 1 Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 16 - 20"
           },
           {
@@ -729,7 +729,7 @@
             "is_home": false,
             "points": 2.1,
             "starter": false,
-            "stats": "21 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "21 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 30 - 9"
           },
           {
@@ -744,7 +744,7 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "Rush Yds , Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "Rush Yds, Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": ""
           },
           {
@@ -759,7 +759,7 @@
             "is_home": true,
             "points": 50.26,
             "starter": false,
-            "stats": "304 Pass Yds , 4 Pass TD , 1 Int , 11 Rush Yds , Rush TD , Fum , 2PT , ...",
+            "stats": "304 Pass Yds, 4 Pass TD, 1 Int, 11 Rush Yds, Rush TD, Fum, 2PT",
             "game_status": "Win, 34 - 7"
           },
           {
@@ -774,7 +774,7 @@
             "is_home": false,
             "points": 10.2,
             "starter": false,
-            "stats": "42 Rec Yds , 1 Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "42 Rec Yds, 1 Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 27 - 22"
           },
           {
@@ -789,13 +789,13 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": ""
           }
         ],
         "fetch_status": "full",
-        "source_url": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?teamId=6&week=5",
-        "extraction_date": "2026-08-03T21:26:40.734320Z",
+        "source_url": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?leagueId=2074621&teamId=6&week=5",
+        "extraction_date": "2026-08-03T21:46:19.992612Z",
         "blocked": false
       }
     },
@@ -832,12 +832,12 @@
             "is_home": false,
             "points": 13.8,
             "starter": true,
-            "stats": "140 Pass Yds , 1 Pass TD , Int , 22 Rush Yds , Rush TD , Fum , 2PT , ...",
+            "stats": "140 Pass Yds, 1 Pass TD, Int, 22 Rush Yds, Rush TD, Fum, 2PT",
             "game_status": "Win, 20 - 17"
           },
           {
-            "roster_slot": "RB",
-            "slot": "RB",
+            "roster_slot": "RB-1",
+            "slot": "RB-1",
             "player": "T. Gurley",
             "player_full": "T. Gurley RB - LA",
             "pos": "RB",
@@ -847,12 +847,12 @@
             "is_home": true,
             "points": 0.0,
             "starter": true,
-            "stats": "43 Rush Yds , Rush TD , 1 Fum , 7 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "43 Rush Yds, Rush TD, 1 Fum, 7 Rec Yds, Rec TD, 2PT",
             "game_status": "Loss, 10 - 16"
           },
           {
-            "roster_slot": "RB",
-            "slot": "RB",
+            "roster_slot": "RB-2",
+            "slot": "RB-2",
             "player": "E. Elliott",
             "player_full": "E. Elliott RB - DAL",
             "pos": "RB",
@@ -862,12 +862,12 @@
             "is_home": true,
             "points": 13.2,
             "starter": true,
-            "stats": "116 Rush Yds , Rush TD , Fum , 16 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "116 Rush Yds, Rush TD, Fum, 16 Rec Yds, Rec TD, 2PT",
             "game_status": "Loss, 31 - 35"
           },
           {
-            "roster_slot": "WR",
-            "slot": "WR",
+            "roster_slot": "WR-1",
+            "slot": "WR-1",
             "player": "D. Bryant",
             "player_full": "D. Bryant WR - DAL",
             "pos": "WR",
@@ -877,12 +877,12 @@
             "is_home": true,
             "points": 11.2,
             "starter": true,
-            "stats": "52 Rec Yds , 1 Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "52 Rec Yds, 1 Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 31 - 35"
           },
           {
-            "roster_slot": "WR",
-            "slot": "WR",
+            "roster_slot": "WR-2",
+            "slot": "WR-2",
             "player": "S. Watkins",
             "player_full": "S. Watkins WR - LA",
             "pos": "WR",
@@ -892,27 +892,27 @@
             "is_home": true,
             "points": 0.0,
             "starter": true,
-            "stats": "Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 10 - 16"
           },
           {
             "roster_slot": "TE",
             "slot": "TE",
-            "player": "",
+            "player": "K. Rudolph",
             "player_full": "K. Rudolph TE - MIN",
-            "pos": "K",
+            "pos": "TE",
             "nfl_team": "MIN",
             "opp": "@CHI",
             "opp_team": "CHI",
             "is_home": false,
             "points": 10.5,
             "starter": true,
-            "stats": "45 Rec Yds , 1 Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "45 Rec Yds, 1 Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 20 - 17"
           },
           {
-            "roster_slot": "R/W/ T",
-            "slot": "R/W/ T",
+            "roster_slot": "R/W/T",
+            "slot": "R/W/T",
             "player": "M. Gillislee",
             "player_full": "M. Gillislee RB - NE",
             "pos": "RB",
@@ -922,13 +922,13 @@
             "is_home": false,
             "points": 5.2,
             "starter": true,
-            "stats": "52 Rush Yds , Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "52 Rush Yds, Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": "Win, 19 - 14"
           },
           {
             "roster_slot": "K",
             "slot": "K",
-            "player": "",
+            "player": "K. Forbath",
             "player_full": "K. Forbath K - MIN",
             "pos": "K",
             "nfl_team": "MIN",
@@ -937,7 +937,7 @@
             "is_home": false,
             "points": 8.0,
             "starter": true,
-            "stats": "2 PAT , PAT Miss , 0-19 , 2 20-29 , 30-39 , 40-49 , 50+ , Miss 0-19 , Miss 20-29 , Miss 30-39 , Miss 40-49 , Miss 50+ , ...",
+            "stats": "2 PAT, PAT Miss, 0-19, 2 20-29, 30-39, 40-49, 50+, Miss 0-19, Miss 20-29, Miss 30-39, Miss 40-49, Miss 50+",
             "game_status": "Win, 20 - 17"
           },
           {
@@ -952,7 +952,7 @@
             "is_home": false,
             "points": 31.0,
             "starter": true,
-            "stats": "10 Pts , 2 Sck , 2 Int , 3 Fum , TD , Ret TD , Saf , ...",
+            "stats": "10 Pts, 2 Sck, 2 Int, 3 Fum, TD, Ret TD, Saf",
             "game_status": "Win, 16 - 10"
           }
         ],
@@ -969,7 +969,7 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "Pass Yds , Pass TD , Int , Rush Yds , Rush TD , Fum , 2PT , ...",
+            "stats": "Pass Yds, Pass TD, Int, Rush Yds, Rush TD, Fum, 2PT",
             "game_status": ""
           },
           {
@@ -984,7 +984,7 @@
             "is_home": true,
             "points": 10.6,
             "starter": false,
-            "stats": "106 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "106 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 14 - 19"
           },
           {
@@ -999,7 +999,7 @@
             "is_home": true,
             "points": 18.2,
             "starter": false,
-            "stats": "82 Rec Yds , 1 Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "82 Rec Yds, 1 Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 17 - 30"
           },
           {
@@ -1014,7 +1014,7 @@
             "is_home": true,
             "points": 1.5,
             "starter": false,
-            "stats": "2 Rush Yds , Rush TD , Fum , 13 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "2 Rush Yds, Rush TD, Fum, 13 Rec Yds, Rec TD, 2PT",
             "game_status": "Loss, 14 - 19"
           },
           {
@@ -1029,7 +1029,7 @@
             "is_home": true,
             "points": 3.1,
             "starter": false,
-            "stats": "31 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "31 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 34 - 7"
           },
           {
@@ -1044,7 +1044,7 @@
             "is_home": true,
             "points": 0.0,
             "starter": false,
-            "stats": "Pass Yds , Pass TD , Int , Rush Yds , Rush TD , Fum , 2PT , ...",
+            "stats": "Pass Yds, Pass TD, Int, Rush Yds, Rush TD, Fum, 2PT",
             "game_status": "Loss, 17 - 30"
           },
           {
@@ -1059,7 +1059,7 @@
             "is_home": false,
             "points": 1.6,
             "starter": false,
-            "stats": "16 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "16 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 17 - 14"
           },
           {
@@ -1074,7 +1074,7 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "PAT , PAT Miss , 0-19 , 20-29 , 30-39 , 40-49 , 50+ , Miss 0-19 , Miss 20-29 , Miss 30-39 , Miss 40-49 , Miss 50+ , ...",
+            "stats": "PAT, PAT Miss, 0-19, 20-29, 30-39, 40-49, 50+, Miss 0-19, Miss 20-29, Miss 30-39, Miss 40-49, Miss 50+",
             "game_status": ""
           },
           {
@@ -1089,13 +1089,13 @@
             "is_home": true,
             "points": 14.5,
             "starter": false,
-            "stats": "16 Pts , 6 Sck , 1 Int , Fum , TD , Ret TD , Saf , ...",
+            "stats": "16 Pts, 6 Sck, 1 Int, Fum, TD, Ret TD, Saf",
             "game_status": "Win, 20 - 16"
           }
         ],
         "fetch_status": "full",
-        "source_url": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?teamId=7&week=5#teamMatchupFull=teamMatchupFull%2C%2Fleague%2F2074621%2Fhistory%2F2017%2Fteamgamecenter%253FteamId%253D5%2526week%253D5%2Creplace",
-        "extraction_date": "2026-08-03T21:26:49.441307Z",
+        "source_url": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?leagueId=2074621&teamId=7&week=5",
+        "extraction_date": "2026-08-03T21:46:19.992704Z",
         "blocked": false
       },
       "rosterB": {
@@ -1117,12 +1117,12 @@
             "is_home": false,
             "points": 32.86,
             "starter": true,
-            "stats": "324 Pass Yds , 3 Pass TD , Int , 19 Rush Yds , Rush TD , Fum , 2PT , ...",
+            "stats": "324 Pass Yds, 3 Pass TD, Int, 19 Rush Yds, Rush TD, Fum, 2PT",
             "game_status": "Win, 42 - 34"
           },
           {
-            "roster_slot": "RB",
-            "slot": "RB",
+            "roster_slot": "RB-1",
+            "slot": "RB-1",
             "player": "D. Murray",
             "player_full": "D. Murray RB - TEN",
             "pos": "RB",
@@ -1132,12 +1132,12 @@
             "is_home": false,
             "points": 1.9,
             "starter": true,
-            "stats": "58 Rush Yds , Rush TD , 1 Fum , 11 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "58 Rush Yds, Rush TD, 1 Fum, 11 Rec Yds, Rec TD, 2PT",
             "game_status": "Loss, 10 - 16"
           },
           {
-            "roster_slot": "RB",
-            "slot": "RB",
+            "roster_slot": "RB-2",
+            "slot": "RB-2",
             "player": "B. Powell",
             "player_full": "B. Powell RB - NYJ",
             "pos": "RB",
@@ -1147,12 +1147,12 @@
             "is_home": false,
             "points": 3.3,
             "starter": true,
-            "stats": "5 Rush Yds , Rush TD , Fum , 28 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "5 Rush Yds, Rush TD, Fum, 28 Rec Yds, Rec TD, 2PT",
             "game_status": "Win, 17 - 14"
           },
           {
-            "roster_slot": "WR",
-            "slot": "WR",
+            "roster_slot": "WR-1",
+            "slot": "WR-1",
             "player": "D. Baldwin",
             "player_full": "D. Baldwin WR - SEA",
             "pos": "WR",
@@ -1162,12 +1162,12 @@
             "is_home": false,
             "points": 3.7,
             "starter": true,
-            "stats": "37 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "37 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 16 - 10"
           },
           {
-            "roster_slot": "WR",
-            "slot": "WR",
+            "roster_slot": "WR-2",
+            "slot": "WR-2",
             "player": "S. Diggs",
             "player_full": "S. Diggs WR - MIN",
             "pos": "WR",
@@ -1177,7 +1177,7 @@
             "is_home": false,
             "points": 0.4,
             "starter": true,
-            "stats": "4 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "4 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 20 - 17"
           },
           {
@@ -1192,12 +1192,12 @@
             "is_home": false,
             "points": 3.1,
             "starter": true,
-            "stats": "31 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "31 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 16 - 20"
           },
           {
-            "roster_slot": "R/W/ T",
-            "slot": "R/W/ T",
+            "roster_slot": "R/W/T",
+            "slot": "R/W/T",
             "player": "C. Hyde",
             "player_full": "C. Hyde RB - SF",
             "pos": "RB",
@@ -1207,7 +1207,7 @@
             "is_home": false,
             "points": 1.8,
             "starter": true,
-            "stats": "11 Rush Yds , Rush TD , Fum , 7 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "11 Rush Yds, Rush TD, Fum, 7 Rec Yds, Rec TD, 2PT",
             "game_status": "Loss, 23 - 26"
           },
           {
@@ -1222,7 +1222,7 @@
             "is_home": true,
             "points": 4.0,
             "starter": true,
-            "stats": "1 PAT , PAT Miss , 0-19 , 20-29 , 1 30-39 , 40-49 , 50+ , Miss 0-19 , Miss 20-29 , 1 Miss 30-39 , Miss 40-49 , Miss 50+ , ...",
+            "stats": "1 PAT, PAT Miss, 0-19, 20-29, 1 30-39, 40-49, 50+, Miss 0-19, Miss 20-29, 1 Miss 30-39, Miss 40-49, Miss 50+",
             "game_status": "Loss, 10 - 16"
           },
           {
@@ -1237,7 +1237,7 @@
             "is_home": true,
             "points": 16.5,
             "starter": true,
-            "stats": "16 Pts , 3 Sck , 2 Int , Fum , TD , Ret TD , Saf , ...",
+            "stats": "16 Pts, 3 Sck, 2 Int, Fum, TD, Ret TD, Saf",
             "game_status": "Loss, 10 - 16"
           }
         ],
@@ -1254,7 +1254,7 @@
             "is_home": false,
             "points": 0.0,
             "starter": false,
-            "stats": "Rush Yds , Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "Rush Yds, Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": "Win, 17 - 14"
           },
           {
@@ -1269,7 +1269,7 @@
             "is_home": false,
             "points": 0.0,
             "starter": false,
-            "stats": "Rush Yds , Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "Rush Yds, Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": "Win, 30 - 17"
           },
           {
@@ -1284,7 +1284,7 @@
             "is_home": false,
             "points": 0.0,
             "starter": false,
-            "stats": "Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 19 - 14"
           },
           {
@@ -1299,7 +1299,7 @@
             "is_home": true,
             "points": -12.42,
             "starter": false,
-            "stats": "312 Pass Yds , Pass TD , 5 Int , 1 Rush Yds , Rush TD , Fum , 2PT , ...",
+            "stats": "312 Pass Yds, Pass TD, 5 Int, 1 Rush Yds, Rush TD, Fum, 2PT",
             "game_status": "Loss, 9 - 30"
           },
           {
@@ -1314,7 +1314,7 @@
             "is_home": false,
             "points": 18.6,
             "starter": false,
-            "stats": "66 Rec Yds , 2 Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "66 Rec Yds, 2 Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 35 - 31"
           },
           {
@@ -1329,7 +1329,7 @@
             "is_home": false,
             "points": 6.0,
             "starter": false,
-            "stats": "3 Rush Yds , Rush TD , Fum , 57 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "3 Rush Yds, Rush TD, Fum, 57 Rec Yds, Rec TD, 2PT",
             "game_status": "Win, 19 - 14"
           },
           {
@@ -1344,7 +1344,7 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": ""
           },
           {
@@ -1359,7 +1359,7 @@
             "is_home": false,
             "points": 0.0,
             "starter": false,
-            "stats": "Pass Yds , Pass TD , Int , Rush Yds , Rush TD , Fum , 2PT , ...",
+            "stats": "Pass Yds, Pass TD, Int, Rush Yds, Rush TD, Fum, 2PT",
             "game_status": "Loss, 10 - 16"
           },
           {
@@ -1374,7 +1374,7 @@
             "is_home": true,
             "points": 0.8,
             "starter": false,
-            "stats": "8 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "8 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 17 - 30"
           },
           {
@@ -1389,7 +1389,7 @@
             "is_home": false,
             "points": 4.4,
             "starter": false,
-            "stats": "80 Rec Yds , Rec TD , 1 Fum , 14 Rush Yds , Rush TD , 2PT , ...",
+            "stats": "80 Rec Yds, Rec TD, 1 Fum, 14 Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 7 - 34"
           },
           {
@@ -1404,7 +1404,7 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": ""
           },
           {
@@ -1419,7 +1419,7 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "Rush Yds , Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "Rush Yds, Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": ""
           },
           {
@@ -1434,7 +1434,7 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "PAT , PAT Miss , 0-19 , 20-29 , 30-39 , 40-49 , 50+ , Miss 0-19 , Miss 20-29 , Miss 30-39 , Miss 40-49 , Miss 50+ , ...",
+            "stats": "PAT, PAT Miss, 0-19, 20-29, 30-39, 40-49, 50+, Miss 0-19, Miss 20-29, Miss 30-39, Miss 40-49, Miss 50+",
             "game_status": ""
           },
           {
@@ -1449,7 +1449,7 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "PAT , PAT Miss , 0-19 , 20-29 , 30-39 , 40-49 , 50+ , Miss 0-19 , Miss 20-29 , Miss 30-39 , Miss 40-49 , Miss 50+ , ...",
+            "stats": "PAT, PAT Miss, 0-19, 20-29, 30-39, 40-49, 50+, Miss 0-19, Miss 20-29, Miss 30-39, Miss 40-49, Miss 50+",
             "game_status": ""
           },
           {
@@ -1464,7 +1464,7 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "Pts , Sck , Int , Fum , TD , Ret TD , Saf , ...",
+            "stats": "Pts, Sck, Int, Fum, TD, Ret TD, Saf",
             "game_status": ""
           },
           {
@@ -1479,13 +1479,13 @@
             "is_home": false,
             "points": 0.0,
             "starter": false,
-            "stats": "Rush Yds , Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "Rush Yds, Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": "Loss, 7 - 34"
           }
         ],
         "fetch_status": "full",
-        "source_url": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?teamId=5&week=5",
-        "extraction_date": "2026-08-03T21:26:49.441307Z",
+        "source_url": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?leagueId=2074621&teamId=5&week=5",
+        "extraction_date": "2026-08-03T21:46:19.992704Z",
         "blocked": false
       }
     },
@@ -1522,12 +1522,12 @@
             "is_home": true,
             "points": 16.16,
             "starter": true,
-            "stats": "229 Pass Yds , 2 Pass TD , Int , Rush Yds , Rush TD , 1 Fum , 2PT , ...",
+            "stats": "229 Pass Yds, 2 Pass TD, Int, Rush Yds, Rush TD, 1 Fum, 2PT",
             "game_status": "Loss, 24 - 27"
           },
           {
-            "roster_slot": "RB",
-            "slot": "RB",
+            "roster_slot": "RB-1",
+            "slot": "RB-1",
             "player": "I. Crowell",
             "player_full": "I. Crowell RB - CLE",
             "pos": "RB",
@@ -1537,12 +1537,12 @@
             "is_home": true,
             "points": 6.7,
             "starter": true,
-            "stats": "60 Rush Yds , Rush TD , Fum , 7 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "60 Rush Yds, Rush TD, Fum, 7 Rec Yds, Rec TD, 2PT",
             "game_status": "Loss, 14 - 17"
           },
           {
-            "roster_slot": "RB",
-            "slot": "RB",
+            "roster_slot": "RB-2",
+            "slot": "RB-2",
             "player": "J. Mixon",
             "player_full": "J. Mixon RB - CIN",
             "pos": "RB",
@@ -1552,12 +1552,12 @@
             "is_home": true,
             "points": 11.1,
             "starter": true,
-            "stats": "51 Rush Yds , 1 Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "51 Rush Yds, 1 Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": "Win, 20 - 16"
           },
           {
-            "roster_slot": "WR",
-            "slot": "WR",
+            "roster_slot": "WR-1",
+            "slot": "WR-1",
             "player": "A. Brown",
             "player_full": "A. Brown WR - PIT",
             "pos": "WR",
@@ -1567,12 +1567,12 @@
             "is_home": true,
             "points": 15.7,
             "starter": true,
-            "stats": "157 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "157 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 9 - 30"
           },
           {
-            "roster_slot": "WR",
-            "slot": "WR",
+            "roster_slot": "WR-2",
+            "slot": "WR-2",
             "player": "M. Evans",
             "player_full": "M. Evans WR - TB",
             "pos": "WR",
@@ -1582,7 +1582,7 @@
             "is_home": true,
             "points": 4.9,
             "starter": true,
-            "stats": "49 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "49 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 14 - 19"
           },
           {
@@ -1597,12 +1597,12 @@
             "is_home": true,
             "points": -2.5,
             "starter": true,
-            "stats": "25 Rec Yds , Rec TD , 1 Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "25 Rec Yds, Rec TD, 1 Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 17 - 30"
           },
           {
-            "roster_slot": "R/W/ T",
-            "slot": "R/W/ T",
+            "roster_slot": "R/W/T",
+            "slot": "R/W/T",
             "player": "L. Blount",
             "player_full": "L. Blount RB - PHI",
             "pos": "RB",
@@ -1612,7 +1612,7 @@
             "is_home": true,
             "points": 7.4,
             "starter": true,
-            "stats": "74 Rush Yds , Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "74 Rush Yds, Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": "Win, 34 - 7"
           },
           {
@@ -1627,7 +1627,7 @@
             "is_home": false,
             "points": 5.0,
             "starter": true,
-            "stats": "2 PAT , 2 PAT Miss , 0-19 , 1 20-29 , 30-39 , 40-49 , 50+ , Miss 0-19 , Miss 20-29 , Miss 30-39 , Miss 40-49 , Miss 50+ , ...",
+            "stats": "2 PAT, 2 PAT Miss, 0-19, 1 20-29, 30-39, 40-49, 50+, Miss 0-19, Miss 20-29, Miss 30-39, Miss 40-49, Miss 50+",
             "game_status": "Win, 35 - 31"
           },
           {
@@ -1642,7 +1642,7 @@
             "is_home": false,
             "points": 14.5,
             "starter": true,
-            "stats": "15 Pts , 1 Sck , 1 Int , 1 Fum , TD , Ret TD , Saf , ...",
+            "stats": "15 Pts, 1 Sck, 1 Int, 1 Fum, TD, Ret TD, Saf",
             "game_status": "Win, 20 - 17"
           }
         ],
@@ -1659,7 +1659,7 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": ""
           },
           {
@@ -1674,7 +1674,7 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": ""
           },
           {
@@ -1689,7 +1689,7 @@
             "is_home": false,
             "points": 0.0,
             "starter": false,
-            "stats": "Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 27 - 24"
           },
           {
@@ -1704,7 +1704,7 @@
             "is_home": false,
             "points": 13.3,
             "starter": false,
-            "stats": "133 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "133 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 30 - 17"
           },
           {
@@ -1719,7 +1719,7 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": ""
           },
           {
@@ -1734,7 +1734,7 @@
             "is_home": true,
             "points": 0.0,
             "starter": false,
-            "stats": "Pass Yds , Pass TD , Int , Rush Yds , Rush TD , Fum , 2PT , ...",
+            "stats": "Pass Yds, Pass TD, Int, Rush Yds, Rush TD, Fum, 2PT",
             "game_status": "Win, 26 - 23"
           },
           {
@@ -1749,7 +1749,7 @@
             "is_home": false,
             "points": 0.0,
             "starter": false,
-            "stats": "Rush Yds , Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "Rush Yds, Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": "Win, 42 - 34"
           },
           {
@@ -1764,7 +1764,7 @@
             "is_home": false,
             "points": 0.0,
             "starter": false,
-            "stats": "Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 16 - 20"
           },
           {
@@ -1779,7 +1779,7 @@
             "is_home": true,
             "points": 3.2,
             "starter": false,
-            "stats": "32 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "32 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 26 - 23"
           },
           {
@@ -1794,22 +1794,22 @@
             "is_home": false,
             "points": 8.6,
             "starter": false,
-            "stats": "26 Rec Yds , 1 Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "26 Rec Yds, 1 Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 7 - 34"
           },
           {
             "roster_slot": "BN",
             "slot": "BN",
-            "player": "",
+            "player": "K. White",
             "player_full": "K. White WR - CHI",
-            "pos": "K",
+            "pos": "WR",
             "nfl_team": "CHI",
             "opp": "MIN",
             "opp_team": "MIN",
             "is_home": true,
             "points": 0.0,
             "starter": false,
-            "stats": "Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 17 - 20"
           },
           {
@@ -1824,7 +1824,7 @@
             "is_home": true,
             "points": 0.0,
             "starter": false,
-            "stats": "Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 20 - 16"
           },
           {
@@ -1839,7 +1839,7 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "Rush Yds , Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "Rush Yds, Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": ""
           },
           {
@@ -1854,7 +1854,7 @@
             "is_home": false,
             "points": 12.0,
             "starter": false,
-            "stats": "3 PAT , PAT Miss , 0-19 , 2 20-29 , 30-39 , 1 40-49 , 50+ , Miss 0-19 , Miss 20-29 , Miss 30-39 , Miss 40-49 , Miss 50+ , ...",
+            "stats": "3 PAT, PAT Miss, 0-19, 2 20-29, 30-39, 1 40-49, 50+, Miss 0-19, Miss 20-29, Miss 30-39, Miss 40-49, Miss 50+",
             "game_status": "Win, 30 - 17"
           },
           {
@@ -1869,13 +1869,13 @@
             "is_home": false,
             "points": 11.0,
             "starter": false,
-            "stats": "24 Pts , 6 Sck , Int , 1 Fum , TD , Ret TD , Saf , ...",
+            "stats": "24 Pts, 6 Sck, Int, 1 Fum, TD, Ret TD, Saf",
             "game_status": "Win, 27 - 24"
           }
         ],
         "fetch_status": "full",
-        "source_url": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?teamId=8&week=5#teamMatchupFull=teamMatchupFull%2C%2Fleague%2F2074621%2Fhistory%2F2017%2Fteamgamecenter%253FteamId%253D4%2526week%253D5%2Creplace",
-        "extraction_date": "2026-08-03T21:26:58.310523Z",
+        "source_url": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?leagueId=2074621&teamId=8&week=5",
+        "extraction_date": "2026-08-03T21:46:19.992738Z",
         "blocked": false
       },
       "rosterB": {
@@ -1897,12 +1897,12 @@
             "is_home": false,
             "points": 10.52,
             "starter": true,
-            "stats": "198 Pass Yds , 1 Pass TD , 1 Int , 16 Rush Yds , Rush TD , Fum , 2PT , ...",
+            "stats": "198 Pass Yds, 1 Pass TD, 1 Int, 16 Rush Yds, Rush TD, Fum, 2PT",
             "game_status": "Win, 16 - 10"
           },
           {
-            "roster_slot": "RB",
-            "slot": "RB",
+            "roster_slot": "RB-1",
+            "slot": "RB-1",
             "player": "L. McCoy",
             "player_full": "L. McCoy RB - BUF",
             "pos": "RB",
@@ -1912,12 +1912,12 @@
             "is_home": false,
             "points": 8.9,
             "starter": true,
-            "stats": "63 Rush Yds , Rush TD , Fum , 26 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "63 Rush Yds, Rush TD, Fum, 26 Rec Yds, Rec TD, 2PT",
             "game_status": "Loss, 16 - 20"
           },
           {
-            "roster_slot": "RB",
-            "slot": "RB",
+            "roster_slot": "RB-2",
+            "slot": "RB-2",
             "player": "J. Ajayi",
             "player_full": "J. Ajayi RB - PHI",
             "pos": "RB",
@@ -1927,12 +1927,12 @@
             "is_home": true,
             "points": 2.9,
             "starter": true,
-            "stats": "77 Rush Yds , Rush TD , 1 Fum , 2 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "77 Rush Yds, Rush TD, 1 Fum, 2 Rec Yds, Rec TD, 2PT",
             "game_status": "Win, 34 - 7"
           },
           {
-            "roster_slot": "WR",
-            "slot": "WR",
+            "roster_slot": "WR-1",
+            "slot": "WR-1",
             "player": "P. Garcon",
             "player_full": "P. Garcon WR - SF",
             "pos": "WR",
@@ -1942,12 +1942,12 @@
             "is_home": false,
             "points": 9.4,
             "starter": true,
-            "stats": "94 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "94 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 23 - 26"
           },
           {
-            "roster_slot": "WR",
-            "slot": "WR",
+            "roster_slot": "WR-2",
+            "slot": "WR-2",
             "player": "T. Hill",
             "player_full": "T. Hill WR - KC",
             "pos": "WR",
@@ -1957,7 +1957,7 @@
             "is_home": false,
             "points": 12.8,
             "starter": true,
-            "stats": "68 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "68 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 42 - 34"
           },
           {
@@ -1972,12 +1972,12 @@
             "is_home": false,
             "points": 2.5,
             "starter": true,
-            "stats": "25 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "25 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 10 - 16"
           },
           {
-            "roster_slot": "R/W/ T",
-            "slot": "R/W/ T",
+            "roster_slot": "R/W/T",
+            "slot": "R/W/T",
             "player": "F. Gore",
             "player_full": "F. Gore RB - IND",
             "pos": "RB",
@@ -1987,7 +1987,7 @@
             "is_home": true,
             "points": 8.6,
             "starter": true,
-            "stats": "48 Rush Yds , Rush TD , Fum , 38 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "48 Rush Yds, Rush TD, Fum, 38 Rec Yds, Rec TD, 2PT",
             "game_status": "Win, 26 - 23"
           },
           {
@@ -2002,7 +2002,7 @@
             "is_home": true,
             "points": 7.0,
             "starter": true,
-            "stats": "4 PAT , PAT Miss , 0-19 , 20-29 , 30-39 , 1 40-49 , 50+ , Miss 0-19 , Miss 20-29 , Miss 30-39 , Miss 40-49 , Miss 50+ , ...",
+            "stats": "4 PAT, PAT Miss, 0-19, 20-29, 30-39, 1 40-49, 50+, Miss 0-19, Miss 20-29, Miss 30-39, Miss 40-49, Miss 50+",
             "game_status": "Loss, 31 - 35"
           },
           {
@@ -2017,7 +2017,7 @@
             "is_home": true,
             "points": 10.5,
             "starter": true,
-            "stats": "18 Pts , 2 Sck , 1 Int , Fum , TD , Ret TD , Saf , ...",
+            "stats": "18 Pts, 2 Sck, 1 Int, Fum, TD, Ret TD, Saf",
             "game_status": "Loss, 9 - 30"
           }
         ],
@@ -2034,7 +2034,7 @@
             "is_home": false,
             "points": 7.94,
             "starter": false,
-            "stats": "166 Pass Yds , 1 Pass TD , 1 Int , 3 Rush Yds , Rush TD , Fum , 2PT , ...",
+            "stats": "166 Pass Yds, 1 Pass TD, 1 Int, 3 Rush Yds, Rush TD, Fum, 2PT",
             "game_status": "Loss, 16 - 20"
           },
           {
@@ -2049,7 +2049,7 @@
             "is_home": true,
             "points": 11.3,
             "starter": false,
-            "stats": "43 Rush Yds , 1 Rush TD , Fum , 10 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "43 Rush Yds, 1 Rush TD, Fum, 10 Rec Yds, Rec TD, 2PT",
             "game_status": "Loss, 17 - 30"
           },
           {
@@ -2064,7 +2064,7 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": ""
           },
           {
@@ -2079,7 +2079,7 @@
             "is_home": true,
             "points": 3.2,
             "starter": false,
-            "stats": "2 Rush Yds , Rush TD , Fum , 30 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "2 Rush Yds, Rush TD, Fum, 30 Rec Yds, Rec TD, 2PT",
             "game_status": "Win, 20 - 16"
           },
           {
@@ -2094,7 +2094,7 @@
             "is_home": false,
             "points": 2.8,
             "starter": false,
-            "stats": "19 Rush Yds , Rush TD , Fum , 9 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "19 Rush Yds, Rush TD, Fum, 9 Rec Yds, Rec TD, 2PT",
             "game_status": "Win, 16 - 10"
           },
           {
@@ -2109,7 +2109,7 @@
             "is_home": true,
             "points": 0.6,
             "starter": false,
-            "stats": "6 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "6 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 24 - 27"
           },
           {
@@ -2124,7 +2124,7 @@
             "is_home": false,
             "points": 0.0,
             "starter": false,
-            "stats": "Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 30 - 9"
           },
           {
@@ -2139,7 +2139,7 @@
             "is_home": true,
             "points": 3.4,
             "starter": false,
-            "stats": "21 Rec Yds , Rec TD , Fum , 13 Rush Yds , Rush TD , 2PT , ...",
+            "stats": "21 Rec Yds, Rec TD, Fum, 13 Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 9 - 30"
           },
           {
@@ -2154,7 +2154,7 @@
             "is_home": true,
             "points": 3.4,
             "starter": false,
-            "stats": "3 Rush Yds , Rush TD , Fum , 31 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "3 Rush Yds, Rush TD, Fum, 31 Rec Yds, Rec TD, 2PT",
             "game_status": "Loss, 14 - 19"
           },
           {
@@ -2169,7 +2169,7 @@
             "is_home": false,
             "points": 3.3,
             "starter": false,
-            "stats": "26 Rec Yds , Rec TD , Fum , 7 Rush Yds , Rush TD , 2PT , ...",
+            "stats": "26 Rec Yds, Rec TD, Fum, 7 Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 16 - 10"
           },
           {
@@ -2184,7 +2184,7 @@
             "is_home": false,
             "points": 0.0,
             "starter": false,
-            "stats": "Rush Yds , Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "Rush Yds, Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": "Win, 16 - 10"
           },
           {
@@ -2199,7 +2199,7 @@
             "is_home": false,
             "points": 0.9,
             "starter": false,
-            "stats": "9 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "9 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 16 - 20"
           },
           {
@@ -2214,7 +2214,7 @@
             "is_home": false,
             "points": 0.0,
             "starter": false,
-            "stats": "Rush Yds , Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "Rush Yds, Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": "Loss, 23 - 26"
           },
           {
@@ -2229,7 +2229,7 @@
             "is_home": false,
             "points": 7.0,
             "starter": false,
-            "stats": "2 PAT , PAT Miss , 0-19 , 20-29 , 30-39 , 40-49 , 1 50+ , Miss 0-19 , Miss 20-29 , Miss 30-39 , Miss 40-49 , Miss 50+ , ...",
+            "stats": "2 PAT, PAT Miss, 0-19, 20-29, 30-39, 40-49, 1 50+, Miss 0-19, Miss 20-29, Miss 30-39, Miss 40-49, Miss 50+",
             "game_status": "Win, 17 - 14"
           },
           {
@@ -2244,13 +2244,13 @@
             "is_home": false,
             "points": 13.0,
             "starter": false,
-            "stats": "34 Pts , 3 Sck , Int , 1 Fum , TD , 1 Ret TD , Saf , ...",
+            "stats": "34 Pts, 3 Sck, Int, 1 Fum, TD, 1 Ret TD, Saf",
             "game_status": "Win, 42 - 34"
           }
         ],
         "fetch_status": "full",
-        "source_url": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?teamId=4&week=5",
-        "extraction_date": "2026-08-03T21:26:58.310523Z",
+        "source_url": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?leagueId=2074621&teamId=4&week=5",
+        "extraction_date": "2026-08-03T21:46:19.992738Z",
         "blocked": false
       }
     },
@@ -2287,12 +2287,12 @@
             "is_home": false,
             "points": 30.04,
             "starter": true,
-            "stats": "221 Pass Yds , 3 Pass TD , Int , 32 Rush Yds , Rush TD , Fum , 2PT , ...",
+            "stats": "221 Pass Yds, 3 Pass TD, Int, 32 Rush Yds, Rush TD, Fum, 2PT",
             "game_status": "Win, 35 - 31"
           },
           {
-            "roster_slot": "RB",
-            "slot": "RB",
+            "roster_slot": "RB-1",
+            "slot": "RB-1",
             "player": "L. Miller",
             "player_full": "L. Miller RB - HOU",
             "pos": "RB",
@@ -2302,12 +2302,12 @@
             "is_home": true,
             "points": 8.9,
             "starter": true,
-            "stats": "74 Rush Yds , Rush TD , Fum , 15 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "74 Rush Yds, Rush TD, Fum, 15 Rec Yds, Rec TD, 2PT",
             "game_status": "Loss, 34 - 42"
           },
           {
-            "roster_slot": "RB",
-            "slot": "RB",
+            "roster_slot": "RB-2",
+            "slot": "RB-2",
             "player": "M. Gordon",
             "player_full": "M. Gordon RB - LAC",
             "pos": "RB",
@@ -2317,12 +2317,12 @@
             "is_home": false,
             "points": 28.3,
             "starter": true,
-            "stats": "105 Rush Yds , Rush TD , Fum , 58 Rec Yds , 2 Rec TD , 2PT , ...",
+            "stats": "105 Rush Yds, Rush TD, Fum, 58 Rec Yds, 2 Rec TD, 2PT",
             "game_status": "Win, 27 - 22"
           },
           {
-            "roster_slot": "WR",
-            "slot": "WR",
+            "roster_slot": "WR-1",
+            "slot": "WR-1",
             "player": "D. Hopkins",
             "player_full": "D. Hopkins WR - HOU",
             "pos": "WR",
@@ -2332,12 +2332,12 @@
             "is_home": true,
             "points": 23.2,
             "starter": true,
-            "stats": "52 Rec Yds , 3 Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "52 Rec Yds, 3 Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 34 - 42"
           },
           {
-            "roster_slot": "WR",
-            "slot": "WR",
+            "roster_slot": "WR-2",
+            "slot": "WR-2",
             "player": "O. Beckham",
             "player_full": "O. Beckham WR - NYG",
             "pos": "WR",
@@ -2347,7 +2347,7 @@
             "is_home": true,
             "points": 20.5,
             "starter": true,
-            "stats": "97 Rec Yds , 1 Rec TD , Fum , 8 Rush Yds , Rush TD , 2PT , ...",
+            "stats": "97 Rec Yds, 1 Rec TD, Fum, 8 Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 22 - 27"
           },
           {
@@ -2362,12 +2362,12 @@
             "is_home": true,
             "points": 12.1,
             "starter": true,
-            "stats": "61 Rec Yds , 1 Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "61 Rec Yds, 1 Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 34 - 7"
           },
           {
-            "roster_slot": "R/W/ T",
-            "slot": "R/W/ T",
+            "roster_slot": "R/W/T",
+            "slot": "R/W/T",
             "player": "C. Hogan",
             "player_full": "C. Hogan WR - NE",
             "pos": "WR",
@@ -2377,7 +2377,7 @@
             "is_home": false,
             "points": 13.4,
             "starter": true,
-            "stats": "74 Rec Yds , 1 Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "74 Rec Yds, 1 Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 19 - 14"
           },
           {
@@ -2392,7 +2392,7 @@
             "is_home": false,
             "points": 10.0,
             "starter": true,
-            "stats": "1 PAT , PAT Miss , 0-19 , 20-29 , 1 30-39 , 2 40-49 , 50+ , Miss 0-19 , Miss 20-29 , Miss 30-39 , Miss 40-49 , Miss 50+ , ...",
+            "stats": "1 PAT, PAT Miss, 0-19, 20-29, 1 30-39, 2 40-49, 50+, Miss 0-19, Miss 20-29, Miss 30-39, Miss 40-49, Miss 50+",
             "game_status": "Win, 16 - 10"
           },
           {
@@ -2407,7 +2407,7 @@
             "is_home": false,
             "points": 43.0,
             "starter": true,
-            "stats": "9 Pts , 2 Sck , 5 Int , Fum , 2 TD , Ret TD , Saf , ...",
+            "stats": "9 Pts, 2 Sck, 5 Int, Fum, 2 TD, Ret TD, Saf",
             "game_status": "Win, 30 - 9"
           }
         ],
@@ -2415,16 +2415,16 @@
           {
             "roster_slot": "BN",
             "slot": "BN",
-            "player": "",
+            "player": "K. Britt",
             "player_full": "K. Britt WR - NE",
-            "pos": "K",
+            "pos": "WR",
             "nfl_team": "NE",
             "opp": "@TB",
             "opp_team": "TB",
             "is_home": false,
             "points": 0.0,
             "starter": false,
-            "stats": "Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 19 - 14"
           },
           {
@@ -2439,7 +2439,7 @@
             "is_home": false,
             "points": 9.7,
             "starter": false,
-            "stats": "37 Rec Yds , 1 Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "37 Rec Yds, 1 Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 16 - 10"
           },
           {
@@ -2454,7 +2454,7 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": ""
           },
           {
@@ -2469,22 +2469,22 @@
             "is_home": false,
             "points": 0.0,
             "starter": false,
-            "stats": "Rush Yds , Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "Rush Yds, Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": "Loss, 7 - 34"
           },
           {
             "roster_slot": "BN",
             "slot": "BN",
-            "player": "",
+            "player": "K. Williams",
             "player_full": "K. Williams RB - ARI",
-            "pos": "K",
+            "pos": "RB",
             "nfl_team": "ARI",
             "opp": "@PHI",
             "opp_team": "PHI",
             "is_home": false,
             "points": -0.2,
             "starter": false,
-            "stats": "-2 Rush Yds , Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "-2 Rush Yds, Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": "Loss, 7 - 34"
           },
           {
@@ -2499,22 +2499,22 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "Rush Yds , Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "Rush Yds, Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": ""
           },
           {
             "roster_slot": "BN",
             "slot": "BN",
-            "player": "",
+            "player": "K. Allen",
             "player_full": "K. Allen WR - LAC",
-            "pos": "K",
+            "pos": "WR",
             "nfl_team": "LAC",
             "opp": "@NYG",
             "opp_team": "NYG",
             "is_home": false,
             "points": 6.7,
             "starter": false,
-            "stats": "67 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "67 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 27 - 22"
           },
           {
@@ -2529,7 +2529,7 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "Rush Yds , Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "Rush Yds, Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": ""
           },
           {
@@ -2544,7 +2544,7 @@
             "is_home": true,
             "points": 20.46,
             "starter": false,
-            "stats": "334 Pass Yds , 1 Pass TD , Int , 11 Rush Yds , Rush TD , Fum , 2PT , ...",
+            "stats": "334 Pass Yds, 1 Pass TD, Int, 11 Rush Yds, Rush TD, Fum, 2PT",
             "game_status": "Loss, 14 - 19"
           },
           {
@@ -2559,7 +2559,7 @@
             "is_home": true,
             "points": 0.0,
             "starter": false,
-            "stats": "Rush Yds , Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "Rush Yds, Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": "Loss, 22 - 27"
           },
           {
@@ -2574,7 +2574,7 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "Rush Yds , Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "Rush Yds, Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": ""
           },
           {
@@ -2589,7 +2589,7 @@
             "is_home": true,
             "points": 0.7,
             "starter": false,
-            "stats": "13 Rush Yds , Rush TD , Fum , -6 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "13 Rush Yds, Rush TD, Fum, -6 Rec Yds, Rec TD, 2PT",
             "game_status": "Loss, 17 - 20"
           },
           {
@@ -2604,7 +2604,7 @@
             "is_home": true,
             "points": 9.0,
             "starter": false,
-            "stats": "PAT , PAT Miss , 0-19 , 2 20-29 , 1 30-39 , 40-49 , 50+ , Miss 0-19 , Miss 20-29 , Miss 30-39 , Miss 40-49 , Miss 50+ , ...",
+            "stats": "PAT, PAT Miss, 0-19, 2 20-29, 1 30-39, 40-49, 50+, Miss 0-19, Miss 20-29, Miss 30-39, Miss 40-49, Miss 50+",
             "game_status": "Loss, 9 - 30"
           },
           {
@@ -2619,13 +2619,13 @@
             "is_home": true,
             "points": -1.0,
             "starter": false,
-            "stats": "42 Pts , 1 Sck , Int , Fum , TD , Ret TD , Saf , ...",
+            "stats": "42 Pts, 1 Sck, Int, Fum, TD, Ret TD, Saf",
             "game_status": "Loss, 34 - 42"
           }
         ],
         "fetch_status": "full",
-        "source_url": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?teamId=2&week=5#teamMatchupFull=teamMatchupFull%2C%2Fleague%2F2074621%2Fhistory%2F2017%2Fteamgamecenter%253FteamId%253D3%2526week%253D5%2Creplace",
-        "extraction_date": "2026-08-03T21:27:07.425540Z",
+        "source_url": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?leagueId=2074621&teamId=2&week=5",
+        "extraction_date": "2026-08-03T21:46:19.992763Z",
         "blocked": false
       },
       "rosterB": {
@@ -2647,12 +2647,12 @@
             "is_home": false,
             "points": 23.82,
             "starter": true,
-            "stats": "258 Pass Yds , 3 Pass TD , 1 Int , 5 Rush Yds , Rush TD , Fum , 2PT , ...",
+            "stats": "258 Pass Yds, 3 Pass TD, 1 Int, 5 Rush Yds, Rush TD, Fum, 2PT",
             "game_status": "Win, 27 - 22"
           },
           {
-            "roster_slot": "RB",
-            "slot": "RB",
+            "roster_slot": "RB-1",
+            "slot": "RB-1",
             "player": "L. Murray",
             "player_full": "L. Murray RB - MIN",
             "pos": "RB",
@@ -2662,12 +2662,12 @@
             "is_home": false,
             "points": 4.3,
             "starter": true,
-            "stats": "31 Rush Yds , Rush TD , Fum , 12 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "31 Rush Yds, Rush TD, Fum, 12 Rec Yds, Rec TD, 2PT",
             "game_status": "Win, 20 - 17"
           },
           {
-            "roster_slot": "RB",
-            "slot": "RB",
+            "roster_slot": "RB-2",
+            "slot": "RB-2",
             "player": "D. Johnson",
             "player_full": "D. Johnson RB - CLE",
             "pos": "RB",
@@ -2677,12 +2677,12 @@
             "is_home": true,
             "points": 18.3,
             "starter": true,
-            "stats": "20 Rush Yds , Rush TD , Fum , 63 Rec Yds , 1 Rec TD , 2PT , ...",
+            "stats": "20 Rush Yds, Rush TD, Fum, 63 Rec Yds, 1 Rec TD, 2PT",
             "game_status": "Loss, 14 - 17"
           },
           {
-            "roster_slot": "WR",
-            "slot": "WR",
+            "roster_slot": "WR-1",
+            "slot": "WR-1",
             "player": "J. Nelson",
             "player_full": "J. Nelson WR - GB",
             "pos": "WR",
@@ -2692,12 +2692,12 @@
             "is_home": false,
             "points": 8.4,
             "starter": true,
-            "stats": "24 Rec Yds , 1 Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "24 Rec Yds, 1 Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 35 - 31"
           },
           {
-            "roster_slot": "WR",
-            "slot": "WR",
+            "roster_slot": "WR-2",
+            "slot": "WR-2",
             "player": "A. Green",
             "player_full": "A. Green WR - CIN",
             "pos": "WR",
@@ -2707,7 +2707,7 @@
             "is_home": true,
             "points": 28.9,
             "starter": true,
-            "stats": "189 Rec Yds , 1 Rec TD , 1 Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "189 Rec Yds, 1 Rec TD, 1 Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 20 - 16"
           },
           {
@@ -2722,12 +2722,12 @@
             "is_home": false,
             "points": 9.8,
             "starter": true,
-            "stats": "98 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "98 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 42 - 34"
           },
           {
-            "roster_slot": "R/W/ T",
-            "slot": "R/W/ T",
+            "roster_slot": "R/W/T",
+            "slot": "R/W/T",
             "player": "L. Fitzgerald",
             "player_full": "L. Fitzgerald WR - ARI",
             "pos": "WR",
@@ -2737,7 +2737,7 @@
             "is_home": false,
             "points": 5.1,
             "starter": true,
-            "stats": "51 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "51 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 7 - 34"
           },
           {
@@ -2752,7 +2752,7 @@
             "is_home": false,
             "points": 9.0,
             "starter": true,
-            "stats": "3 PAT , PAT Miss , 0-19 , 1 20-29 , 30-39 , 1 40-49 , 50+ , Miss 0-19 , Miss 20-29 , Miss 30-39 , Miss 40-49 , 1 Miss 50+ , ...",
+            "stats": "3 PAT, PAT Miss, 0-19, 1 20-29, 30-39, 1 40-49, 50+, Miss 0-19, Miss 20-29, Miss 30-39, Miss 40-49, 1 Miss 50+",
             "game_status": "Win, 27 - 24"
           },
           {
@@ -2767,7 +2767,7 @@
             "is_home": true,
             "points": 11.0,
             "starter": true,
-            "stats": "7 Pts , 2 Sck , Int , 1 Fum , TD , Ret TD , Saf , ...",
+            "stats": "7 Pts, 2 Sck, Int, 1 Fum, TD, Ret TD, Saf",
             "game_status": "Win, 34 - 7"
           }
         ],
@@ -2784,7 +2784,7 @@
             "is_home": false,
             "points": 5.3,
             "starter": false,
-            "stats": "53 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "53 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 19 - 14"
           },
           {
@@ -2799,7 +2799,7 @@
             "is_home": false,
             "points": 4.3,
             "starter": false,
-            "stats": "43 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "43 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 30 - 17"
           },
           {
@@ -2814,7 +2814,7 @@
             "is_home": false,
             "points": 3.4,
             "starter": false,
-            "stats": "34 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "34 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 10 - 16"
           },
           {
@@ -2829,7 +2829,7 @@
             "is_home": false,
             "points": 17.64,
             "starter": false,
-            "stats": "291 Pass Yds , 1 Pass TD , Int , Rush Yds , Rush TD , Fum , 2PT , ...",
+            "stats": "291 Pass Yds, 1 Pass TD, Int, Rush Yds, Rush TD, Fum, 2PT",
             "game_status": "Loss, 7 - 34"
           },
           {
@@ -2844,22 +2844,22 @@
             "is_home": true,
             "points": 1.1,
             "starter": false,
-            "stats": "61 Rec Yds , Rec TD , 1 Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "61 Rec Yds, Rec TD, 1 Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Loss, 31 - 35"
           },
           {
             "roster_slot": "BN",
             "slot": "BN",
-            "player": "",
+            "player": "K. Cousins",
             "player_full": "K. Cousins QB - WAS",
-            "pos": "K",
+            "pos": "QB",
             "nfl_team": "WAS",
             "opp": "Bye",
             "opp_team": null,
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "Pass Yds , Pass TD , Int , Rush Yds , Rush TD , Fum , 2PT , ...",
+            "stats": "Pass Yds, Pass TD, Int, Rush Yds, Rush TD, Fum, 2PT",
             "game_status": ""
           },
           {
@@ -2874,7 +2874,7 @@
             "is_home": true,
             "points": 5.1,
             "starter": false,
-            "stats": "14 Rec Yds , Rec TD , 1 Fum , 27 Rush Yds , 1 Rush TD , 2PT , ...",
+            "stats": "14 Rec Yds, Rec TD, 1 Fum, 27 Rush Yds, 1 Rush TD, 2PT",
             "game_status": "Loss, 10 - 16"
           },
           {
@@ -2889,7 +2889,7 @@
             "is_home": null,
             "points": 0.0,
             "starter": false,
-            "stats": "Rush Yds , Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "Rush Yds, Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": ""
           },
           {
@@ -2904,7 +2904,7 @@
             "is_home": true,
             "points": 0.6,
             "starter": false,
-            "stats": "6 Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "6 Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 16 - 10"
           },
           {
@@ -2919,7 +2919,7 @@
             "is_home": false,
             "points": 0.0,
             "starter": false,
-            "stats": "Rush Yds , Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "Rush Yds, Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": "Win, 35 - 31"
           },
           {
@@ -2934,7 +2934,7 @@
             "is_home": true,
             "points": 32.74,
             "starter": false,
-            "stats": "251 Pass Yds , 3 Pass TD , 1 Int , 37 Rush Yds , 1 Rush TD , Fum , 2PT , ...",
+            "stats": "251 Pass Yds, 3 Pass TD, 1 Int, 37 Rush Yds, 1 Rush TD, Fum, 2PT",
             "game_status": "Loss, 31 - 35"
           },
           {
@@ -2949,7 +2949,7 @@
             "is_home": false,
             "points": 3.6,
             "starter": false,
-            "stats": "Rush Yds , Rush TD , Fum , 36 Rec Yds , Rec TD , 2PT , ...",
+            "stats": "Rush Yds, Rush TD, Fum, 36 Rec Yds, Rec TD, 2PT",
             "game_status": "Win, 16 - 10"
           },
           {
@@ -2964,7 +2964,7 @@
             "is_home": true,
             "points": 3.7,
             "starter": false,
-            "stats": "37 Rush Yds , Rush TD , Fum , Rec Yds , Rec TD , 2PT , ...",
+            "stats": "37 Rush Yds, Rush TD, Fum, Rec Yds, Rec TD, 2PT",
             "game_status": "Loss, 17 - 30"
           },
           {
@@ -2979,7 +2979,7 @@
             "is_home": false,
             "points": 0.0,
             "starter": false,
-            "stats": "Rec Yds , Rec TD , Fum , Rush Yds , Rush TD , 2PT , ...",
+            "stats": "Rec Yds, Rec TD, Fum, Rush Yds, Rush TD, 2PT",
             "game_status": "Win, 27 - 22"
           },
           {
@@ -2994,13 +2994,13 @@
             "is_home": true,
             "points": 7.0,
             "starter": false,
-            "stats": "27 Pts , Sck , 1 Int , Fum , TD , Ret TD , 1 Saf , ...",
+            "stats": "27 Pts, Sck, 1 Int, Fum, TD, Ret TD, 1 Saf",
             "game_status": "Loss, 22 - 27"
           }
         ],
         "fetch_status": "full",
-        "source_url": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?teamId=3&week=5",
-        "extraction_date": "2026-08-03T21:27:07.425540Z",
+        "source_url": "https://fantasy.nfl.com/league/2074621/history/2017/teamgamecenter?leagueId=2074621&teamId=3&week=5",
+        "extraction_date": "2026-08-03T21:46:19.992763Z",
         "blocked": false
       }
     }
@@ -3067,6 +3067,7 @@
   "method": "leased_vm_browser_parse",
   "total_matchups": 4,
   "note": "Unified reconstructed from leased VM browser parse of https://fantasy.nfl.com/league/2074621/history/2017/schedule?gameSeason=2017&leagueId=2074621&scheduleDetail=5&scheduleType=week&standingsTab=schedule - ul.scheduleContent li.matchup teamWrap-1/2 parsed; throttled 1s; credentials scrubbed; no invented scores.",
-  "extraction_method": "browser_parse ul.scheduleContent etc.",
-  "roster_enrichment_attempt": "2026-08-03T21:27:08.625730Z"
+  "extraction_method": "browser_vm_parse_cleaned",
+  "roster_enrichment_attempt": "2026-08-03T21:27:08.625730Z",
+  "extraction_date": "2026-08-03T21:44:30.778604Z"
 }
