@@ -15,7 +15,9 @@
       "ownerB": "Prem",
       "scoreA": 76.64,
       "scoreB": 118.22,
-      "winner": "GettinBuckets"
+      "winner": "GettinBuckets",
+      "winner_owner": "Prem",
+      "week": 13
     },
     {
       "teamA": "MathIsAwesome",
@@ -28,7 +30,9 @@
       "ownerB": "Bhuvanesh",
       "scoreA": 97.16,
       "scoreB": 214.48,
-      "winner": "SteeredPrune"
+      "winner": "SteeredPrune",
+      "winner_owner": "Bhuvanesh",
+      "week": 13
     },
     {
       "teamA": "A Poser is not Bharat Venkat",
@@ -41,7 +45,9 @@
       "ownerB": "Rishi",
       "scoreA": 128.92,
       "scoreB": 70.8,
-      "winner": "A Poser is not Bharat Venkat"
+      "winner": "A Poser is not Bharat Venkat",
+      "winner_owner": "Krishna",
+      "week": 13
     },
     {
       "teamA": "Beard the Fear",
@@ -54,7 +60,9 @@
       "ownerB": "Rishab",
       "scoreA": 128.44,
       "scoreB": 77.0,
-      "winner": "Beard the Fear"
+      "winner": "Beard the Fear",
+      "winner_owner": "Karthik",
+      "week": 13
     }
   ],
   "team_high": null,
