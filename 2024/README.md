@@ -1,14 +1,17 @@
-# 2024 Season
+# 2024 Season – wedaleague (2074621)
 
-League ID: 2074621
+This folder contains the archived data for the 2024 season.
 
-Files in this folder:
-- standings.json
-- teams.json
-- rosters.json
-- matchups.json
-- draft.json
-- transactions.json
-- history.json (season-specific slice)
+**Present:**
+- `almanac.json` – champion, team high / player high weekly, season total high, settings slice (parsed from server-rendered history page)
 
-Data pull in progress from fantasy.nfl.com (authenticated session).
+**Planned / future files (once ffsim API capture completes):**
+- `standings.json` – final regular-season standings, playoff bracket
+- `rosters.json` – rosters per team / per week
+- `matchups.json` – weekly head-to-head scores
+- `draft.json` – offline draft board
+- `transactions.json` – waivers, trades, adds/drops
+
+See `/league/network_endpoints.json` for endpoint pattern to fetch those via authenticated `/api/proxy?url=ffsim` proxy.
+
+No credentials are stored in this repo – auth used transiently in browser only.
