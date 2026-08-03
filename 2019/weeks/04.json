@@ -1,0 +1,62 @@
+{
+  "year": 2019,
+  "week": 4,
+  "platform": "nfl",
+  "season_type": "regular",
+  "matchups": [],
+  "team_high": null,
+  "player_high": null,
+  "team_season_high": {
+    "year": 2019,
+    "team": "Haskins Robbins",
+    "points": 1555.84
+  },
+  "champion": {
+    "team": "I am Trash",
+    "owner": "Krishna"
+  },
+  "owners": [
+    {
+      "owner": "Tanvir",
+      "team": "Dogshit Baboons",
+      "teamId": "8"
+    },
+    {
+      "owner": "Avi",
+      "team": "More Probable Than Not",
+      "teamId": "1"
+    },
+    {
+      "owner": "Karthik",
+      "team": "Actual Dick",
+      "teamId": "3"
+    },
+    {
+      "owner": "Krishna",
+      "team": "I am Trash",
+      "teamId": "2"
+    },
+    {
+      "owner": "Rishab",
+      "team": "bum",
+      "teamId": "4"
+    },
+    {
+      "owner": "Bhuvanesh",
+      "team": "SteeredPrune",
+      "teamId": "6"
+    },
+    {
+      "owner": "Sahith",
+      "team": "Booty Eaters",
+      "teamId": "7"
+    },
+    {
+      "owner": "Tarun",
+      "team": "Haskins Robbins",
+      "teamId": "5"
+    }
+  ],
+  "note": "NFL year 2019 week 4: full weekly matchup data requires JS-rendered schedule page that was not captured. team_high/player_high populated where week matches the yearly high. Full season standings available in season aggregate.",
+  "data_completeness": "highs_only"
+}
