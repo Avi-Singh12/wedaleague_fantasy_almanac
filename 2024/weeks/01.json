@@ -367,5 +367,9 @@
     "targets": 2,
     "receiving_yards": 23,
     "receiving_tds": 1
-  }
+  },
+  "verified": true,
+  "blocked": false,
+  "credentials_scrubbed": true,
+  "extraction_method": "browser_parse ul.scheduleContent"
 }
