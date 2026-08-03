@@ -3,7 +3,63 @@
   "week": 14,
   "platform": "nfl",
   "season_type": "regular",
-  "matchups": [],
+  "matchups": [
+    {
+      "teamA": "Laughing Stocks",
+      "teamB": "SteeredPrune",
+      "teamIdA": "1",
+      "teamIdB": "6",
+      "ownerA": "Avi",
+      "ownerB": "Bhuvanesh",
+      "scoreA": 135.32,
+      "scoreB": 90.26,
+      "winner": "Laughing Stocks"
+    },
+    {
+      "teamA": "Haskin for Trouble",
+      "teamB": "Booty Eaters",
+      "teamIdA": "5",
+      "teamIdB": "7",
+      "ownerA": "Tarun",
+      "ownerB": "Sahith",
+      "scoreA": 126.4,
+      "scoreB": 81.92,
+      "winner": "Haskin for Trouble"
+    },
+    {
+      "teamA": "bum",
+      "teamB": "Dogshit Baboons",
+      "teamIdA": "4",
+      "teamIdB": "8",
+      "ownerA": "Rishab",
+      "ownerB": "Tanvir",
+      "scoreA": 114.18,
+      "scoreB": 96.46,
+      "winner": "bum"
+    },
+    {
+      "teamA": "ameyagadkari",
+      "teamB": "Stefon Diggs' Mistress",
+      "teamIdA": "3",
+      "teamIdB": "9",
+      "ownerA": "Karthik",
+      "ownerB": "Rajat",
+      "scoreA": 100.14,
+      "scoreB": 131.64,
+      "winner": "Stefon Diggs' Mistress"
+    },
+    {
+      "teamA": "I am Trash",
+      "teamB": "Tua Time",
+      "teamIdA": "2",
+      "teamIdB": "10",
+      "ownerA": "Krishna",
+      "ownerB": "Ameya",
+      "scoreA": 176.42,
+      "scoreB": 85.04,
+      "winner": "I am Trash"
+    }
+  ],
   "team_high": null,
   "player_high": null,
   "team_season_high": {
@@ -67,8 +123,8 @@
       "teamId": "10"
     }
   ],
-  "note": "NFL year 2020 week 14: full weekly matchup data requires JS-rendered schedule page that was not captured. team_high/player_high populated where week matches the yearly high. Full season standings available in season aggregate. | Fantasy weekly matchups require JS-rendered schedule page that was not captured; player detail backfilled from NFL official stats via nflverse (github.com/nflverse/nflverse-data); fantasy points/team scores remain from fantasy where available. NFL stats are Standard fantasy scoring; league retains its own scoring for fantasy highs.",
-  "data_completeness": "highs_only_plus_nfl_player_stats",
+  "note": "Week 14 matchup scores extracted from fantasy.nfl.com schedule page (2020) via leased VM 019fc8d9-7505-7a91-8283-ae48f4e4c85e. Verified ul.scheduleContent li.matchup teamWrap-1/2 teamTotal float extraction. Fantasy points primary. Credentials scrubbed.",
+  "data_completeness": "full",
   "player_stats_nfl_top10": [
     {
       "rank": 1,
@@ -301,5 +357,10 @@
     "targets": 2,
     "receiving_yards": 7,
     "receiving_tds": 0
-  }
+  },
+  "verified": true,
+  "credentials_scrubbed": true,
+  "total_matchups": 5,
+  "source": "https://fantasy.nfl.com/league/2074621/history/2020/schedule?gameSeason=2020&leagueId=2074621&scheduleDetail=14&scheduleType=week&standingsTab=schedule",
+  "blocked": false
 }
