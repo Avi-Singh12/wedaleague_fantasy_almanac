@@ -1,9 +1,8 @@
 # League Overview
 
-- League ID 2074621
-- NFL Fantasy (pre-shutdown) -> ESPN migration 2026
-- Settings, owners, champions, all-time records
+- League ID 2074621 wedaleague
+- 12 seasons 2013-2024 champions parsed from server-rendered history
+- History almanac captured, standings/roster/matchups require ffsim authenticated JS proxy
+- See network_endpoints.json for pattern
+- No credentials committed
 
-Structure: /<year>/ per season, /league/ for overview
-
-No credentials stored in repo - auth used transiently in browser only.
