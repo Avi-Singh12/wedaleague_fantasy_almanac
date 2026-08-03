@@ -17,7 +17,27 @@
       "scoreA": 76.36,
       "scoreB": 42.26,
       "winner": "More Probable Than Not",
-      "winner_owner": "Avi"
+      "winner_owner": "Avi",
+      "rosterA": {
+        "teamId": "1",
+        "team": "More Probable Than Not",
+        "owner": "Avi",
+        "total_points": 76.36,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      },
+      "rosterB": {
+        "teamId": "5",
+        "team": "The Dream Team",
+        "owner": "Tarun",
+        "total_points": 42.26,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      }
     },
     {
       "week": 4,
@@ -32,7 +52,27 @@
       "scoreA": 88.84,
       "scoreB": 108.3,
       "winner": "SteeredPrune",
-      "winner_owner": "Bhuvanesh"
+      "winner_owner": "Bhuvanesh",
+      "rosterA": {
+        "teamId": "4",
+        "team": "team sucks ass",
+        "owner": "Rishab",
+        "total_points": 88.84,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      },
+      "rosterB": {
+        "teamId": "6",
+        "team": "SteeredPrune",
+        "owner": "Bhuvanesh",
+        "total_points": 108.3,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      }
     },
     {
       "week": 4,
@@ -47,7 +87,27 @@
       "scoreA": 60.5,
       "scoreB": 96.84,
       "winner": "GettinBuckets",
-      "winner_owner": "Prem"
+      "winner_owner": "Prem",
+      "rosterA": {
+        "teamId": "3",
+        "team": "FF  Runner Up",
+        "owner": "Karthik",
+        "total_points": 60.5,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      },
+      "rosterB": {
+        "teamId": "7",
+        "team": "GettinBuckets",
+        "owner": "Prem",
+        "total_points": 96.84,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      }
     },
     {
       "week": 4,
@@ -62,7 +122,27 @@
       "scoreA": 76.88,
       "scoreB": 102.8,
       "winner": "Barca Squad",
-      "winner_owner": "Tanvir"
+      "winner_owner": "Tanvir",
+      "rosterA": {
+        "teamId": "2",
+        "team": "Arshdeep Throat",
+        "owner": "Krishna",
+        "total_points": 76.88,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      },
+      "rosterB": {
+        "teamId": "8",
+        "team": "Barca Squad",
+        "owner": "Tanvir",
+        "total_points": 102.8,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      }
     }
   ],
   "team_high": null,
