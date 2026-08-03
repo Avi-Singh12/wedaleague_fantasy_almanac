@@ -1,0 +1,261 @@
+{
+  "year": 2024,
+  "week": 9,
+  "platform": "nfl",
+  "season_type": "regular",
+  "matchups": [
+    {
+      "week": 9,
+      "teamA": "Laughing Stocks",
+      "teamB": "fighting for my life",
+      "teamIdA": "1",
+      "teamIdB": "10",
+      "teamA_id": "1",
+      "teamB_id": "10",
+      "ownerA": "Avi",
+      "ownerB": "Ameya",
+      "scoreA": 113.62,
+      "scoreB": 107.54,
+      "winner": "Laughing Stocks",
+      "winner_owner": "Avi",
+      "rosterA": {
+        "teamId": "1",
+        "team": "Laughing Stocks",
+        "owner": "Avi",
+        "total_points": 113.62,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      },
+      "rosterB": {
+        "teamId": "10",
+        "team": "fighting for my life",
+        "owner": "Ameya",
+        "total_points": 107.54,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      }
+    },
+    {
+      "week": 9,
+      "teamA": "LAMAAAARRRR JACKSON",
+      "teamB": "Shake and Bake-r",
+      "teamIdA": "2",
+      "teamIdB": "9",
+      "teamA_id": "2",
+      "teamB_id": "9",
+      "ownerA": "Krishna",
+      "ownerB": "Rajat",
+      "scoreA": 137.9,
+      "scoreB": 131.7,
+      "winner": "LAMAAAARRRR JACKSON",
+      "winner_owner": "Krishna",
+      "rosterA": {
+        "teamId": "2",
+        "team": "LAMAAAARRRR JACKSON",
+        "owner": "Krishna",
+        "total_points": 137.9,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      },
+      "rosterB": {
+        "teamId": "9",
+        "team": "Shake and Bake-r",
+        "owner": "Rajat",
+        "total_points": 131.7,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      }
+    },
+    {
+      "week": 9,
+      "teamA": "Im gonna Comm",
+      "teamB": "My team has Herpbies",
+      "teamIdA": "3",
+      "teamIdB": "8",
+      "teamA_id": "3",
+      "teamB_id": "8",
+      "ownerA": "Karthik",
+      "ownerB": "Tanvir",
+      "scoreA": 100.84,
+      "scoreB": 129.3,
+      "winner": "My team has Herpbies",
+      "winner_owner": "Tanvir",
+      "rosterA": {
+        "teamId": "3",
+        "team": "Im gonna Comm",
+        "owner": "Karthik",
+        "total_points": 100.84,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      },
+      "rosterB": {
+        "teamId": "8",
+        "team": "My team has Herpbies",
+        "owner": "Tanvir",
+        "total_points": 129.3,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      }
+    },
+    {
+      "week": 9,
+      "teamA": "rat bstrd",
+      "teamB": "Booty Eaters",
+      "teamIdA": "4",
+      "teamIdB": "7",
+      "teamA_id": "4",
+      "teamB_id": "7",
+      "ownerA": "Rishab",
+      "ownerB": "Sahith",
+      "scoreA": 115.0,
+      "scoreB": 82.36,
+      "winner": "rat bstrd",
+      "winner_owner": "Rishab",
+      "rosterA": {
+        "teamId": "4",
+        "team": "rat bstrd",
+        "owner": "Rishab",
+        "total_points": 115.0,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      },
+      "rosterB": {
+        "teamId": "7",
+        "team": "Booty Eaters",
+        "owner": "Sahith",
+        "total_points": 82.36,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      }
+    },
+    {
+      "week": 9,
+      "teamA": "Big Arm Vishy",
+      "teamB": "Medve-W",
+      "teamIdA": "5",
+      "teamIdB": "6",
+      "teamA_id": "5",
+      "teamB_id": "6",
+      "ownerA": "Vishal",
+      "ownerB": "Bhuvanesh",
+      "scoreA": 98.5,
+      "scoreB": 139.82,
+      "winner": "Medve-W",
+      "winner_owner": "Bhuvanesh",
+      "rosterA": {
+        "teamId": "5",
+        "team": "Big Arm Vishy",
+        "owner": "Vishal",
+        "total_points": 98.5,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      },
+      "rosterB": {
+        "teamId": "6",
+        "team": "Medve-W",
+        "owner": "Bhuvanesh",
+        "total_points": 139.82,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      }
+    }
+  ],
+  "team_high": null,
+  "player_high": null,
+  "team_season_high": {
+    "year": 2024,
+    "team": "LAMAAAARRRR JACKSON",
+    "points": 1978.04
+  },
+  "champion": {
+    "team": "Medve-W",
+    "owner": "Bhuvanesh"
+  },
+  "owners": [
+    {
+      "owner": "Tanvir",
+      "team": "My team has Herpbies",
+      "teamId": "8"
+    },
+    {
+      "owner": "Avi",
+      "team": "Laughing Stocks",
+      "teamId": "1"
+    },
+    {
+      "owner": "Karthik",
+      "team": "Im gonna Comm",
+      "teamId": "3"
+    },
+    {
+      "owner": "Krishna",
+      "team": "LAMAAAARRRR JACKSON",
+      "teamId": "2"
+    },
+    {
+      "owner": "Rishab",
+      "team": "rat bstrd",
+      "teamId": "4"
+    },
+    {
+      "owner": "Bhuvanesh",
+      "team": "Medve-W",
+      "teamId": "6"
+    },
+    {
+      "owner": "Sahith",
+      "team": "Booty Eaters",
+      "teamId": "7"
+    },
+    {
+      "owner": "Rajat",
+      "team": "Shake and Bake-r",
+      "teamId": "9"
+    },
+    {
+      "owner": "Vishal",
+      "team": "Big Arm Vishy",
+      "teamId": "5"
+    },
+    {
+      "owner": "Ameya",
+      "team": "fighting for my life",
+      "teamId": "10"
+    }
+  ],
+  "data_completeness": "full",
+  "verified": true,
+  "blocked": false,
+  "credentials_scrubbed": true,
+  "scrubbed": true,
+  "source": "https://fantasy.nfl.com/league/2074621/history/2024/schedule?gameSeason=2024&leagueId=2074621&scheduleDetail=9&scheduleType=week&standingsTab=schedule",
+  "source_url": "https://fantasy.nfl.com/league/2074621/history/2024/schedule?gameSeason=2024&leagueId=2074621&scheduleDetail=9&scheduleType=week&standingsTab=schedule",
+  "method": "leased_vm_browser_parse",
+  "extraction_method": "browser_parse ul.scheduleContent - leased_vm 019fc961-d0c9-76e3-a99a-701dcc24c8e0",
+  "extraction_date": "2026-08-03T21:23:31.428836Z",
+  "fetched_at": "2026-08-03T21:23:31.428836Z",
+  "total_matchups": 5,
+  "expected_matchups": 5,
+  "note": "Unified reconstructed from leased VM browser parse of https://fantasy.nfl.com/league/2074621/history/2024/schedule?gameSeason=2024&leagueId=2074621&scheduleDetail=9&scheduleType=week&standingsTab=schedule - ul.scheduleContent li.matchup teamWrap-1/2 parsed; throttled 1.2s; credentials scrubbed; no invented scores; exact float from FINAL.",
+  "leased_vm_id": "019fc961-d0c9-76e3-a99a-701dcc24c8e0"
+}
