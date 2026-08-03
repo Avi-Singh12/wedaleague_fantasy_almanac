@@ -1,0 +1,35 @@
+{
+  "leagueId": 2074621,
+  "leagueName": "wedaleague",
+  "year": 2024,
+  "champion": {
+    "year": 2024,
+    "team": "Medve-W"
+  },
+  "teamPerformanceWeek": {
+    "year": 2024,
+    "week": 8,
+    "team": "fighting for my life",
+    "points": 183.84
+  },
+  "playerPerformanceWeek": {
+    "year": 2024,
+    "week": 14,
+    "team": "My team has Herpbies",
+    "player": "Josh AllenQB - BUF",
+    "points": 66.88
+  },
+  "teamPerformanceSeason": {
+    "year": 2024,
+    "team": "LAMAAAARRRR JACKSON",
+    "points": 1978.04
+  },
+  "settings": {
+    "League Name": "wedaleague",
+    "League ID": "2074621",
+    "Commissioner": "Avi",
+    "Draft Type": "Offline",
+    "Draft Format": "Standard"
+  },
+  "note": "Data from fantasy.nfl.com history almanac page - server-rendered portion. Full standings/roster/matchups require ffsim API via authenticated JS (documented in network_endpoints.json)"
+}
