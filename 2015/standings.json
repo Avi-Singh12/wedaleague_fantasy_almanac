@@ -1,7 +1,0 @@
-{
-  "year": 2015,
-  "leagueId": 2074621,
-  "source": "fantasy.nfl.com JS-rendered - requires ffsim proxy",
-  "standings": [],
-  "note": "Capture requires authenticated fetch to ffsim via /api/proxy?url=... see ../network_endpoints.json, endpoint /api/v1/league/2074621/details?season={year}"
-}
