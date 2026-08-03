@@ -1,0 +1,72 @@
+{
+  "year": 2021,
+  "week": 6,
+  "platform": "nfl",
+  "season_type": "regular",
+  "matchups": [],
+  "team_high": null,
+  "player_high": null,
+  "team_season_high": {
+    "year": 2021,
+    "team": "Booty Eaters",
+    "points": 1722.42
+  },
+  "champion": {
+    "team": "Diggs-ital",
+    "owner": "Rajat"
+  },
+  "owners": [
+    {
+      "owner": "Tanvir",
+      "team": "Dogshit Baboons",
+      "teamId": "8"
+    },
+    {
+      "owner": "Avi",
+      "team": "Laughing Stocks",
+      "teamId": "1"
+    },
+    {
+      "owner": "Karthik",
+      "team": "Yams the Jamaican",
+      "teamId": "3"
+    },
+    {
+      "owner": "Krishna",
+      "team": "I am Trash",
+      "teamId": "2"
+    },
+    {
+      "owner": "Rishab",
+      "team": "bum",
+      "teamId": "4"
+    },
+    {
+      "owner": "Bhuvanesh",
+      "team": "Medve-W",
+      "teamId": "6"
+    },
+    {
+      "owner": "Sahith",
+      "team": "Booty Eaters",
+      "teamId": "7"
+    },
+    {
+      "owner": "Tarun",
+      "team": "Haskin for Trouble",
+      "teamId": "5"
+    },
+    {
+      "owner": "Rajat",
+      "team": "Diggs-ital",
+      "teamId": "9"
+    },
+    {
+      "owner": "Ameya",
+      "team": "Mr Unliiiiimited",
+      "teamId": "10"
+    }
+  ],
+  "note": "NFL year 2021 week 6: full weekly matchup data requires JS-rendered schedule page that was not captured. team_high/player_high populated where week matches the yearly high. Full season standings available in season aggregate.",
+  "data_completeness": "highs_only"
+}
