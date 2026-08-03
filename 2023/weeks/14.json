@@ -1,0 +1,72 @@
+{
+  "year": 2023,
+  "week": 14,
+  "platform": "nfl",
+  "season_type": "regular",
+  "matchups": [],
+  "team_high": null,
+  "player_high": null,
+  "team_season_high": {
+    "year": 2023,
+    "team": "Booty Eaters",
+    "points": 1637.04
+  },
+  "champion": {
+    "team": "Booty Eaters",
+    "owner": "Sahith"
+  },
+  "owners": [
+    {
+      "owner": "Tanvir",
+      "team": "Dogshit Baboons",
+      "teamId": "8"
+    },
+    {
+      "owner": "Avi",
+      "team": "Laughing Stocks",
+      "teamId": "1"
+    },
+    {
+      "owner": "Karthik",
+      "team": "Im gonna Comm",
+      "teamId": "3"
+    },
+    {
+      "owner": "Krishna",
+      "team": "Certified Ass",
+      "teamId": "2"
+    },
+    {
+      "owner": "Rishab",
+      "team": "rat bstrd",
+      "teamId": "4"
+    },
+    {
+      "owner": "Bhuvanesh",
+      "team": "Medve-W",
+      "teamId": "6"
+    },
+    {
+      "owner": "Sahith",
+      "team": "Booty Eaters",
+      "teamId": "7"
+    },
+    {
+      "owner": "Rajat",
+      "team": "ra-him must-start",
+      "teamId": "9"
+    },
+    {
+      "owner": "Vishal",
+      "team": "Big Arm Vishy",
+      "teamId": "5"
+    },
+    {
+      "owner": "Ameya",
+      "team": "fighting for my life",
+      "teamId": "10"
+    }
+  ],
+  "note": "NFL year 2023 week 14: full weekly matchup data requires JS-rendered schedule page that was not captured. team_high/player_high populated where week matches the yearly high. Full season standings available in season aggregate.",
+  "data_completeness": "highs_only"
+}
