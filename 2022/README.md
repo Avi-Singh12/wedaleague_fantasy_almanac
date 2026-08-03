@@ -2,13 +2,13 @@
 
 League ID: 2074621
 
-Files in this folder:
+Files:
 - standings.json
 - teams.json
 - rosters.json
 - matchups.json
 - draft.json
 - transactions.json
-- history.json (season-specific slice)
+- history.json
 
-Data pull in progress from fantasy.nfl.com (authenticated session).
+Data pull in progress from authenticated session.
