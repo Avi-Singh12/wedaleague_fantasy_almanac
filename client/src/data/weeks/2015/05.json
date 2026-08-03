@@ -1,0 +1,216 @@
+{
+  "year": 2015,
+  "week": 5,
+  "platform": "nfl",
+  "season_type": "regular",
+  "matchups": [
+    {
+      "week": 5,
+      "teamA": "More Probable Than Not",
+      "teamB": "SteeredPrune",
+      "teamIdA": "1",
+      "teamIdB": "6",
+      "teamA_id": "1",
+      "teamB_id": "6",
+      "ownerA": "Avi",
+      "ownerB": "Bhuvanesh",
+      "scoreA": 139.84,
+      "scoreB": 110.94,
+      "winner": "More Probable Than Not",
+      "winner_owner": "Avi",
+      "rosterA": {
+        "teamId": "1",
+        "team": "More Probable Than Not",
+        "owner": "Avi",
+        "total_points": 139.84,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      },
+      "rosterB": {
+        "teamId": "6",
+        "team": "SteeredPrune",
+        "owner": "Bhuvanesh",
+        "total_points": 110.94,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      }
+    },
+    {
+      "week": 5,
+      "teamA": "GettinBuckets",
+      "teamB": "The Dream Team",
+      "teamIdA": "7",
+      "teamIdB": "5",
+      "teamA_id": "7",
+      "teamB_id": "5",
+      "ownerA": "Prem",
+      "ownerB": "Tarun",
+      "scoreA": 81.76,
+      "scoreB": 55.48,
+      "winner": "GettinBuckets",
+      "winner_owner": "Prem",
+      "rosterA": {
+        "teamId": "7",
+        "team": "GettinBuckets",
+        "owner": "Prem",
+        "total_points": 81.76,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      },
+      "rosterB": {
+        "teamId": "5",
+        "team": "The Dream Team",
+        "owner": "Tarun",
+        "total_points": 55.48,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      }
+    },
+    {
+      "week": 5,
+      "teamA": "Barca Squad",
+      "teamB": "team sucks ass",
+      "teamIdA": "8",
+      "teamIdB": "4",
+      "teamA_id": "8",
+      "teamB_id": "4",
+      "ownerA": "Tanvir",
+      "ownerB": "Rishab",
+      "scoreA": 153.94,
+      "scoreB": 117.84,
+      "winner": "Barca Squad",
+      "winner_owner": "Tanvir",
+      "rosterA": {
+        "teamId": "8",
+        "team": "Barca Squad",
+        "owner": "Tanvir",
+        "total_points": 153.94,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      },
+      "rosterB": {
+        "teamId": "4",
+        "team": "team sucks ass",
+        "owner": "Rishab",
+        "total_points": 117.84,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      }
+    },
+    {
+      "week": 5,
+      "teamA": "Arshdeep Throat",
+      "teamB": "FF  Runner Up",
+      "teamIdA": "2",
+      "teamIdB": "3",
+      "teamA_id": "2",
+      "teamB_id": "3",
+      "ownerA": "Krishna",
+      "ownerB": "Karthik",
+      "scoreA": 101.86,
+      "scoreB": 120.74,
+      "winner": "FF  Runner Up",
+      "winner_owner": "Karthik",
+      "rosterA": {
+        "teamId": "2",
+        "team": "Arshdeep Throat",
+        "owner": "Krishna",
+        "total_points": 101.86,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      },
+      "rosterB": {
+        "teamId": "3",
+        "team": "FF  Runner Up",
+        "owner": "Karthik",
+        "total_points": 120.74,
+        "starters": [],
+        "bench": [],
+        "fetch_status": "pending_vm_slot",
+        "note": "teamgamecenter fetch pending - fallback HTML or rate-limit; skeleton preserved per task"
+      }
+    }
+  ],
+  "team_high": null,
+  "player_high": null,
+  "team_season_high": {
+    "year": 2015,
+    "team": "More Probable Than Not",
+    "points": 1749.42
+  },
+  "champion": {
+    "team": "team sucks ass",
+    "owner": "Rishab"
+  },
+  "owners": [
+    {
+      "owner": "Avi",
+      "team": "More Probable Than Not",
+      "teamId": "1"
+    },
+    {
+      "owner": "Krishna",
+      "team": "Arshdeep Throat",
+      "teamId": "2"
+    },
+    {
+      "owner": "Karthik",
+      "team": "FF  Runner Up",
+      "teamId": "3"
+    },
+    {
+      "owner": "Tanvir",
+      "team": "Barca Squad",
+      "teamId": "8"
+    },
+    {
+      "owner": "Rishab",
+      "team": "team sucks ass",
+      "teamId": "4"
+    },
+    {
+      "owner": "Prem",
+      "team": "GettinBuckets",
+      "teamId": "7"
+    },
+    {
+      "owner": "Tarun",
+      "team": "The Dream Team",
+      "teamId": "5"
+    },
+    {
+      "owner": "Bhuvanesh",
+      "team": "SteeredPrune",
+      "teamId": "6"
+    }
+  ],
+  "data_completeness": "full",
+  "verified": true,
+  "blocked": false,
+  "credentials_scrubbed": true,
+  "scrubbed": true,
+  "source": "https://fantasy.nfl.com/league/2074621/history/2015/schedule?gameSeason=2015&leagueId=2074621&scheduleDetail=5&scheduleType=week&standingsTab=schedule",
+  "source_url": "https://fantasy.nfl.com/league/2074621/history/2015/schedule?gameSeason=2015&leagueId=2074621&scheduleDetail=5&scheduleType=week&standingsTab=schedule",
+  "method": "leased_vm_browser_parse",
+  "extraction_method": "browser_parse ul.scheduleContent - leased_vm 019fc961-d0c9-76e3-a99a-701dcc24c8e0",
+  "extraction_date": "2026-08-03T21:23:31.428836Z",
+  "fetched_at": "2026-08-03T21:23:31.428836Z",
+  "total_matchups": 4,
+  "expected_matchups": 4,
+  "note": "Unified reconstructed from leased VM browser parse of https://fantasy.nfl.com/league/2074621/history/2015/schedule?gameSeason=2015&leagueId=2074621&scheduleDetail=5&scheduleType=week&standingsTab=schedule - ul.scheduleContent li.matchup teamWrap-1/2 parsed; throttled 1.2s; credentials scrubbed; no invented scores; exact float from FINAL.",
+  "leased_vm_id": "019fc961-d0c9-76e3-a99a-701dcc24c8e0"
+}
