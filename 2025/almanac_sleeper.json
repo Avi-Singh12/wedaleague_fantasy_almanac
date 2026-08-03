@@ -1,0 +1,471 @@
+{
+  "leagueId": "1259726899010080768",
+  "leagueName": "wedaleague",
+  "year": 2025,
+  "platform": "sleeper",
+  "season_type": "regular",
+  "status": "complete",
+  "total_rosters": 10,
+  "champion": {
+    "roster_id": 1,
+    "owner": "iavis",
+    "team_name": null
+  },
+  "runner_up": null,
+  "championship_match": {
+    "p": 1,
+    "m": 3,
+    "r": 2,
+    "l": 6,
+    "w": 1,
+    "t1": 6,
+    "t2": 1,
+    "t2_from": {
+      "w": 2
+    },
+    "t1_from": {
+      "w": 1
+    }
+  },
+  "teamPerformanceWeek": {
+    "week": 12,
+    "roster_id": 6,
+    "owner": "yams123",
+    "points": 214.16,
+    "matchup_id": 4
+  },
+  "teamPerformanceSeason": {
+    "roster_id": 6,
+    "owner": "yams123",
+    "points": 1926.32,
+    "wins": 10,
+    "losses": 5
+  },
+  "standings": [
+    {
+      "roster_id": 6,
+      "owner": "yams123",
+      "wins": 10,
+      "losses": 5,
+      "fpts": 1926.32,
+      "fpts_against": 1707.66
+    },
+    {
+      "roster_id": 9,
+      "owner": "kgadde",
+      "wins": 10,
+      "losses": 5,
+      "fpts": 1824.02,
+      "fpts_against": 1576.68
+    },
+    {
+      "roster_id": 1,
+      "owner": "iavis",
+      "wins": 9,
+      "losses": 6,
+      "fpts": 1789.46,
+      "fpts_against": 1710.62
+    },
+    {
+      "roster_id": 8,
+      "owner": "Strikr",
+      "wins": 8,
+      "losses": 7,
+      "fpts": 1863.14,
+      "fpts_against": 1714.14
+    },
+    {
+      "roster_id": 7,
+      "owner": "carota",
+      "wins": 8,
+      "losses": 7,
+      "fpts": 1753.48,
+      "fpts_against": 1669.46
+    },
+    {
+      "roster_id": 5,
+      "owner": "bootyBeaters",
+      "wins": 8,
+      "losses": 7,
+      "fpts": 1569.18,
+      "fpts_against": 1683.88
+    },
+    {
+      "roster_id": 3,
+      "owner": "BigArmVishy",
+      "wins": 7,
+      "losses": 8,
+      "fpts": 1692.58,
+      "fpts_against": 1832.78
+    },
+    {
+      "roster_id": 2,
+      "owner": "screenhunter",
+      "wins": 6,
+      "losses": 9,
+      "fpts": 1621.96,
+      "fpts_against": 1669.72
+    },
+    {
+      "roster_id": 10,
+      "owner": "rsmoju",
+      "wins": 6,
+      "losses": 9,
+      "fpts": 1542.28,
+      "fpts_against": 1695.06
+    },
+    {
+      "roster_id": 4,
+      "owner": "karthikmaiya",
+      "wins": 3,
+      "losses": 12,
+      "fpts": 1448.94,
+      "fpts_against": 1771.36
+    }
+  ],
+  "rostersCount": 10,
+  "brackets": {
+    "winners": [
+      {
+        "m": 1,
+        "r": 1,
+        "l": 8,
+        "w": 6,
+        "t1": 6,
+        "t2": 8
+      },
+      {
+        "m": 2,
+        "r": 1,
+        "l": 9,
+        "w": 1,
+        "t1": 9,
+        "t2": 1
+      },
+      {
+        "p": 1,
+        "m": 3,
+        "r": 2,
+        "l": 6,
+        "w": 1,
+        "t1": 6,
+        "t2": 1,
+        "t2_from": {
+          "w": 2
+        },
+        "t1_from": {
+          "w": 1
+        }
+      },
+      {
+        "p": 3,
+        "m": 4,
+        "r": 2,
+        "l": 9,
+        "w": 8,
+        "t1": 8,
+        "t2": 9,
+        "t2_from": {
+          "l": 2
+        },
+        "t1_from": {
+          "l": 1
+        }
+      }
+    ],
+    "losers": [
+      {
+        "m": 1,
+        "r": 1,
+        "l": 4,
+        "w": 3,
+        "t1": 4,
+        "t2": 3
+      },
+      {
+        "m": 2,
+        "r": 1,
+        "l": 10,
+        "w": 2,
+        "t1": 10,
+        "t2": 2
+      },
+      {
+        "m": 3,
+        "p": 1,
+        "r": 2,
+        "l": 3,
+        "w": 2,
+        "t1": 3,
+        "t2": 2,
+        "t2_from": {
+          "w": 2
+        },
+        "t1_from": {
+          "w": 1
+        }
+      },
+      {
+        "m": 4,
+        "p": 3,
+        "r": 2,
+        "l": 10,
+        "w": 4,
+        "t1": 4,
+        "t2": 10,
+        "t2_from": {
+          "l": 2
+        },
+        "t1_from": {
+          "l": 1
+        }
+      }
+    ]
+  },
+  "weeklyHighs": [
+    {
+      "week": 12,
+      "roster_id": 6,
+      "owner": "yams123",
+      "points": 214.16,
+      "matchup_id": 4
+    },
+    {
+      "week": 7,
+      "roster_id": 6,
+      "owner": "yams123",
+      "points": 189.24,
+      "matchup_id": 5
+    },
+    {
+      "week": 5,
+      "roster_id": 8,
+      "owner": "Strikr",
+      "points": 185.78,
+      "matchup_id": 2
+    },
+    {
+      "week": 16,
+      "roster_id": 5,
+      "owner": "bootyBeaters",
+      "points": 180.6,
+      "matchup_id": null
+    },
+    {
+      "week": 17,
+      "roster_id": 1,
+      "owner": "iavis",
+      "points": 178.04,
+      "matchup_id": 1
+    },
+    {
+      "week": 6,
+      "roster_id": 8,
+      "owner": "Strikr",
+      "points": 176.84,
+      "matchup_id": 5
+    },
+    {
+      "week": 16,
+      "roster_id": 10,
+      "owner": "rsmoju",
+      "points": 174.4,
+      "matchup_id": 4
+    },
+    {
+      "week": 16,
+      "roster_id": 1,
+      "owner": "iavis",
+      "points": 167.0,
+      "matchup_id": 2
+    },
+    {
+      "week": 2,
+      "roster_id": 8,
+      "owner": "Strikr",
+      "points": 157.3,
+      "matchup_id": 3
+    },
+    {
+      "week": 10,
+      "roster_id": 9,
+      "owner": "kgadde",
+      "points": 156.94,
+      "matchup_id": 2
+    }
+  ],
+  "draft": {
+    "draft_id": "1259726899022675971",
+    "status": "complete",
+    "type": "snake",
+    "rounds": 14,
+    "picks_count": 140
+  },
+  "settings": {
+    "best_ball": 0,
+    "last_report": 15,
+    "waiver_budget": 100,
+    "disable_adds": 0,
+    "capacity_override": 0,
+    "waiver_bid_min": 0,
+    "taxi_deadline": 0,
+    "draft_rounds": 3,
+    "reserve_allow_na": 1,
+    "start_week": 1,
+    "playoff_seed_type": 0,
+    "playoff_teams": 4,
+    "veto_votes_needed": 5,
+    "num_teams": 10,
+    "daily_waivers_hour": 0,
+    "playoff_type": 0,
+    "taxi_slots": 0,
+    "sub_start_time_eligibility": 0,
+    "last_scored_leg": 17,
+    "daily_waivers_days": 5461,
+    "sub_lock_if_starter_active": 0,
+    "playoff_week_start": 16,
+    "waiver_clear_days": 3,
+    "reserve_allow_doubtful": 0,
+    "commissioner_direct_invite": 0,
+    "veto_auto_poll": 0,
+    "reserve_allow_dnr": 0,
+    "taxi_allow_vets": 0,
+    "waiver_day_of_week": 2,
+    "playoff_round_type": 0,
+    "reserve_allow_out": 0,
+    "reserve_allow_sus": 1,
+    "veto_show_votes": 0,
+    "trade_deadline": 12,
+    "taxi_years": 0,
+    "daily_waivers": 0,
+    "faab_suggestions": 0,
+    "disable_trades": 0,
+    "pick_trading": 1,
+    "type": 1,
+    "max_keepers": 2,
+    "waiver_type": 1,
+    "max_subs": 0,
+    "league_average_match": 0,
+    "trade_review_days": 3,
+    "bench_lock": 0,
+    "offseason_adds": 0,
+    "leg": 17,
+    "reserve_slots": 2,
+    "reserve_allow_cov": 0,
+    "daily_waivers_last_ran": 31
+  },
+  "scoring_settings": {
+    "sack": 1.0,
+    "fgm_40_49": 4.0,
+    "pass_int": -5.0,
+    "pts_allow_0": 5.0,
+    "pass_2pt": 2.0,
+    "st_td": 6.0,
+    "rec_td": 6.0,
+    "fgm_30_39": 3.0,
+    "fgm_50_59": 5.0,
+    "xpmiss": 0.0,
+    "rush_td_50p": 1.0,
+    "rush_td": 6.0,
+    "pass_td_40p": 4.0,
+    "rec_2pt": 2.0,
+    "st_fum_rec": 0.0,
+    "fgmiss": 0.0,
+    "ff": 0.0,
+    "rec": 0.5,
+    "pts_allow_14_20": 3.5,
+    "fgm_0_19": 3.0,
+    "int": 5.0,
+    "def_st_fum_rec": 5.0,
+    "fum_lost": -5.0,
+    "pts_allow_1_6": 4.5,
+    "fgm_60p": 6.0,
+    "fgm_20_29": 3.0,
+    "pts_allow_21_27": 0.0,
+    "xpm": 1.0,
+    "pass_td_50p": 1.0,
+    "rush_2pt": 2.0,
+    "fum_rec": 5.0,
+    "def_st_td": 6.0,
+    "def_td": 6.0,
+    "rec_td_40p": 4.0,
+    "safe": 2.0,
+    "pass_yd": 0.04,
+    "rec_td_50p": 1.0,
+    "blk_kick": 0.0,
+    "pass_td": 6.0,
+    "rush_yd": 0.1,
+    "fum": 0.0,
+    "pts_allow_28_34": -1.0,
+    "pts_allow_35p": -2.0,
+    "fum_rec_td": 0.0,
+    "rec_yd": 0.1,
+    "rush_td_40p": 4.0,
+    "def_st_ff": 0.0,
+    "pts_allow_7_13": 4.0,
+    "st_ff": 0.0
+  },
+  "owners": [
+    {
+      "roster_id": 1,
+      "owner_id": "1149429413679910912",
+      "display_name": "iavis",
+      "team_name": "Laughing Stocks"
+    },
+    {
+      "roster_id": 2,
+      "owner_id": "655936788661096448",
+      "display_name": "screenhunter",
+      "team_name": "JayDen of Thieves"
+    },
+    {
+      "roster_id": 3,
+      "owner_id": "873315466251264000",
+      "display_name": "BigArmVishy",
+      "team_name": "Dolphin Divers"
+    },
+    {
+      "roster_id": 4,
+      "owner_id": "726180464393519104",
+      "display_name": "karthikmaiya",
+      "team_name": "Jax Off Dart"
+    },
+    {
+      "roster_id": 5,
+      "owner_id": "1174401724329848832",
+      "display_name": "bootyBeaters",
+      "team_name": "Booty Beaters"
+    },
+    {
+      "roster_id": 6,
+      "owner_id": "469215524073500672",
+      "display_name": "yams123",
+      "team_name": "Jahmyrical makers"
+    },
+    {
+      "roster_id": 7,
+      "owner_id": "1259679260600188928",
+      "display_name": "carota",
+      "team_name": "Baldcaraz"
+    },
+    {
+      "roster_id": 8,
+      "owner_id": "662748629542436864",
+      "display_name": "Strikr",
+      "team_name": "Amon Drugs"
+    },
+    {
+      "roster_id": 9,
+      "owner_id": "1260108968643022849",
+      "display_name": "kgadde",
+      "team_name": "Papa Jonathan\u2019s"
+    },
+    {
+      "roster_id": 10,
+      "owner_id": "1261520273753001984",
+      "display_name": "rsmoju",
+      "team_name": null
+    }
+  ],
+  "note": "2025 Sleeper archived season pulled via api.sleeper.app v1/league/1259726899010080768 - includes matchups, rosters, transactions, draft, brackets"
+}
