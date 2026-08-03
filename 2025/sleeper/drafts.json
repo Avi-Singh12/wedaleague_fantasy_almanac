@@ -1,33 +1,22 @@
 [
   {
-    "created": 1754704806623,
+    "created": 1767197656945,
     "creators": [
       "1149429413679910912"
     ],
-    "draft_id": "1259726899022675971",
-    "draft_order": {
-      "1149429413679910912": 6,
-      "1174401724329848832": 10,
-      "1259679260600188928": 5,
-      "1260108968643022849": 2,
-      "1261520273753001984": 8,
-      "469215524073500672": 1,
-      "655936788661096448": 4,
-      "662748629542436864": 9,
-      "726180464393519104": 3,
-      "873315466251264000": 7
-    },
-    "last_message_id": "1267981862081404928",
-    "last_message_time": 1756672943186,
-    "last_picked": 1756672942665,
-    "league_id": "1259726899010080768",
+    "draft_id": "1312125711099654144",
+    "draft_order": null,
+    "last_message_id": "1312125711099654144",
+    "last_message_time": 1767197656945,
+    "last_picked": null,
+    "league_id": "1312125711091240960",
     "metadata": {
       "description": "",
       "name": "wedaleague",
       "scoring_type": "half_ppr",
       "show_team_names": "0"
     },
-    "season": "2025",
+    "season": "2026",
     "season_type": "regular",
     "settings": {
       "alpha_sort": 0,
@@ -53,8 +42,8 @@
       "teams": 10
     },
     "sport": "nfl",
-    "start_time": 1756668669173,
-    "status": "complete",
+    "start_time": null,
+    "status": "pre_draft",
     "type": "snake"
   }
 ]
