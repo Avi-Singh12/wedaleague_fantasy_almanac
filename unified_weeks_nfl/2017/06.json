@@ -113,8 +113,8 @@
   "data_completeness": "full",
   "verified": true,
   "source": "https://fantasy.nfl.com/league/2074621/history/2017/schedule?gameSeason=2017&leagueId=2074621&scheduleDetail=6&scheduleType=week&standingsTab=schedule",
-  "method": "leased_vm_browser_parse",
-  "extraction_date": "2026-08-03T19:21:02.669995Z",
+  "method": "teamgamecenter_roster_enrichment",
+  "extraction_date": "2026-08-03T20:07:02.884893Z",
   "player_stats_nfl_top10": [
     {
       "rank": 1,
@@ -347,5 +347,6 @@
     "targets": 5,
     "receiving_yards": 98,
     "receiving_tds": 2
-  }
+  },
+  "vm_used": "019fc8d9-7505-7a91-8283-ae48f4e4c85e"
 }
