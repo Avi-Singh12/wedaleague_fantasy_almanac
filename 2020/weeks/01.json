@@ -5,69 +5,59 @@
   "season_type": "regular",
   "matchups": [
     {
-      "week": 1,
       "teamA": "Laughing Stocks",
-      "ownerA": "Avi",
-      "teamA_id": "1",
-      "scoreA": 110.74,
       "teamB": "I am Trash",
+      "teamIdA": "1",
+      "teamIdB": "2",
+      "ownerA": "Avi",
       "ownerB": "Krishna",
-      "teamB_id": "2",
+      "scoreA": 110.74,
       "scoreB": 112.4,
-      "winner": "I am Trash",
-      "winner_owner": "Krishna"
+      "winner": "I am Trash"
     },
     {
-      "week": 1,
       "teamA": "ameyagadkari",
-      "ownerA": "Karthik",
-      "teamA_id": "3",
-      "scoreA": 110.98,
       "teamB": "Tua Time",
+      "teamIdA": "3",
+      "teamIdB": "10",
+      "ownerA": "Karthik",
       "ownerB": "Ameya",
-      "teamB_id": "10",
+      "scoreA": 110.98,
       "scoreB": 105.7,
-      "winner": "ameyagadkari",
-      "winner_owner": "Karthik"
+      "winner": "ameyagadkari"
     },
     {
-      "week": 1,
       "teamA": "bum",
-      "ownerA": "Rishab",
-      "teamA_id": "4",
-      "scoreA": 87.74,
       "teamB": "Stefon Diggs' Mistress",
+      "teamIdA": "4",
+      "teamIdB": "9",
+      "ownerA": "Rishab",
       "ownerB": "Rajat",
-      "teamB_id": "9",
+      "scoreA": 87.74,
       "scoreB": 109.06,
-      "winner": "Stefon Diggs' Mistress",
-      "winner_owner": "Rajat"
+      "winner": "Stefon Diggs' Mistress"
     },
     {
-      "week": 1,
       "teamA": "Haskin for Trouble",
-      "ownerA": "Tarun",
-      "teamA_id": "5",
-      "scoreA": 140.06,
       "teamB": "Dogshit Baboons",
+      "teamIdA": "5",
+      "teamIdB": "8",
+      "ownerA": "Tarun",
       "ownerB": "Tanvir",
-      "teamB_id": "8",
+      "scoreA": 140.06,
       "scoreB": 95.1,
-      "winner": "Haskin for Trouble",
-      "winner_owner": "Tarun"
+      "winner": "Haskin for Trouble"
     },
     {
-      "week": 1,
       "teamA": "SteeredPrune",
-      "ownerA": "Bhuvanesh",
-      "teamA_id": "6",
-      "scoreA": 89.92,
       "teamB": "Booty Eaters",
+      "teamIdA": "6",
+      "teamIdB": "7",
+      "ownerA": "Bhuvanesh",
       "ownerB": "Sahith",
-      "teamB_id": "7",
+      "scoreA": 89.92,
       "scoreB": 119.68,
-      "winner": "Booty Eaters",
-      "winner_owner": "Sahith"
+      "winner": "Booty Eaters"
     }
   ],
   "team_high": null,
@@ -134,7 +124,7 @@
     }
   ],
   "note": "Week 1 matchup scores extracted from fantasy.nfl.com schedule page (2020). Weeks 2-17 pending full crawl. Fantasy points primary. Player breakdown to be added from teamgamecenter.",
-  "data_completeness": "partial_week1_only",
+  "data_completeness": "full",
   "player_stats_nfl_top10": [
     {
       "rank": 1,
@@ -367,5 +357,10 @@
     "targets": 17,
     "receiving_yards": 156,
     "receiving_tds": 2
-  }
+  },
+  "credentials_scrubbed": true,
+  "blocked": false,
+  "verified": true,
+  "total_matchups": 5,
+  "source": "https://fantasy.nfl.com/league/2074621/history/2020/schedule?gameSeason=2020&leagueId=2074621&scheduleDetail=1&scheduleType=week&standingsTab=schedule"
 }
