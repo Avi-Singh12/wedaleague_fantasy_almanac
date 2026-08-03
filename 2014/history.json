@@ -1,0 +1,35 @@
+{
+  "leagueId": 2074621,
+  "leagueName": "wedaleague",
+  "year": 2014,
+  "champion": {
+    "year": 2014,
+    "team": "Fear the Beard"
+  },
+  "teamPerformanceWeek": {
+    "year": 2014,
+    "week": 10,
+    "team": "A Poser is not Bharat Venkat",
+    "points": 231.9
+  },
+  "playerPerformanceWeek": {
+    "year": 2014,
+    "week": 10,
+    "team": "A Poser is not Bharat Venkat",
+    "player": "Aaron RodgersQB - GB",
+    "points": 70.6
+  },
+  "teamPerformanceSeason": {
+    "year": 2014,
+    "team": "A Poser is not Bharat Venkat",
+    "points": 1967.0
+  },
+  "settings": {
+    "League Name": "wedaleague",
+    "League ID": "2074621",
+    "Commissioner": "Avi",
+    "Draft Type": "Offline",
+    "Draft Format": "Standard"
+  },
+  "note": "Data from fantasy.nfl.com history almanac page - server-rendered portion. Full standings/roster/matchups require ffsim API via authenticated JS (documented in network_endpoints.json)"
+}
