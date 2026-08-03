@@ -1,0 +1,388 @@
+{
+  "leagueId": 2074621,
+  "leagueType": "private",
+  "leagueName": "wedaleague",
+  "seasons": [
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017,
+    2016,
+    2015,
+    2014,
+    2013
+  ],
+  "champions": [
+    {
+      "year": 2024,
+      "team": "Medve-W"
+    },
+    {
+      "year": 2023,
+      "team": "Booty Eaters"
+    },
+    {
+      "year": 2022,
+      "team": "Dogshit Baboons"
+    },
+    {
+      "year": 2021,
+      "team": "Diggs-ital"
+    },
+    {
+      "year": 2020,
+      "team": "Dogshit Baboons"
+    },
+    {
+      "year": 2019,
+      "team": "I am Trash"
+    },
+    {
+      "year": 2018,
+      "team": "Dogshit Baboons"
+    },
+    {
+      "year": 2017,
+      "team": "More Probable Than Not"
+    },
+    {
+      "year": 2016,
+      "team": "More Probable Than Not"
+    },
+    {
+      "year": 2015,
+      "team": "team sucks ass"
+    },
+    {
+      "year": 2014,
+      "team": "Fear the Beard"
+    },
+    {
+      "year": 2013,
+      "team": "Bharat Venkat is a poser"
+    }
+  ],
+  "teams": [
+    {
+      "teamName": "A Poser is not Bharat Venkat"
+    },
+    {
+      "teamName": "Actual Dick"
+    },
+    {
+      "teamName": "Arshdeep Throat"
+    },
+    {
+      "teamName": "Bharat Venkat is a poser"
+    },
+    {
+      "teamName": "Big Arm Vishy"
+    },
+    {
+      "teamName": "Booty Eaters"
+    },
+    {
+      "teamName": "Dak Sucks Balls"
+    },
+    {
+      "teamName": "Diggs-ital"
+    },
+    {
+      "teamName": "Dogshit Baboons"
+    },
+    {
+      "teamName": "FF  Runner Up"
+    },
+    {
+      "teamName": "Fear the Beard"
+    },
+    {
+      "teamName": "Haskins Robbins"
+    },
+    {
+      "teamName": "I am Trash"
+    },
+    {
+      "teamName": "LAMAAAARRRR JACKSON"
+    },
+    {
+      "teamName": "Laughing Stocks"
+    },
+    {
+      "teamName": "Medve-W"
+    },
+    {
+      "teamName": "More Probable Than Not"
+    },
+    {
+      "teamName": "My team has Herpbies"
+    },
+    {
+      "teamName": "PremSwag12"
+    },
+    {
+      "teamName": "Rookies"
+    },
+    {
+      "teamName": "SteeredPrune"
+    },
+    {
+      "teamName": "The Dream Team"
+    },
+    {
+      "teamName": "Wentz Fuckin Sucks"
+    },
+    {
+      "teamName": "fighting for my life"
+    },
+    {
+      "teamName": "team sucks ass"
+    }
+  ],
+  "teamPerformanceWeek": [
+    {
+      "year": 2024,
+      "week": 8,
+      "team": "fighting for my life",
+      "points": 183.84
+    },
+    {
+      "year": 2023,
+      "week": 5,
+      "team": "Dogshit Baboons",
+      "points": 168.38
+    },
+    {
+      "year": 2022,
+      "week": 2,
+      "team": "Laughing Stocks",
+      "points": 162.18
+    },
+    {
+      "year": 2021,
+      "week": 5,
+      "team": "Diggs-ital",
+      "points": 189.1
+    },
+    {
+      "year": 2020,
+      "week": 12,
+      "team": "Laughing Stocks",
+      "points": 186.18
+    },
+    {
+      "year": 2019,
+      "week": 16,
+      "team": "Actual Dick",
+      "points": 183.28
+    },
+    {
+      "year": 2018,
+      "week": 10,
+      "team": "The Dream Team",
+      "points": 184.3
+    },
+    {
+      "year": 2017,
+      "week": 5,
+      "team": "Dak Sucks Balls",
+      "points": 189.44
+    },
+    {
+      "year": 2016,
+      "week": 2,
+      "team": "FF  Runner Up",
+      "points": 161.0
+    },
+    {
+      "year": 2015,
+      "week": 8,
+      "team": "More Probable Than Not",
+      "points": 190.54
+    },
+    {
+      "year": 2014,
+      "week": 10,
+      "team": "A Poser is not Bharat Venkat",
+      "points": 231.9
+    },
+    {
+      "year": 2013,
+      "week": 15,
+      "team": "Fear the Beard",
+      "points": 186.2
+    }
+  ],
+  "playerPerformanceWeek": [
+    {
+      "year": 2024,
+      "week": 14,
+      "team": "My team has Herpbies",
+      "player": "Josh AllenQB - BUF",
+      "points": 66.88
+    },
+    {
+      "year": 2023,
+      "week": 9,
+      "team": "Big Arm Vishy",
+      "player": "C.J. StroudQB - HOU",
+      "points": 56.8
+    },
+    {
+      "year": 2022,
+      "week": 2,
+      "team": "Booty Eaters",
+      "player": "Lamar JacksonQB - BALQ",
+      "points": 58.62
+    },
+    {
+      "year": 2021,
+      "week": 5,
+      "team": "Booty Eaters",
+      "player": "Justin HerbertQB - LAC",
+      "points": 59.82
+    },
+    {
+      "year": 2020,
+      "week": 16,
+      "team": "SteeredPrune",
+      "player": "Alvin KamaraRB - NO",
+      "points": 57.2
+    },
+    {
+      "year": 2019,
+      "week": 7,
+      "team": "Haskins Robbins",
+      "player": "Aaron RodgersQB - GB",
+      "points": 58.76
+    },
+    {
+      "year": 2018,
+      "week": 14,
+      "team": "FF  Runner Up",
+      "player": "Derrick HenryRB - TEN",
+      "points": 65.8
+    },
+    {
+      "year": 2017,
+      "week": 13,
+      "team": "The Dream Team",
+      "player": "Alex SmithQB - KC",
+      "points": 58.64
+    },
+    {
+      "year": 2016,
+      "week": 3,
+      "team": "Arshdeep Throat",
+      "player": "Kansas City ChiefsDEF",
+      "points": 56.5
+    },
+    {
+      "year": 2015,
+      "week": 7,
+      "team": "Arshdeep Throat",
+      "player": "Ryan TannehillQB - MIA",
+      "points": 62.58
+    },
+    {
+      "year": 2014,
+      "week": 10,
+      "team": "A Poser is not Bharat Venkat",
+      "player": "Aaron RodgersQB - GB",
+      "points": 70.6
+    },
+    {
+      "year": 2013,
+      "week": 1,
+      "team": "Rookies",
+      "player": "Peyton ManningQB - DEN",
+      "points": 69.28
+    }
+  ],
+  "teamPerformanceSeason": [
+    {
+      "year": 2024,
+      "team": "LAMAAAARRRR JACKSON",
+      "points": 1978.04
+    },
+    {
+      "year": 2023,
+      "team": "Booty Eaters",
+      "points": 1637.04
+    },
+    {
+      "year": 2022,
+      "team": "Wentz Fuckin Sucks",
+      "points": 1723.38
+    },
+    {
+      "year": 2021,
+      "team": "Booty Eaters",
+      "points": 1722.42
+    },
+    {
+      "year": 2020,
+      "team": "Laughing Stocks",
+      "points": 1663.76
+    },
+    {
+      "year": 2019,
+      "team": "Haskins Robbins",
+      "points": 1555.84
+    },
+    {
+      "year": 2018,
+      "team": "Booty Eaters",
+      "points": 1749.52
+    },
+    {
+      "year": 2017,
+      "team": "More Probable Than Not",
+      "points": 1589.44
+    },
+    {
+      "year": 2016,
+      "team": "More Probable Than Not",
+      "points": 1636.08
+    },
+    {
+      "year": 2015,
+      "team": "More Probable Than Not",
+      "points": 1749.42
+    },
+    {
+      "year": 2014,
+      "team": "A Poser is not Bharat Venkat",
+      "points": 1967.0
+    },
+    {
+      "year": 2013,
+      "team": "PremSwag12",
+      "points": 1695.64
+    }
+  ],
+  "settings": {
+    "League Name": "wedaleague",
+    "League ID": "2074621",
+    "Commissioner": "Avi",
+    "Draft Type": "Offline",
+    "Draft Format": "Standard"
+  },
+  "standings": [],
+  "draft": [],
+  "transactions": [],
+  "sourceFiles": [
+    "league_home.html",
+    "history.html",
+    "standings.html",
+    "draftresults.html",
+    "draftinfo.html",
+    "transactions.html",
+    "settings.html"
+  ],
+  "notes": "Standings/draft/transactions pages rely heavily on Javascript/YUI and require JS execution via authenticated ffsim proxy. History page is server-rendered and provides full almanac champion + high score data. All private-league permission errors confirmed gone after login."
+}
