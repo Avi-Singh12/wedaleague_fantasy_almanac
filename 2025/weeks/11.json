@@ -1,618 +1,1439 @@
-[
-  {
-    "points": 129.54,
-    "players": [
-      "11533",
-      "11564",
-      "11628",
-      "11632",
-      "12518",
-      "12526",
-      "2449",
-      "7543",
-      "7611",
-      "8111",
-      "9224",
-      "9509",
-      "9756",
-      "BAL"
-    ],
-    "roster_id": 1,
-    "custom_points": null,
-    "matchup_id": 3,
-    "starters": [
-      "11564",
-      "9509",
-      "7543",
-      "2449",
-      "9756",
-      "8111",
-      "9224",
-      "11533",
-      "BAL"
-    ],
-    "starters_points": [
-      17.44,
-      28.3,
-      19.3,
-      15.0,
-      9.0,
-      3.8,
-      15.7,
-      9.0,
-      12.0
-    ],
-    "players_points": {
-      "11533": 9.0,
-      "11564": 17.44,
-      "11628": 0.0,
-      "11632": 0.0,
-      "12518": 0.0,
-      "12526": 29.0,
-      "2449": 15.0,
-      "7543": 19.3,
-      "7611": 0.0,
-      "8111": 3.8,
-      "9224": 15.7,
-      "9509": 28.3,
-      "9756": 9.0,
-      "BAL": 12.0
+{
+  "week": 11,
+  "matchups": [
+    {
+      "points": 129.54,
+      "players": [
+        "11533",
+        "11564",
+        "11628",
+        "11632",
+        "12518",
+        "12526",
+        "2449",
+        "7543",
+        "7611",
+        "8111",
+        "9224",
+        "9509",
+        "9756",
+        "BAL"
+      ],
+      "roster_id": 1,
+      "custom_points": null,
+      "matchup_id": 3,
+      "starters": [
+        "11564",
+        "9509",
+        "7543",
+        "2449",
+        "9756",
+        "8111",
+        "9224",
+        "11533",
+        "BAL"
+      ],
+      "starters_points": [
+        17.44,
+        28.3,
+        19.3,
+        15.0,
+        9.0,
+        3.8,
+        15.7,
+        9.0,
+        12.0
+      ],
+      "players_points": {
+        "11533": 9.0,
+        "11564": 17.44,
+        "11628": 0.0,
+        "11632": 0.0,
+        "12518": 0.0,
+        "12526": 29.0,
+        "2449": 15.0,
+        "7543": 19.3,
+        "7611": 0.0,
+        "8111": 3.8,
+        "9224": 15.7,
+        "9509": 28.3,
+        "9756": 9.0,
+        "BAL": 12.0
+      },
+      "display_name": "iavis",
+      "real_owner": "Avi",
+      "team_name": "Laughing Stocks",
+      "starters_detail": [
+        {
+          "player_id": "11564",
+          "points": 17.44,
+          "is_starter": true
+        },
+        {
+          "player_id": "9509",
+          "points": 28.3,
+          "is_starter": true
+        },
+        {
+          "player_id": "7543",
+          "points": 19.3,
+          "is_starter": true
+        },
+        {
+          "player_id": "2449",
+          "points": 15.0,
+          "is_starter": true
+        },
+        {
+          "player_id": "9756",
+          "points": 9.0,
+          "is_starter": true
+        },
+        {
+          "player_id": "8111",
+          "points": 3.8,
+          "is_starter": true
+        },
+        {
+          "player_id": "9224",
+          "points": 15.7,
+          "is_starter": true
+        },
+        {
+          "player_id": "11533",
+          "points": 9.0,
+          "is_starter": true
+        },
+        {
+          "player_id": "BAL",
+          "points": 12.0,
+          "is_starter": true
+        }
+      ],
+      "bench_detail": [
+        {
+          "player_id": "11628",
+          "points": 0.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "11632",
+          "points": 0.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "12518",
+          "points": 0.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "12526",
+          "points": 29.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "7611",
+          "points": 0.0,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "points": 100.66,
+      "players": [
+        "10219",
+        "11584",
+        "11792",
+        "12493",
+        "1479",
+        "19",
+        "2133",
+        "3198",
+        "6130",
+        "8112",
+        "8136",
+        "8408",
+        "CLE",
+        "TB"
+      ],
+      "roster_id": 2,
+      "custom_points": null,
+      "matchup_id": 5,
+      "starters": [
+        "19",
+        "3198",
+        "8136",
+        "1479",
+        "8112",
+        "12493",
+        "2133",
+        "11792",
+        "CLE"
+      ],
+      "starters_points": [
+        8.86,
+        19.2,
+        7.2,
+        7.3,
+        15.4,
+        5.1,
+        6.6,
+        5.0,
+        26.0
+      ],
+      "players_points": {
+        "10219": 9.0,
+        "11584": 0.0,
+        "11792": 5.0,
+        "12493": 5.1,
+        "1479": 7.3,
+        "19": 8.86,
+        "2133": 6.6,
+        "3198": 19.2,
+        "6130": 17.2,
+        "8112": 15.4,
+        "8136": 7.2,
+        "8408": 10.5,
+        "CLE": 26.0,
+        "TB": 13.0
+      },
+      "display_name": "screenhunter",
+      "real_owner": "Rajat",
+      "team_name": "JayDen of Thieves",
+      "starters_detail": [
+        {
+          "player_id": "19",
+          "points": 8.86,
+          "is_starter": true
+        },
+        {
+          "player_id": "3198",
+          "points": 19.2,
+          "is_starter": true
+        },
+        {
+          "player_id": "8136",
+          "points": 7.2,
+          "is_starter": true
+        },
+        {
+          "player_id": "1479",
+          "points": 7.3,
+          "is_starter": true
+        },
+        {
+          "player_id": "8112",
+          "points": 15.4,
+          "is_starter": true
+        },
+        {
+          "player_id": "12493",
+          "points": 5.1,
+          "is_starter": true
+        },
+        {
+          "player_id": "2133",
+          "points": 6.6,
+          "is_starter": true
+        },
+        {
+          "player_id": "11792",
+          "points": 5.0,
+          "is_starter": true
+        },
+        {
+          "player_id": "CLE",
+          "points": 26.0,
+          "is_starter": true
+        }
+      ],
+      "bench_detail": [
+        {
+          "player_id": "10219",
+          "points": 9.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "11584",
+          "points": 0.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "6130",
+          "points": 17.2,
+          "is_starter": false
+        },
+        {
+          "player_id": "8408",
+          "points": 10.5,
+          "is_starter": false
+        },
+        {
+          "player_id": "TB",
+          "points": 13.0,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "points": 110.82,
+      "players": [
+        "11560",
+        "12489",
+        "12508",
+        "12514",
+        "1466",
+        "4034",
+        "4098",
+        "4217",
+        "4227",
+        "5967",
+        "6790",
+        "6803",
+        "6819",
+        "7526",
+        "NE"
+      ],
+      "roster_id": 3,
+      "custom_points": null,
+      "matchup_id": 5,
+      "starters": [
+        "11560",
+        "4034",
+        "6790",
+        "7526",
+        "12514",
+        "4217",
+        "12489",
+        "4227",
+        "NE"
+      ],
+      "starters_points": [
+        10.32,
+        32.6,
+        9.0,
+        6.7,
+        6.5,
+        21.7,
+        6.5,
+        7.0,
+        10.5
+      ],
+      "players_points": {
+        "11560": 10.32,
+        "12489": 6.5,
+        "12508": 0.0,
+        "12514": 6.5,
+        "1466": 19.6,
+        "4034": 32.6,
+        "4098": 12.7,
+        "4217": 21.7,
+        "4227": 7.0,
+        "5967": 4.1,
+        "6790": 9.0,
+        "6803": 0.0,
+        "6819": 0.0,
+        "7526": 6.7,
+        "NE": 10.5
+      },
+      "display_name": "BigArmVishy",
+      "real_owner": "Vishal",
+      "team_name": "Dolphin Divers",
+      "starters_detail": [
+        {
+          "player_id": "11560",
+          "points": 10.32,
+          "is_starter": true
+        },
+        {
+          "player_id": "4034",
+          "points": 32.6,
+          "is_starter": true
+        },
+        {
+          "player_id": "6790",
+          "points": 9.0,
+          "is_starter": true
+        },
+        {
+          "player_id": "7526",
+          "points": 6.7,
+          "is_starter": true
+        },
+        {
+          "player_id": "12514",
+          "points": 6.5,
+          "is_starter": true
+        },
+        {
+          "player_id": "4217",
+          "points": 21.7,
+          "is_starter": true
+        },
+        {
+          "player_id": "12489",
+          "points": 6.5,
+          "is_starter": true
+        },
+        {
+          "player_id": "4227",
+          "points": 7.0,
+          "is_starter": true
+        },
+        {
+          "player_id": "NE",
+          "points": 10.5,
+          "is_starter": true
+        }
+      ],
+      "bench_detail": [
+        {
+          "player_id": "12508",
+          "points": 0.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "1466",
+          "points": 19.6,
+          "is_starter": false
+        },
+        {
+          "player_id": "4098",
+          "points": 12.7,
+          "is_starter": false
+        },
+        {
+          "player_id": "5967",
+          "points": 4.1,
+          "is_starter": false
+        },
+        {
+          "player_id": "6803",
+          "points": 0.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "6819",
+          "points": 0.0,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "points": 90.1,
+      "players": [
+        "10859",
+        "11604",
+        "11620",
+        "11647",
+        "12530",
+        "2747",
+        "421",
+        "4866",
+        "5022",
+        "5870",
+        "6770",
+        "9504",
+        "9753",
+        "9754",
+        "JAX",
+        "PIT"
+      ],
+      "roster_id": 4,
+      "custom_points": null,
+      "matchup_id": 1,
+      "starters": [
+        "421",
+        "11647",
+        "4866",
+        "9754",
+        "11620",
+        "5022",
+        "11604",
+        "2747",
+        "PIT"
+      ],
+      "starters_points": [
+        17.2,
+        2.2,
+        9.5,
+        0.0,
+        5.1,
+        3.4,
+        10.7,
+        15.0,
+        27.0
+      ],
+      "players_points": {
+        "10859": 0.0,
+        "11604": 10.7,
+        "11620": 5.1,
+        "11647": 2.2,
+        "12530": 0.0,
+        "2747": 15.0,
+        "421": 17.2,
+        "4866": 9.5,
+        "5022": 3.4,
+        "5870": 0.0,
+        "6770": 0.0,
+        "9504": 0.0,
+        "9753": 5.7,
+        "9754": 0.0,
+        "JAX": 12.5,
+        "PIT": 27.0
+      },
+      "display_name": "karthikmaiya",
+      "real_owner": "Karthik",
+      "team_name": "Jax Off Dart",
+      "starters_detail": [
+        {
+          "player_id": "421",
+          "points": 17.2,
+          "is_starter": true
+        },
+        {
+          "player_id": "11647",
+          "points": 2.2,
+          "is_starter": true
+        },
+        {
+          "player_id": "4866",
+          "points": 9.5,
+          "is_starter": true
+        },
+        {
+          "player_id": "9754",
+          "points": 0.0,
+          "is_starter": true
+        },
+        {
+          "player_id": "11620",
+          "points": 5.1,
+          "is_starter": true
+        },
+        {
+          "player_id": "5022",
+          "points": 3.4,
+          "is_starter": true
+        },
+        {
+          "player_id": "11604",
+          "points": 10.7,
+          "is_starter": true
+        },
+        {
+          "player_id": "2747",
+          "points": 15.0,
+          "is_starter": true
+        },
+        {
+          "player_id": "PIT",
+          "points": 27.0,
+          "is_starter": true
+        }
+      ],
+      "bench_detail": [
+        {
+          "player_id": "10859",
+          "points": 0.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "12530",
+          "points": 0.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "5870",
+          "points": 0.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "6770",
+          "points": 0.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "9504",
+          "points": 0.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "9753",
+          "points": 5.7,
+          "is_starter": false
+        },
+        {
+          "player_id": "JAX",
+          "points": 12.5,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "points": 85.74,
+      "players": [
+        "11624",
+        "12481",
+        "12527",
+        "1339",
+        "17",
+        "3451",
+        "4199",
+        "4892",
+        "5045",
+        "6797",
+        "6801",
+        "7569",
+        "8138",
+        "DET",
+        "PHI"
+      ],
+      "roster_id": 5,
+      "custom_points": null,
+      "matchup_id": 2,
+      "starters": [
+        "6797",
+        "12527",
+        "8138",
+        "7569",
+        "5045",
+        "1339",
+        "6801",
+        "17",
+        "DET"
+      ],
+      "starters_points": [
+        0.34,
+        6.4,
+        18.9,
+        19.7,
+        7.9,
+        6.2,
+        13.8,
+        8.0,
+        4.5
+      ],
+      "players_points": {
+        "11624": 4.0,
+        "12481": 0.0,
+        "12527": 6.4,
+        "1339": 6.2,
+        "17": 8.0,
+        "3451": 0.0,
+        "4199": 9.6,
+        "4892": 12.82,
+        "5045": 7.9,
+        "6797": 0.34,
+        "6801": 13.8,
+        "7569": 19.7,
+        "8138": 18.9,
+        "DET": 4.5,
+        "PHI": 11.0
+      },
+      "display_name": "bootyBeaters",
+      "real_owner": "Sahith",
+      "team_name": "Booty Beaters",
+      "starters_detail": [
+        {
+          "player_id": "6797",
+          "points": 0.34,
+          "is_starter": true
+        },
+        {
+          "player_id": "12527",
+          "points": 6.4,
+          "is_starter": true
+        },
+        {
+          "player_id": "8138",
+          "points": 18.9,
+          "is_starter": true
+        },
+        {
+          "player_id": "7569",
+          "points": 19.7,
+          "is_starter": true
+        },
+        {
+          "player_id": "5045",
+          "points": 7.9,
+          "is_starter": true
+        },
+        {
+          "player_id": "1339",
+          "points": 6.2,
+          "is_starter": true
+        },
+        {
+          "player_id": "6801",
+          "points": 13.8,
+          "is_starter": true
+        },
+        {
+          "player_id": "17",
+          "points": 8.0,
+          "is_starter": true
+        },
+        {
+          "player_id": "DET",
+          "points": 4.5,
+          "is_starter": true
+        }
+      ],
+      "bench_detail": [
+        {
+          "player_id": "11624",
+          "points": 4.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "12481",
+          "points": 0.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "3451",
+          "points": 0.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "4199",
+          "points": 9.6,
+          "is_starter": false
+        },
+        {
+          "player_id": "4892",
+          "points": 12.82,
+          "is_starter": false
+        },
+        {
+          "player_id": "PHI",
+          "points": 11.0,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "points": 111.7,
+      "players": [
+        "10229",
+        "11539",
+        "12474",
+        "12517",
+        "12533",
+        "5872",
+        "6786",
+        "6904",
+        "8150",
+        "9221",
+        "9488",
+        "9758",
+        "9997",
+        "GB"
+      ],
+      "roster_id": 6,
+      "custom_points": null,
+      "matchup_id": 4,
+      "starters": [
+        "6904",
+        "8150",
+        "9221",
+        "6786",
+        "10229",
+        "12517",
+        "9488",
+        "11539",
+        "GB"
+      ],
+      "starters_points": [
+        14.5,
+        16.1,
+        17.1,
+        15.1,
+        6.8,
+        5.5,
+        16.1,
+        5.0,
+        15.5
+      ],
+      "players_points": {
+        "10229": 6.8,
+        "11539": 5.0,
+        "12474": 5.6,
+        "12517": 5.5,
+        "12533": 3.8,
+        "5872": 17.2,
+        "6786": 15.1,
+        "6904": 14.5,
+        "8150": 16.1,
+        "9221": 17.1,
+        "9488": 16.1,
+        "9758": 0.0,
+        "9997": 9.8,
+        "GB": 15.5
+      },
+      "display_name": "yams123",
+      "real_owner": "Ameya",
+      "team_name": "Jahmyrical makers",
+      "starters_detail": [
+        {
+          "player_id": "6904",
+          "points": 14.5,
+          "is_starter": true
+        },
+        {
+          "player_id": "8150",
+          "points": 16.1,
+          "is_starter": true
+        },
+        {
+          "player_id": "9221",
+          "points": 17.1,
+          "is_starter": true
+        },
+        {
+          "player_id": "6786",
+          "points": 15.1,
+          "is_starter": true
+        },
+        {
+          "player_id": "10229",
+          "points": 6.8,
+          "is_starter": true
+        },
+        {
+          "player_id": "12517",
+          "points": 5.5,
+          "is_starter": true
+        },
+        {
+          "player_id": "9488",
+          "points": 16.1,
+          "is_starter": true
+        },
+        {
+          "player_id": "11539",
+          "points": 5.0,
+          "is_starter": true
+        },
+        {
+          "player_id": "GB",
+          "points": 15.5,
+          "is_starter": true
+        }
+      ],
+      "bench_detail": [
+        {
+          "player_id": "12474",
+          "points": 5.6,
+          "is_starter": false
+        },
+        {
+          "player_id": "12533",
+          "points": 3.8,
+          "is_starter": false
+        },
+        {
+          "player_id": "5872",
+          "points": 17.2,
+          "is_starter": false
+        },
+        {
+          "player_id": "9758",
+          "points": 0.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "9997",
+          "points": 9.8,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "points": 106.98,
+      "players": [
+        "12512",
+        "3163",
+        "4035",
+        "4984",
+        "5850",
+        "5892",
+        "6271",
+        "6650",
+        "6794",
+        "6806",
+        "7525",
+        "8130",
+        "8144",
+        "SEA"
+      ],
+      "roster_id": 7,
+      "custom_points": null,
+      "matchup_id": 2,
+      "starters": [
+        "4984",
+        "5850",
+        "12512",
+        "6794",
+        "7525",
+        "8130",
+        "6806",
+        "6650",
+        "SEA"
+      ],
+      "starters_points": [
+        51.68,
+        4.0,
+        5.9,
+        8.6,
+        1.3,
+        22.5,
+        0.0,
+        8.0,
+        5.0
+      ],
+      "players_points": {
+        "12512": 5.9,
+        "3163": 15.1,
+        "4035": 0.0,
+        "4984": 51.68,
+        "5850": 4.0,
+        "5892": 4.2,
+        "6271": 0.0,
+        "6650": 8.0,
+        "6794": 8.6,
+        "6806": 0.0,
+        "7525": 1.3,
+        "8130": 22.5,
+        "8144": 0.0,
+        "SEA": 5.0
+      },
+      "display_name": "carota",
+      "real_owner": "Bhuvanesh",
+      "team_name": "Baldcaraz",
+      "starters_detail": [
+        {
+          "player_id": "4984",
+          "points": 51.68,
+          "is_starter": true
+        },
+        {
+          "player_id": "5850",
+          "points": 4.0,
+          "is_starter": true
+        },
+        {
+          "player_id": "12512",
+          "points": 5.9,
+          "is_starter": true
+        },
+        {
+          "player_id": "6794",
+          "points": 8.6,
+          "is_starter": true
+        },
+        {
+          "player_id": "7525",
+          "points": 1.3,
+          "is_starter": true
+        },
+        {
+          "player_id": "8130",
+          "points": 22.5,
+          "is_starter": true
+        },
+        {
+          "player_id": "6806",
+          "points": 0.0,
+          "is_starter": true
+        },
+        {
+          "player_id": "6650",
+          "points": 8.0,
+          "is_starter": true
+        },
+        {
+          "player_id": "SEA",
+          "points": 5.0,
+          "is_starter": true
+        }
+      ],
+      "bench_detail": [
+        {
+          "player_id": "3163",
+          "points": 15.1,
+          "is_starter": false
+        },
+        {
+          "player_id": "4035",
+          "points": 0.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "5892",
+          "points": 4.2,
+          "is_starter": false
+        },
+        {
+          "player_id": "6271",
+          "points": 0.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "8144",
+          "points": 0.0,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "points": 78.92,
+      "players": [
+        "11589",
+        "12507",
+        "1945",
+        "3294",
+        "4881",
+        "5001",
+        "5846",
+        "7021",
+        "7547",
+        "7564",
+        "8121",
+        "8126",
+        "8132",
+        "8142",
+        "8151",
+        "9226",
+        "CHI"
+      ],
+      "roster_id": 8,
+      "custom_points": null,
+      "matchup_id": 3,
+      "starters": [
+        "4881",
+        "9226",
+        "7021",
+        "7547",
+        "7564",
+        "5001",
+        "5846",
+        "1945",
+        "CHI"
+      ],
+      "starters_points": [
+        -1.28,
+        19.0,
+        12.5,
+        5.2,
+        4.5,
+        8.1,
+        7.4,
+        10.0,
+        13.5
+      ],
+      "players_points": {
+        "11589": 0.0,
+        "12507": 0.0,
+        "1945": 10.0,
+        "3294": 29.32,
+        "4881": -1.28,
+        "5001": 8.1,
+        "5846": 7.4,
+        "7021": 12.5,
+        "7547": 5.2,
+        "7564": 4.5,
+        "8121": 7.3,
+        "8126": 5.6,
+        "8132": 8.6,
+        "8142": 0.0,
+        "8151": 18.6,
+        "9226": 19.0,
+        "CHI": 13.5
+      },
+      "display_name": "Strikr",
+      "real_owner": "Tanvir",
+      "team_name": "Amon Drugs",
+      "starters_detail": [
+        {
+          "player_id": "4881",
+          "points": -1.28,
+          "is_starter": true
+        },
+        {
+          "player_id": "9226",
+          "points": 19.0,
+          "is_starter": true
+        },
+        {
+          "player_id": "7021",
+          "points": 12.5,
+          "is_starter": true
+        },
+        {
+          "player_id": "7547",
+          "points": 5.2,
+          "is_starter": true
+        },
+        {
+          "player_id": "7564",
+          "points": 4.5,
+          "is_starter": true
+        },
+        {
+          "player_id": "5001",
+          "points": 8.1,
+          "is_starter": true
+        },
+        {
+          "player_id": "5846",
+          "points": 7.4,
+          "is_starter": true
+        },
+        {
+          "player_id": "1945",
+          "points": 10.0,
+          "is_starter": true
+        },
+        {
+          "player_id": "CHI",
+          "points": 13.5,
+          "is_starter": true
+        }
+      ],
+      "bench_detail": [
+        {
+          "player_id": "11589",
+          "points": 0.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "12507",
+          "points": 0.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "3294",
+          "points": 29.32,
+          "is_starter": false
+        },
+        {
+          "player_id": "8121",
+          "points": 7.3,
+          "is_starter": false
+        },
+        {
+          "player_id": "8126",
+          "points": 5.6,
+          "is_starter": false
+        },
+        {
+          "player_id": "8132",
+          "points": 8.6,
+          "is_starter": false
+        },
+        {
+          "player_id": "8142",
+          "points": 0.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "8151",
+          "points": 18.6,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "points": 148.84,
+      "players": [
+        "11199",
+        "11635",
+        "11655",
+        "12529",
+        "12711",
+        "4018",
+        "4046",
+        "5859",
+        "5927",
+        "6813",
+        "8110",
+        "8137",
+        "8148",
+        "9506",
+        "HOU"
+      ],
+      "roster_id": 9,
+      "custom_points": null,
+      "matchup_id": 1,
+      "starters": [
+        "4046",
+        "12529",
+        "9506",
+        "8137",
+        "11635",
+        "8110",
+        "5859",
+        "12711",
+        "HOU"
+      ],
+      "starters_points": [
+        12.34,
+        29.8,
+        37.0,
+        24.9,
+        2.8,
+        9.6,
+        8.4,
+        12.0,
+        12.0
+      ],
+      "players_points": {
+        "11199": 3.0,
+        "11635": 2.8,
+        "11655": 15.9,
+        "12529": 29.8,
+        "12711": 12.0,
+        "4018": 0.0,
+        "4046": 12.34,
+        "5859": 8.4,
+        "5927": 0.0,
+        "6813": 0.0,
+        "8110": 9.6,
+        "8137": 24.9,
+        "8148": 21.7,
+        "9506": 37.0,
+        "HOU": 12.0
+      },
+      "display_name": "kgadde",
+      "real_owner": "Krishna",
+      "team_name": "Papa Jonathan\u2019s",
+      "starters_detail": [
+        {
+          "player_id": "4046",
+          "points": 12.34,
+          "is_starter": true
+        },
+        {
+          "player_id": "12529",
+          "points": 29.8,
+          "is_starter": true
+        },
+        {
+          "player_id": "9506",
+          "points": 37.0,
+          "is_starter": true
+        },
+        {
+          "player_id": "8137",
+          "points": 24.9,
+          "is_starter": true
+        },
+        {
+          "player_id": "11635",
+          "points": 2.8,
+          "is_starter": true
+        },
+        {
+          "player_id": "8110",
+          "points": 9.6,
+          "is_starter": true
+        },
+        {
+          "player_id": "5859",
+          "points": 8.4,
+          "is_starter": true
+        },
+        {
+          "player_id": "12711",
+          "points": 12.0,
+          "is_starter": true
+        },
+        {
+          "player_id": "HOU",
+          "points": 12.0,
+          "is_starter": true
+        }
+      ],
+      "bench_detail": [
+        {
+          "player_id": "11199",
+          "points": 3.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "11655",
+          "points": 15.9,
+          "is_starter": false
+        },
+        {
+          "player_id": "4018",
+          "points": 0.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "5927",
+          "points": 0.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "6813",
+          "points": 0.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "8148",
+          "points": 21.7,
+          "is_starter": false
+        }
+      ]
+    },
+    {
+      "points": 88.0,
+      "players": [
+        "11631",
+        "11638",
+        "3214",
+        "4943",
+        "7049",
+        "7588",
+        "8146",
+        "8155",
+        "8183",
+        "8228",
+        "8259",
+        "8676",
+        "9493",
+        "SF"
+      ],
+      "roster_id": 10,
+      "custom_points": null,
+      "matchup_id": 4,
+      "starters": [
+        "8183",
+        "7588",
+        "8155",
+        "9493",
+        "11638",
+        "3214",
+        "8228",
+        "8259",
+        "SF"
+      ],
+      "starters_points": [
+        25.3,
+        9.8,
+        7.4,
+        7.8,
+        0.5,
+        6.5,
+        7.7,
+        8.0,
+        15.0
+      ],
+      "players_points": {
+        "11631": 0.0,
+        "11638": 0.5,
+        "3214": 6.5,
+        "4943": -7.74,
+        "7049": 7.4,
+        "7588": 9.8,
+        "8146": 0.0,
+        "8155": 7.4,
+        "8183": 25.3,
+        "8228": 7.7,
+        "8259": 8.0,
+        "8676": 3.9,
+        "9493": 7.8,
+        "SF": 15.0
+      },
+      "display_name": "rsmoju",
+      "real_owner": "Rishab",
+      "team_name": "",
+      "starters_detail": [
+        {
+          "player_id": "8183",
+          "points": 25.3,
+          "is_starter": true
+        },
+        {
+          "player_id": "7588",
+          "points": 9.8,
+          "is_starter": true
+        },
+        {
+          "player_id": "8155",
+          "points": 7.4,
+          "is_starter": true
+        },
+        {
+          "player_id": "9493",
+          "points": 7.8,
+          "is_starter": true
+        },
+        {
+          "player_id": "11638",
+          "points": 0.5,
+          "is_starter": true
+        },
+        {
+          "player_id": "3214",
+          "points": 6.5,
+          "is_starter": true
+        },
+        {
+          "player_id": "8228",
+          "points": 7.7,
+          "is_starter": true
+        },
+        {
+          "player_id": "8259",
+          "points": 8.0,
+          "is_starter": true
+        },
+        {
+          "player_id": "SF",
+          "points": 15.0,
+          "is_starter": true
+        }
+      ],
+      "bench_detail": [
+        {
+          "player_id": "11631",
+          "points": 0.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "4943",
+          "points": -7.74,
+          "is_starter": false
+        },
+        {
+          "player_id": "7049",
+          "points": 7.4,
+          "is_starter": false
+        },
+        {
+          "player_id": "8146",
+          "points": 0.0,
+          "is_starter": false
+        },
+        {
+          "player_id": "8676",
+          "points": 3.9,
+          "is_starter": false
+        }
+      ]
     }
-  },
-  {
-    "points": 100.66,
-    "players": [
-      "10219",
-      "11584",
-      "11792",
-      "12493",
-      "1479",
-      "19",
-      "2133",
-      "3198",
-      "6130",
-      "8112",
-      "8136",
-      "8408",
-      "CLE",
-      "TB"
-    ],
-    "roster_id": 2,
-    "custom_points": null,
-    "matchup_id": 5,
-    "starters": [
-      "19",
-      "3198",
-      "8136",
-      "1479",
-      "8112",
-      "12493",
-      "2133",
-      "11792",
-      "CLE"
-    ],
-    "starters_points": [
-      8.86,
-      19.2,
-      7.2,
-      7.3,
-      15.4,
-      5.1,
-      6.6,
-      5.0,
-      26.0
-    ],
-    "players_points": {
-      "10219": 9.0,
-      "11584": 0.0,
-      "11792": 5.0,
-      "12493": 5.1,
-      "1479": 7.3,
-      "19": 8.86,
-      "2133": 6.6,
-      "3198": 19.2,
-      "6130": 17.2,
-      "8112": 15.4,
-      "8136": 7.2,
-      "8408": 10.5,
-      "CLE": 26.0,
-      "TB": 13.0
-    }
-  },
-  {
-    "points": 110.82,
-    "players": [
-      "11560",
-      "12489",
-      "12508",
-      "12514",
-      "1466",
-      "4034",
-      "4098",
-      "4217",
-      "4227",
-      "5967",
-      "6790",
-      "6803",
-      "6819",
-      "7526",
-      "NE"
-    ],
-    "roster_id": 3,
-    "custom_points": null,
-    "matchup_id": 5,
-    "starters": [
-      "11560",
-      "4034",
-      "6790",
-      "7526",
-      "12514",
-      "4217",
-      "12489",
-      "4227",
-      "NE"
-    ],
-    "starters_points": [
-      10.32,
-      32.6,
-      9.0,
-      6.7,
-      6.5,
-      21.7,
-      6.5,
-      7.0,
-      10.5
-    ],
-    "players_points": {
-      "11560": 10.32,
-      "12489": 6.5,
-      "12508": 0.0,
-      "12514": 6.5,
-      "1466": 19.6,
-      "4034": 32.6,
-      "4098": 12.7,
-      "4217": 21.7,
-      "4227": 7.0,
-      "5967": 4.1,
-      "6790": 9.0,
-      "6803": 0.0,
-      "6819": 0.0,
-      "7526": 6.7,
-      "NE": 10.5
-    }
-  },
-  {
-    "points": 90.1,
-    "players": [
-      "10859",
-      "11604",
-      "11620",
-      "11647",
-      "12530",
-      "2747",
-      "421",
-      "4866",
-      "5022",
-      "5870",
-      "6770",
-      "9504",
-      "9753",
-      "9754",
-      "JAX",
-      "PIT"
-    ],
-    "roster_id": 4,
-    "custom_points": null,
-    "matchup_id": 1,
-    "starters": [
-      "421",
-      "11647",
-      "4866",
-      "9754",
-      "11620",
-      "5022",
-      "11604",
-      "2747",
-      "PIT"
-    ],
-    "starters_points": [
-      17.2,
-      2.2,
-      9.5,
-      0.0,
-      5.1,
-      3.4,
-      10.7,
-      15.0,
-      27.0
-    ],
-    "players_points": {
-      "10859": 0.0,
-      "11604": 10.7,
-      "11620": 5.1,
-      "11647": 2.2,
-      "12530": 0.0,
-      "2747": 15.0,
-      "421": 17.2,
-      "4866": 9.5,
-      "5022": 3.4,
-      "5870": 0.0,
-      "6770": 0.0,
-      "9504": 0.0,
-      "9753": 5.7,
-      "9754": 0.0,
-      "JAX": 12.5,
-      "PIT": 27.0
-    }
-  },
-  {
-    "points": 85.74,
-    "players": [
-      "11624",
-      "12481",
-      "12527",
-      "1339",
-      "17",
-      "3451",
-      "4199",
-      "4892",
-      "5045",
-      "6797",
-      "6801",
-      "7569",
-      "8138",
-      "DET",
-      "PHI"
-    ],
-    "roster_id": 5,
-    "custom_points": null,
-    "matchup_id": 2,
-    "starters": [
-      "6797",
-      "12527",
-      "8138",
-      "7569",
-      "5045",
-      "1339",
-      "6801",
-      "17",
-      "DET"
-    ],
-    "starters_points": [
-      0.34,
-      6.4,
-      18.9,
-      19.7,
-      7.9,
-      6.2,
-      13.8,
-      8.0,
-      4.5
-    ],
-    "players_points": {
-      "11624": 4.0,
-      "12481": 0.0,
-      "12527": 6.4,
-      "1339": 6.2,
-      "17": 8.0,
-      "3451": 0.0,
-      "4199": 9.6,
-      "4892": 12.82,
-      "5045": 7.9,
-      "6797": 0.34,
-      "6801": 13.8,
-      "7569": 19.7,
-      "8138": 18.9,
-      "DET": 4.5,
-      "PHI": 11.0
-    }
-  },
-  {
-    "points": 111.7,
-    "players": [
-      "10229",
-      "11539",
-      "12474",
-      "12517",
-      "12533",
-      "5872",
-      "6786",
-      "6904",
-      "8150",
-      "9221",
-      "9488",
-      "9758",
-      "9997",
-      "GB"
-    ],
-    "roster_id": 6,
-    "custom_points": null,
-    "matchup_id": 4,
-    "starters": [
-      "6904",
-      "8150",
-      "9221",
-      "6786",
-      "10229",
-      "12517",
-      "9488",
-      "11539",
-      "GB"
-    ],
-    "starters_points": [
-      14.5,
-      16.1,
-      17.1,
-      15.1,
-      6.8,
-      5.5,
-      16.1,
-      5.0,
-      15.5
-    ],
-    "players_points": {
-      "10229": 6.8,
-      "11539": 5.0,
-      "12474": 5.6,
-      "12517": 5.5,
-      "12533": 3.8,
-      "5872": 17.2,
-      "6786": 15.1,
-      "6904": 14.5,
-      "8150": 16.1,
-      "9221": 17.1,
-      "9488": 16.1,
-      "9758": 0.0,
-      "9997": 9.8,
-      "GB": 15.5
-    }
-  },
-  {
-    "points": 106.98,
-    "players": [
-      "12512",
-      "3163",
-      "4035",
-      "4984",
-      "5850",
-      "5892",
-      "6271",
-      "6650",
-      "6794",
-      "6806",
-      "7525",
-      "8130",
-      "8144",
-      "SEA"
-    ],
+  ],
+  "player_high": {
+    "week": 11,
     "roster_id": 7,
-    "custom_points": null,
-    "matchup_id": 2,
-    "starters": [
-      "4984",
-      "5850",
-      "12512",
-      "6794",
-      "7525",
-      "8130",
-      "6806",
-      "6650",
-      "SEA"
-    ],
-    "starters_points": [
-      51.68,
-      4.0,
-      5.9,
-      8.6,
-      1.3,
-      22.5,
-      0.0,
-      8.0,
-      5.0
-    ],
-    "players_points": {
-      "12512": 5.9,
-      "3163": 15.1,
-      "4035": 0.0,
-      "4984": 51.68,
-      "5850": 4.0,
-      "5892": 4.2,
-      "6271": 0.0,
-      "6650": 8.0,
-      "6794": 8.6,
-      "6806": 0.0,
-      "7525": 1.3,
-      "8130": 22.5,
-      "8144": 0.0,
-      "SEA": 5.0
-    }
-  },
-  {
-    "points": 78.92,
-    "players": [
-      "11589",
-      "12507",
-      "1945",
-      "3294",
-      "4881",
-      "5001",
-      "5846",
-      "7021",
-      "7547",
-      "7564",
-      "8121",
-      "8126",
-      "8132",
-      "8142",
-      "8151",
-      "9226",
-      "CHI"
-    ],
-    "roster_id": 8,
-    "custom_points": null,
-    "matchup_id": 3,
-    "starters": [
-      "4881",
-      "9226",
-      "7021",
-      "7547",
-      "7564",
-      "5001",
-      "5846",
-      "1945",
-      "CHI"
-    ],
-    "starters_points": [
-      -1.28,
-      19.0,
-      12.5,
-      5.2,
-      4.5,
-      8.1,
-      7.4,
-      10.0,
-      13.5
-    ],
-    "players_points": {
-      "11589": 0.0,
-      "12507": 0.0,
-      "1945": 10.0,
-      "3294": 29.32,
-      "4881": -1.28,
-      "5001": 8.1,
-      "5846": 7.4,
-      "7021": 12.5,
-      "7547": 5.2,
-      "7564": 4.5,
-      "8121": 7.3,
-      "8126": 5.6,
-      "8132": 8.6,
-      "8142": 0.0,
-      "8151": 18.6,
-      "9226": 19.0,
-      "CHI": 13.5
-    }
-  },
-  {
-    "points": 148.84,
-    "players": [
-      "11199",
-      "11635",
-      "11655",
-      "12529",
-      "12711",
-      "4018",
-      "4046",
-      "5859",
-      "5927",
-      "6813",
-      "8110",
-      "8137",
-      "8148",
-      "9506",
-      "HOU"
-    ],
-    "roster_id": 9,
-    "custom_points": null,
-    "matchup_id": 1,
-    "starters": [
-      "4046",
-      "12529",
-      "9506",
-      "8137",
-      "11635",
-      "8110",
-      "5859",
-      "12711",
-      "HOU"
-    ],
-    "starters_points": [
-      12.34,
-      29.8,
-      37.0,
-      24.9,
-      2.8,
-      9.6,
-      8.4,
-      12.0,
-      12.0
-    ],
-    "players_points": {
-      "11199": 3.0,
-      "11635": 2.8,
-      "11655": 15.9,
-      "12529": 29.8,
-      "12711": 12.0,
-      "4018": 0.0,
-      "4046": 12.34,
-      "5859": 8.4,
-      "5927": 0.0,
-      "6813": 0.0,
-      "8110": 9.6,
-      "8137": 24.9,
-      "8148": 21.7,
-      "9506": 37.0,
-      "HOU": 12.0
-    }
-  },
-  {
-    "points": 88.0,
-    "players": [
-      "11631",
-      "11638",
-      "3214",
-      "4943",
-      "7049",
-      "7588",
-      "8146",
-      "8155",
-      "8183",
-      "8228",
-      "8259",
-      "8676",
-      "9493",
-      "SF"
-    ],
-    "roster_id": 10,
-    "custom_points": null,
-    "matchup_id": 4,
-    "starters": [
-      "8183",
-      "7588",
-      "8155",
-      "9493",
-      "11638",
-      "3214",
-      "8228",
-      "8259",
-      "SF"
-    ],
-    "starters_points": [
-      25.3,
-      9.8,
-      7.4,
-      7.8,
-      0.5,
-      6.5,
-      7.7,
-      8.0,
-      15.0
-    ],
-    "players_points": {
-      "11631": 0.0,
-      "11638": 0.5,
-      "3214": 6.5,
-      "4943": -7.74,
-      "7049": 7.4,
-      "7588": 9.8,
-      "8146": 0.0,
-      "8155": 7.4,
-      "8183": 25.3,
-      "8228": 7.7,
-      "8259": 8.0,
-      "8676": 3.9,
-      "9493": 7.8,
-      "SF": 15.0
-    }
+    "display": "carota",
+    "real_owner": "Bhuvanesh",
+    "player_id": "4984",
+    "points": 51.68
   }
-]
+}
