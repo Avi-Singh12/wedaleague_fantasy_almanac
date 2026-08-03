@@ -72,79 +72,139 @@
         {
           "player_id": "11564",
           "points": 12.12,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Drake Maye",
+          "full_name": "Drake Maye",
+          "position": "QB",
+          "team": "NE"
         },
         {
           "player_id": "9224",
           "points": 8.3,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Chase Brown",
+          "full_name": "Chase Brown",
+          "position": "RB",
+          "team": "CIN"
         },
         {
           "player_id": "7543",
           "points": 7.3,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Travis Etienne",
+          "full_name": "Travis Etienne",
+          "position": "RB",
+          "team": "NO"
         },
         {
           "player_id": "11628",
           "points": 11.8,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Marvin Harrison",
+          "full_name": "Marvin Harrison",
+          "position": "WR",
+          "team": "ARI"
         },
         {
           "player_id": "12526",
           "points": 10.3,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Tetairoa McMillan",
+          "full_name": "Tetairoa McMillan",
+          "position": "WR",
+          "team": "CAR"
         },
         {
           "player_id": "12518",
           "points": 12.4,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Tyler Warren",
+          "full_name": "Tyler Warren",
+          "position": "TE",
+          "team": "IND"
         },
         {
           "player_id": "2449",
           "points": 19.6,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Stefon Diggs",
+          "full_name": "Stefon Diggs",
+          "position": "WR",
+          "team": null
         },
         {
           "player_id": "11533",
           "points": 7.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Brandon Aubrey",
+          "full_name": "Brandon Aubrey",
+          "position": "K",
+          "team": "DAL"
         },
         {
           "player_id": "IND",
           "points": 18.5,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Indianapolis Colts",
+          "full_name": "Indianapolis Colts",
+          "position": "DEF",
+          "team": "IND"
         }
       ],
       "bench_detail": [
         {
           "player_id": "11563",
           "points": 19.88,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Bo Nix",
+          "full_name": "Bo Nix",
+          "position": "QB",
+          "team": "DEN"
         },
         {
           "player_id": "11632",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Malik Nabers",
+          "full_name": "Malik Nabers",
+          "position": "WR",
+          "team": "NYG"
         },
         {
           "player_id": "4983",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "DJ Moore",
+          "full_name": "DJ Moore",
+          "position": "WR",
+          "team": "BUF"
         },
         {
           "player_id": "9509",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Bijan Robinson",
+          "full_name": "Bijan Robinson",
+          "position": "RB",
+          "team": "ATL"
         },
         {
           "player_id": "9756",
           "points": 12.6,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Jordan Addison",
+          "full_name": "Jordan Addison",
+          "position": "WR",
+          "team": "MIN"
         },
         {
           "player_id": "MIN",
           "points": 5.5,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Minnesota Vikings",
+          "full_name": "Minnesota Vikings",
+          "position": "DEF",
+          "team": "MIN"
         }
       ]
     },
@@ -214,74 +274,130 @@
         {
           "player_id": "11566",
           "points": 19.14,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Jayden Daniels",
+          "full_name": "Jayden Daniels",
+          "position": "QB",
+          "team": "WAS"
         },
         {
           "player_id": "3198",
           "points": 9.3,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Derrick Henry",
+          "full_name": "Derrick Henry",
+          "position": "RB",
+          "team": "BAL"
         },
         {
           "player_id": "8136",
           "points": 21.1,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Rachaad White",
+          "full_name": "Rachaad White",
+          "position": "RB",
+          "team": "WAS"
         },
         {
           "player_id": "2133",
           "points": 11.3,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Davante Adams",
+          "full_name": "Davante Adams",
+          "position": "WR",
+          "team": "LAR"
         },
         {
           "player_id": "7526",
           "points": 24.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Jaylen Waddle",
+          "full_name": "Jaylen Waddle",
+          "position": "WR",
+          "team": "DEN"
         },
         {
           "player_id": "2505",
           "points": 16.3,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Darren Waller",
+          "full_name": "Darren Waller",
+          "position": "TE",
+          "team": null
         },
         {
           "player_id": "1479",
           "points": 8.3,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Keenan Allen",
+          "full_name": "Keenan Allen",
+          "position": "WR",
+          "team": null
         },
         {
           "player_id": "6083",
           "points": 9.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Matt Gay",
+          "full_name": "Matt Gay",
+          "position": "K",
+          "team": "LV"
         },
         {
           "player_id": "DET",
           "points": 19.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Detroit Lions",
+          "full_name": "Detroit Lions",
+          "position": "DEF",
+          "team": "DET"
         }
       ],
       "bench_detail": [
         {
           "player_id": "11584",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Bucky Irving",
+          "full_name": "Bucky Irving",
+          "position": "RB",
+          "team": "TB"
         },
         {
           "player_id": "7553",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Kyle Pitts",
+          "full_name": "Kyle Pitts",
+          "position": "TE",
+          "team": "ATL"
         },
         {
           "player_id": "8112",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Drake London",
+          "full_name": "Drake London",
+          "position": "WR",
+          "team": "ATL"
         },
         {
           "player_id": "8205",
           "points": 7.1,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Isiah Pacheco",
+          "full_name": "Isiah Pacheco",
+          "position": "RB",
+          "team": "DET"
         },
         {
           "player_id": "8408",
           "points": 8.1,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Jordan Mason",
+          "full_name": "Jordan Mason",
+          "position": "RB",
+          "team": "MIN"
         }
       ]
     },
@@ -359,94 +475,166 @@
         {
           "player_id": "7591",
           "points": 29.92,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Justin Fields",
+          "full_name": "Justin Fields",
+          "position": "QB",
+          "team": "KC"
         },
         {
           "player_id": "4034",
           "points": 23.9,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Christian McCaffrey",
+          "full_name": "Christian McCaffrey",
+          "position": "RB",
+          "team": "SF"
         },
         {
           "player_id": "9226",
           "points": 13.6,
-          "is_starter": true
+          "is_starter": true,
+          "name": "De'Von Achane",
+          "full_name": "De'Von Achane",
+          "position": "RB",
+          "team": "MIA"
         },
         {
           "player_id": "4037",
           "points": 4.1,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Chris Godwin",
+          "full_name": "Chris Godwin",
+          "position": "WR",
+          "team": "TB"
         },
         {
           "player_id": "6819",
           "points": 12.4,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Michael Pittman",
+          "full_name": "Michael Pittman",
+          "position": "WR",
+          "team": "PIT"
         },
         {
           "player_id": "1466",
           "points": 15.6,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Travis Kelce",
+          "full_name": "Travis Kelce",
+          "position": "TE",
+          "team": "KC"
         },
         {
           "player_id": "5967",
           "points": 10.3,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Tony Pollard",
+          "full_name": "Tony Pollard",
+          "position": "RB",
+          "team": "TEN"
         },
         {
           "player_id": "12185",
           "points": 2.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Spencer Shrader",
+          "full_name": "Spencer Shrader",
+          "position": "K",
+          "team": "IND"
         },
         {
           "player_id": "KC",
           "points": 13.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Kansas City Chiefs",
+          "full_name": "Kansas City Chiefs",
+          "position": "DEF",
+          "team": "KC"
         }
       ],
       "bench_detail": [
         {
           "player_id": "11560",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Caleb Williams",
+          "full_name": "Caleb Williams",
+          "position": "QB",
+          "team": "CHI"
         },
         {
           "player_id": "2216",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Mike Evans",
+          "full_name": "Mike Evans",
+          "position": "WR",
+          "team": "SF"
         },
         {
           "player_id": "4098",
           "points": 18.2,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Kareem Hunt",
+          "full_name": "Kareem Hunt",
+          "position": "RB",
+          "team": null
         },
         {
           "player_id": "4217",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "George Kittle",
+          "full_name": "George Kittle",
+          "position": "TE",
+          "team": "SF"
         },
         {
           "player_id": "6790",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "D'Andre Swift",
+          "full_name": "D'Andre Swift",
+          "position": "RB",
+          "team": "CHI"
         },
         {
           "player_id": "6803",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Brandon Aiyuk",
+          "full_name": "Brandon Aiyuk",
+          "position": "WR",
+          "team": "SF"
         },
         {
           "player_id": "8121",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Romeo Doubs",
+          "full_name": "Romeo Doubs",
+          "position": "WR",
+          "team": "NE"
         },
         {
           "player_id": "8126",
           "points": 5.7,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Wan'Dale Robinson",
+          "full_name": "Wan'Dale Robinson",
+          "position": "WR",
+          "team": "TEN"
         },
         {
           "player_id": "GB",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Green Bay Packers",
+          "full_name": "Green Bay Packers",
+          "position": "DEF",
+          "team": "GB"
         }
       ]
     },
@@ -520,84 +708,148 @@
         {
           "player_id": "421",
           "points": 28.56,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Matthew Stafford",
+          "full_name": "Matthew Stafford",
+          "position": "QB",
+          "team": "LAR"
         },
         {
           "player_id": "12529",
           "points": 3.7,
-          "is_starter": true
+          "is_starter": true,
+          "name": "TreVeyon Henderson",
+          "full_name": "TreVeyon Henderson",
+          "position": "RB",
+          "team": "NE"
         },
         {
           "player_id": "12474",
           "points": 2.4,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Woody Marks",
+          "full_name": "Woody Marks",
+          "position": "RB",
+          "team": "HOU"
         },
         {
           "player_id": "8137",
           "points": 16.7,
-          "is_starter": true
+          "is_starter": true,
+          "name": "George Pickens",
+          "full_name": "George Pickens",
+          "position": "WR",
+          "team": "DAL"
         },
         {
           "player_id": "9754",
           "points": 1.9,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Quentin Johnston",
+          "full_name": "Quentin Johnston",
+          "position": "WR",
+          "team": "LAC"
         },
         {
           "player_id": "10859",
           "points": 17.7,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Sam LaPorta",
+          "full_name": "Sam LaPorta",
+          "position": "TE",
+          "team": "DET"
         },
         {
           "player_id": "5859",
           "points": 6.8,
-          "is_starter": true
+          "is_starter": true,
+          "name": "A.J. Brown",
+          "full_name": "A.J. Brown",
+          "position": "WR",
+          "team": "NE"
         },
         {
           "player_id": "11539",
           "points": 5.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Jake Bates",
+          "full_name": "Jake Bates",
+          "position": "K",
+          "team": "DET"
         },
         {
           "player_id": "JAX",
           "points": 10.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Jacksonville Jaguars",
+          "full_name": "Jacksonville Jaguars",
+          "position": "DEF",
+          "team": "JAX"
         }
       ],
       "bench_detail": [
         {
           "player_id": "11589",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Trey Benson",
+          "full_name": "Trey Benson",
+          "position": "RB",
+          "team": "ARI"
         },
         {
           "player_id": "11604",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Brock Bowers",
+          "full_name": "Brock Bowers",
+          "position": "TE",
+          "team": "LV"
         },
         {
           "player_id": "11620",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Rome Odunze",
+          "full_name": "Rome Odunze",
+          "position": "WR",
+          "team": "CHI"
         },
         {
           "player_id": "12489",
           "points": 4.5,
-          "is_starter": false
+          "is_starter": false,
+          "name": "RJ Harvey",
+          "full_name": "RJ Harvey",
+          "position": "RB",
+          "team": "DEN"
         },
         {
           "player_id": "12530",
           "points": 7.9,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Travis Hunter",
+          "full_name": "Travis Hunter",
+          "position": "WR",
+          "team": "JAX"
         },
         {
           "player_id": "6770",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Joe Burrow",
+          "full_name": "Joe Burrow",
+          "position": "QB",
+          "team": "CIN"
         },
         {
           "player_id": "6804",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Jordan Love",
+          "full_name": "Jordan Love",
+          "position": "QB",
+          "team": "GB"
         }
       ]
     },
@@ -669,79 +921,139 @@
         {
           "player_id": "6797",
           "points": 13.64,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Justin Herbert",
+          "full_name": "Justin Herbert",
+          "position": "QB",
+          "team": "LAC"
         },
         {
           "player_id": "12481",
           "points": 8.4,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Cam Skattebo",
+          "full_name": "Cam Skattebo",
+          "position": "RB",
+          "team": "NYG"
         },
         {
           "player_id": "8138",
           "points": 4.9,
-          "is_starter": true
+          "is_starter": true,
+          "name": "James Cook",
+          "full_name": "James Cook",
+          "position": "RB",
+          "team": "BUF"
         },
         {
           "player_id": "7569",
           "points": 14.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Nico Collins",
+          "full_name": "Nico Collins",
+          "position": "WR",
+          "team": "HOU"
         },
         {
           "player_id": "11624",
           "points": 8.1,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Xavier Worthy",
+          "full_name": "Xavier Worthy",
+          "position": "WR",
+          "team": "KC"
         },
         {
           "player_id": "1339",
           "points": 0.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Zach Ertz",
+          "full_name": "Zach Ertz",
+          "position": "TE",
+          "team": null
         },
         {
           "player_id": "12527",
           "points": 13.4,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Ashton Jeanty",
+          "full_name": "Ashton Jeanty",
+          "position": "RB",
+          "team": "LV"
         },
         {
           "player_id": "3451",
           "points": 18.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Ka'imi Fairbairn",
+          "full_name": "Ka'imi Fairbairn",
+          "position": "K",
+          "team": "HOU"
         },
         {
           "player_id": "PHI",
           "points": 2.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Philadelphia Eagles",
+          "full_name": "Philadelphia Eagles",
+          "position": "DEF",
+          "team": "PHI"
         }
       ],
       "bench_detail": [
         {
           "player_id": "4199",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Aaron Jones",
+          "full_name": "Aaron Jones",
+          "position": "RB",
+          "team": "MIN"
         },
         {
           "player_id": "4892",
           "points": 30.66,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Baker Mayfield",
+          "full_name": "Baker Mayfield",
+          "position": "QB",
+          "team": "TB"
         },
         {
           "player_id": "5045",
           "points": 13.9,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Courtland Sutton",
+          "full_name": "Courtland Sutton",
+          "position": "WR",
+          "team": "DEN"
         },
         {
           "player_id": "6801",
           "points": 9.7,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Tee Higgins",
+          "full_name": "Tee Higgins",
+          "position": "WR",
+          "team": "CIN"
         },
         {
           "player_id": "7002",
           "points": 2.7,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Juwan Johnson",
+          "full_name": "Juwan Johnson",
+          "position": "TE",
+          "team": "NO"
         },
         {
           "player_id": "SF",
           "points": 11.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "San Francisco 49ers",
+          "full_name": "San Francisco 49ers",
+          "position": "DEF",
+          "team": "SF"
         }
       ]
     },
@@ -811,74 +1123,130 @@
         {
           "player_id": "6904",
           "points": 27.5,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Jalen Hurts",
+          "full_name": "Jalen Hurts",
+          "position": "QB",
+          "team": "PHI"
         },
         {
           "player_id": "9221",
           "points": 15.7,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Jahmyr Gibbs",
+          "full_name": "Jahmyr Gibbs",
+          "position": "RB",
+          "team": "DET"
         },
         {
           "player_id": "8150",
           "points": 24.1,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Kyren Williams",
+          "full_name": "Kyren Williams",
+          "position": "RB",
+          "team": "LAR"
         },
         {
           "player_id": "5872",
           "points": 19.6,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Deebo Samuel",
+          "full_name": "Deebo Samuel",
+          "position": "WR",
+          "team": "SF"
         },
         {
           "player_id": "9488",
           "points": 23.2,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Jaxon Smith-Njigba",
+          "full_name": "Jaxon Smith-Njigba",
+          "position": "WR",
+          "team": "SEA"
         },
         {
           "player_id": "11603",
           "points": 20.8,
-          "is_starter": true
+          "is_starter": true,
+          "name": "AJ Barner",
+          "full_name": "AJ Barner",
+          "position": "TE",
+          "team": "SEA"
         },
         {
           "player_id": "9997",
           "points": 9.7,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Zay Flowers",
+          "full_name": "Zay Flowers",
+          "position": "WR",
+          "team": "BAL"
         },
         {
           "player_id": "4195",
           "points": 5.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Jake Elliott",
+          "full_name": "Jake Elliott",
+          "position": "K",
+          "team": "PHI"
         },
         {
           "player_id": "BUF",
           "points": 9.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Buffalo Bills",
+          "full_name": "Buffalo Bills",
+          "position": "DEF",
+          "team": "BUF"
         }
       ],
       "bench_detail": [
         {
           "player_id": "10229",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Rashee Rice",
+          "full_name": "Rashee Rice",
+          "position": "WR",
+          "team": "KC"
         },
         {
           "player_id": "12533",
           "points": 23.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Jacory Croskey-Merritt",
+          "full_name": "Jacory Croskey-Merritt",
+          "position": "RB",
+          "team": "WAS"
         },
         {
           "player_id": "6786",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "CeeDee Lamb",
+          "full_name": "CeeDee Lamb",
+          "position": "WR",
+          "team": "DAL"
         },
         {
           "player_id": "9753",
           "points": 11.3,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Zach Charbonnet",
+          "full_name": "Zach Charbonnet",
+          "position": "RB",
+          "team": "SEA"
         },
         {
           "player_id": "9758",
           "points": 36.76,
-          "is_starter": false
+          "is_starter": false,
+          "name": "C.J. Stroud",
+          "full_name": "C.J. Stroud",
+          "position": "QB",
+          "team": "HOU"
         }
       ]
     },
@@ -948,74 +1316,130 @@
         {
           "player_id": "4984",
           "points": 17.42,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Josh Allen",
+          "full_name": "Josh Allen",
+          "position": "QB",
+          "team": "BUF"
         },
         {
           "player_id": "12512",
           "points": 13.3,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Quinshon Judkins",
+          "full_name": "Quinshon Judkins",
+          "position": "RB",
+          "team": "CLE"
         },
         {
           "player_id": "4035",
           "points": 7.5,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Alvin Kamara",
+          "full_name": "Alvin Kamara",
+          "position": "RB",
+          "team": "NO"
         },
         {
           "player_id": "6794",
           "points": 15.8,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Justin Jefferson",
+          "full_name": "Justin Jefferson",
+          "position": "WR",
+          "team": "MIN"
         },
         {
           "player_id": "8144",
           "points": 9.4,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Chris Olave",
+          "full_name": "Chris Olave",
+          "position": "WR",
+          "team": "NO"
         },
         {
           "player_id": "8130",
           "points": 6.6,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Trey McBride",
+          "full_name": "Trey McBride",
+          "position": "TE",
+          "team": "ARI"
         },
         {
           "player_id": "6806",
           "points": 14.9,
-          "is_starter": true
+          "is_starter": true,
+          "name": "J.K. Dobbins",
+          "full_name": "J.K. Dobbins",
+          "position": "RB",
+          "team": "DEN"
         },
         {
           "player_id": "6650",
           "points": 12.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Chase McLaughlin",
+          "full_name": "Chase McLaughlin",
+          "position": "K",
+          "team": "TB"
         },
         {
           "player_id": "SEA",
           "points": -1.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Seattle Seahawks",
+          "full_name": "Seattle Seahawks",
+          "position": "DEF",
+          "team": "SEA"
         }
       ],
       "bench_detail": [
         {
           "player_id": "3163",
           "points": 23.12,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Jared Goff",
+          "full_name": "Jared Goff",
+          "position": "QB",
+          "team": "DET"
         },
         {
           "player_id": "4981",
           "points": 15.6,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Calvin Ridley",
+          "full_name": "Calvin Ridley",
+          "position": "WR",
+          "team": "TEN"
         },
         {
           "player_id": "5850",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Josh Jacobs",
+          "full_name": "Josh Jacobs",
+          "position": "RB",
+          "team": "GB"
         },
         {
           "player_id": "5892",
           "points": 19.72,
-          "is_starter": false
+          "is_starter": false,
+          "name": "David Montgomery",
+          "full_name": "David Montgomery",
+          "position": "RB",
+          "team": "HOU"
         },
         {
           "player_id": "7525",
           "points": 15.4,
-          "is_starter": false
+          "is_starter": false,
+          "name": "DeVonta Smith",
+          "full_name": "DeVonta Smith",
+          "position": "WR",
+          "team": "PHI"
         }
       ]
     },
@@ -1085,74 +1509,130 @@
         {
           "player_id": "3294",
           "points": 40.28,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Dak Prescott",
+          "full_name": "Dak Prescott",
+          "position": "QB",
+          "team": "DAL"
         },
         {
           "player_id": "12507",
           "points": 10.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Omarion Hampton",
+          "full_name": "Omarion Hampton",
+          "position": "RB",
+          "team": "LAC"
         },
         {
           "player_id": "7021",
           "points": 30.9,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Rico Dowdle",
+          "full_name": "Rico Dowdle",
+          "position": "RB",
+          "team": "PIT"
         },
         {
           "player_id": "7547",
           "points": 14.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Amon-Ra St. Brown",
+          "full_name": "Amon-Ra St. Brown",
+          "position": "WR",
+          "team": "DET"
         },
         {
           "player_id": "7564",
           "points": 31.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Ja'Marr Chase",
+          "full_name": "Ja'Marr Chase",
+          "position": "WR",
+          "team": "CIN"
         },
         {
           "player_id": "10236",
           "points": 13.8,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Dalton Kincaid",
+          "full_name": "Dalton Kincaid",
+          "position": "TE",
+          "team": "BUF"
         },
         {
           "player_id": "12514",
           "points": 27.8,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Emeka Egbuka",
+          "full_name": "Emeka Egbuka",
+          "position": "WR",
+          "team": "TB"
         },
         {
           "player_id": "2747",
           "points": 5.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Jason Myers",
+          "full_name": "Jason Myers",
+          "position": "K",
+          "team": "SEA"
         },
         {
           "player_id": "CLE",
           "points": 13.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Cleveland Browns",
+          "full_name": "Cleveland Browns",
+          "position": "DEF",
+          "team": "CLE"
         }
       ],
       "bench_detail": [
         {
           "player_id": "4881",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Lamar Jackson",
+          "full_name": "Lamar Jackson",
+          "position": "QB",
+          "team": "BAL"
         },
         {
           "player_id": "5846",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "DK Metcalf",
+          "full_name": "DK Metcalf",
+          "position": "WR",
+          "team": "PIT"
         },
         {
           "player_id": "7594",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Chuba Hubbard",
+          "full_name": "Chuba Hubbard",
+          "position": "RB",
+          "team": "CAR"
         },
         {
           "player_id": "9484",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Tucker Kraft",
+          "full_name": "Tucker Kraft",
+          "position": "TE",
+          "team": "GB"
         },
         {
           "player_id": "9757",
           "points": 5.4,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Kendre Miller",
+          "full_name": "Kendre Miller",
+          "position": "RB",
+          "team": "NO"
         }
       ]
     },
@@ -1226,84 +1706,148 @@
         {
           "player_id": "4046",
           "points": 25.72,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Patrick Mahomes",
+          "full_name": "Patrick Mahomes",
+          "position": "QB",
+          "team": "KC"
         },
         {
           "player_id": "4866",
           "points": 20.3,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Saquon Barkley",
+          "full_name": "Saquon Barkley",
+          "position": "RB",
+          "team": "PHI"
         },
         {
           "player_id": "6813",
           "points": 30.1,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Jonathan Taylor",
+          "full_name": "Jonathan Taylor",
+          "position": "RB",
+          "team": "IND"
         },
         {
           "player_id": "11635",
           "points": 12.4,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Ladd McConkey",
+          "full_name": "Ladd McConkey",
+          "position": "WR",
+          "team": "LAC"
         },
         {
           "player_id": "8148",
           "points": 1.5,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Jameson Williams",
+          "full_name": "Jameson Williams",
+          "position": "WR",
+          "team": "DET"
         },
         {
           "player_id": "8110",
           "points": 20.4,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Jake Ferguson",
+          "full_name": "Jake Ferguson",
+          "position": "TE",
+          "team": "DAL"
         },
         {
           "player_id": "8134",
           "points": 8.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Khalil Shakir",
+          "full_name": "Khalil Shakir",
+          "position": "WR",
+          "team": "BUF"
         },
         {
           "player_id": "12711",
           "points": 4.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Tyler Loop",
+          "full_name": "Tyler Loop",
+          "position": "K",
+          "team": "BAL"
         },
         {
           "player_id": "ARI",
           "points": 12.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Arizona Cardinals",
+          "full_name": "Arizona Cardinals",
+          "position": "DEF",
+          "team": "ARI"
         }
       ],
       "bench_detail": [
         {
           "player_id": "11199",
           "points": 3.1,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Emari Demercado",
+          "full_name": "Emari Demercado",
+          "position": "RB",
+          "team": "KC"
         },
         {
           "player_id": "12501",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Matthew Golden",
+          "full_name": "Matthew Golden",
+          "position": "WR",
+          "team": "GB"
         },
         {
           "player_id": "4018",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Joe Mixon",
+          "full_name": "Joe Mixon",
+          "position": "RB",
+          "team": null
         },
         {
           "player_id": "4137",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "James Conner",
+          "full_name": "James Conner",
+          "position": "RB",
+          "team": "ARI"
         },
         {
           "player_id": "5927",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Terry McLaurin",
+          "full_name": "Terry McLaurin",
+          "position": "WR",
+          "team": "WAS"
         },
         {
           "player_id": "7567",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Kenny Gainwell",
+          "full_name": "Kenny Gainwell",
+          "position": "RB",
+          "team": "TB"
         },
         {
           "player_id": "8125",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Calvin Austin",
+          "full_name": "Calvin Austin",
+          "position": "WR",
+          "team": "NYG"
         }
       ]
     },
@@ -1373,74 +1917,130 @@
         {
           "player_id": "5849",
           "points": 12.3,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Kyler Murray",
+          "full_name": "Kyler Murray",
+          "position": "QB",
+          "team": "MIN"
         },
         {
           "player_id": "8155",
           "points": 12.5,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Breece Hall",
+          "full_name": "Breece Hall",
+          "position": "RB",
+          "team": "NYJ"
         },
         {
           "player_id": "7588",
           "points": 26.4,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Javonte Williams",
+          "full_name": "Javonte Williams",
+          "position": "RB",
+          "team": "DAL"
         },
         {
           "player_id": "9493",
           "points": 19.5,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Puka Nacua",
+          "full_name": "Puka Nacua",
+          "position": "WR",
+          "team": "LAR"
         },
         {
           "player_id": "11631",
           "points": 10.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Brian Thomas",
+          "full_name": "Brian Thomas",
+          "position": "WR",
+          "team": "JAX"
         },
         {
           "player_id": "5012",
           "points": 3.2,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Mark Andrews",
+          "full_name": "Mark Andrews",
+          "position": "TE",
+          "team": "BAL"
         },
         {
           "player_id": "8146",
           "points": 16.1,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Garrett Wilson",
+          "full_name": "Garrett Wilson",
+          "position": "WR",
+          "team": "NYJ"
         },
         {
           "player_id": "8259",
           "points": 6.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Cameron Dicker",
+          "full_name": "Cameron Dicker",
+          "position": "K",
+          "team": "LAC"
         },
         {
           "player_id": "BAL",
           "points": 0.0,
-          "is_starter": true
+          "is_starter": true,
+          "name": "Baltimore Ravens",
+          "full_name": "Baltimore Ravens",
+          "position": "DEF",
+          "team": "BAL"
         }
       ],
       "bench_detail": [
         {
           "player_id": "11638",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Ricky Pearsall",
+          "full_name": "Ricky Pearsall",
+          "position": "WR",
+          "team": "SF"
         },
         {
           "player_id": "11655",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Tyrone Tracy",
+          "full_name": "Tyrone Tracy",
+          "position": "RB",
+          "team": "NYG"
         },
         {
           "player_id": "7049",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Jauan Jennings",
+          "full_name": "Jauan Jennings",
+          "position": "WR",
+          "team": "MIN"
         },
         {
           "player_id": "8151",
           "points": 9.1,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Kenneth Walker",
+          "full_name": "Kenneth Walker",
+          "position": "RB",
+          "team": "KC"
         },
         {
           "player_id": "8228",
           "points": 0.0,
-          "is_starter": false
+          "is_starter": false,
+          "name": "Jaylen Warren",
+          "full_name": "Jaylen Warren",
+          "position": "RB",
+          "team": "PIT"
         }
       ]
     }
@@ -1460,7 +2060,11 @@
     "display": "Strikr",
     "real_owner": "Tanvir",
     "player_id": "3294",
-    "points": 40.28
+    "points": 40.28,
+    "player_name": "Dak Prescott",
+    "name": "Dak Prescott",
+    "position": "QB",
+    "team_abbr": "DAL"
   },
   "team_season_high": null,
   "champion": null,
