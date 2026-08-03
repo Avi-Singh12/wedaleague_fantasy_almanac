@@ -1,0 +1,62 @@
+{
+  "year": 2017,
+  "week": 14,
+  "platform": "nfl",
+  "season_type": "regular",
+  "matchups": [],
+  "team_high": null,
+  "player_high": null,
+  "team_season_high": {
+    "year": 2017,
+    "team": "More Probable Than Not",
+    "points": 1589.44
+  },
+  "champion": {
+    "team": "More Probable Than Not",
+    "owner": "Avi"
+  },
+  "owners": [
+    {
+      "owner": "Tanvir",
+      "team": "Barca Squad",
+      "teamId": "8"
+    },
+    {
+      "owner": "Avi",
+      "team": "More Probable Than Not",
+      "teamId": "1"
+    },
+    {
+      "owner": "Karthik",
+      "team": "FF Runner Up",
+      "teamId": "3"
+    },
+    {
+      "owner": "Krishna",
+      "team": "Dak Sucks Balls",
+      "teamId": "2"
+    },
+    {
+      "owner": "Rishab",
+      "team": "kanye2020",
+      "teamId": "4"
+    },
+    {
+      "owner": "Bhuvanesh",
+      "team": "SteeredPrune",
+      "teamId": "6"
+    },
+    {
+      "owner": "Sahith",
+      "team": "Booty Eaters",
+      "teamId": "7"
+    },
+    {
+      "owner": "Tarun",
+      "team": "The Dream Team",
+      "teamId": "5"
+    }
+  ],
+  "note": "NFL year 2017 week 14: full weekly matchup data requires JS-rendered schedule page that was not captured. team_high/player_high populated where week matches the yearly high. Full season standings available in season aggregate.",
+  "data_completeness": "highs_only"
+}
