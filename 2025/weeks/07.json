@@ -1,5 +1,8 @@
 {
+  "year": 2025,
   "week": 7,
+  "platform": "sleeper",
+  "season_type": "regular",
   "matchups": [
     {
       "points": 133.68,
@@ -1435,6 +1438,15 @@
       ]
     }
   ],
+  "team_high": {
+    "week": 7,
+    "team": "Jahmyrical makers",
+    "owner": "Ameya",
+    "points": 189.24,
+    "roster_id": 6,
+    "matchup_id": 5,
+    "year": 2025
+  },
   "player_high": {
     "week": 7,
     "roster_id": 6,
@@ -1442,5 +1454,71 @@
     "real_owner": "Ameya",
     "player_id": "9221",
     "points": 40.3
-  }
+  },
+  "team_season_high": null,
+  "champion": null,
+  "owners": [
+    {
+      "roster_id": 1,
+      "sleeper_display": "iavis",
+      "real_owner": "Avi",
+      "team_name": "Laughing Stocks"
+    },
+    {
+      "roster_id": 2,
+      "sleeper_display": "screenhunter",
+      "real_owner": "Rajat",
+      "team_name": "JayDen of Thieves"
+    },
+    {
+      "roster_id": 3,
+      "sleeper_display": "BigArmVishy",
+      "real_owner": "Vishal",
+      "team_name": "Dolphin Divers"
+    },
+    {
+      "roster_id": 4,
+      "sleeper_display": "karthikmaiya",
+      "real_owner": "Karthik",
+      "team_name": "Jax Off Dart"
+    },
+    {
+      "roster_id": 5,
+      "sleeper_display": "bootyBeaters",
+      "real_owner": "Sahith",
+      "team_name": "Booty Beaters"
+    },
+    {
+      "roster_id": 6,
+      "sleeper_display": "yams123",
+      "real_owner": "Ameya",
+      "team_name": "Jahmyrical makers"
+    },
+    {
+      "roster_id": 7,
+      "sleeper_display": "carota",
+      "real_owner": "Bhuvanesh",
+      "team_name": "Baldcaraz"
+    },
+    {
+      "roster_id": 8,
+      "sleeper_display": "Strikr",
+      "real_owner": "Tanvir",
+      "team_name": "Amon Drugs"
+    },
+    {
+      "roster_id": 9,
+      "sleeper_display": "kgadde",
+      "real_owner": "Krishna",
+      "team_name": "Papa Jonathan\u2019s"
+    },
+    {
+      "roster_id": 10,
+      "sleeper_display": "rsmoju",
+      "real_owner": "Rishab",
+      "team_name": ""
+    }
+  ],
+  "note": "Sleeper 2025 week 7 full player stats per week available: starters_detail, bench_detail, players_points, starters_points included.",
+  "data_completeness": "full"
 }
