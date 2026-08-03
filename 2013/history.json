@@ -1,0 +1,35 @@
+{
+  "leagueId": 2074621,
+  "leagueName": "wedaleague",
+  "year": 2013,
+  "champion": {
+    "year": 2013,
+    "team": "Bharat Venkat is a poser"
+  },
+  "teamPerformanceWeek": {
+    "year": 2013,
+    "week": 15,
+    "team": "Fear the Beard",
+    "points": 186.2
+  },
+  "playerPerformanceWeek": {
+    "year": 2013,
+    "week": 1,
+    "team": "Rookies",
+    "player": "Peyton ManningQB - DEN",
+    "points": 69.28
+  },
+  "teamPerformanceSeason": {
+    "year": 2013,
+    "team": "PremSwag12",
+    "points": 1695.64
+  },
+  "settings": {
+    "League Name": "wedaleague",
+    "League ID": "2074621",
+    "Commissioner": "Avi",
+    "Draft Type": "Offline",
+    "Draft Format": "Standard"
+  },
+  "note": "Data from fantasy.nfl.com history almanac page - server-rendered portion. Full standings/roster/matchups require ffsim API via authenticated JS (documented in network_endpoints.json)"
+}
