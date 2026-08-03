@@ -3,7 +3,52 @@
   "week": 16,
   "platform": "nfl",
   "season_type": "playoff",
-  "matchups": [],
+  "matchups": [
+    {
+      "teamA": "Laughing Stocks",
+      "teamB": "Dogshit Baboons",
+      "teamIdA": "1",
+      "teamIdB": "8",
+      "ownerA": "Avi",
+      "ownerB": "Tanvir",
+      "scoreA": 89.22,
+      "scoreB": 91.58,
+      "winner": "Dogshit Baboons"
+    },
+    {
+      "teamA": "bum",
+      "teamB": "Booty Eaters",
+      "teamIdA": "4",
+      "teamIdB": "7",
+      "ownerA": "Rishab",
+      "ownerB": "Sahith",
+      "scoreA": 120.94,
+      "scoreB": 120.5,
+      "winner": "bum"
+    },
+    {
+      "teamA": "I am Trash",
+      "teamB": "ameyagadkari",
+      "teamIdA": "2",
+      "teamIdB": "3",
+      "ownerA": "Krishna",
+      "ownerB": "Karthik",
+      "scoreA": 132.72,
+      "scoreB": 94.3,
+      "winner": "I am Trash"
+    },
+    {
+      "teamA": "Stefon Diggs' Mistress",
+      "teamB": "Haskin for Trouble",
+      "teamIdA": "9",
+      "teamIdB": "5",
+      "ownerA": "Rajat",
+      "ownerB": "Tarun",
+      "scoreA": 115.32,
+      "scoreB": 104.74,
+      "winner": "Stefon Diggs' Mistress"
+    }
+  ],
   "team_high": null,
   "player_high": {
     "week": 16,
@@ -74,8 +119,8 @@
       "teamId": "10"
     }
   ],
-  "note": "NFL year 2020 week 16: full weekly matchup data requires JS-rendered schedule page that was not captured. team_high/player_high populated where week matches the yearly high. Full season standings available in season aggregate. | Fantasy weekly matchups require JS-rendered schedule page that was not captured; player detail backfilled from NFL official stats via nflverse (github.com/nflverse/nflverse-data); fantasy points/team scores remain from fantasy where available. NFL stats are Standard fantasy scoring; league retains its own scoring for fantasy highs.",
-  "data_completeness": "highs_only_plus_nfl_player_stats",
+  "note": "Week 16 matchup scores extracted from fantasy.nfl.com schedule page (2020) via leased VM 019fc8d9-7505-7a91-8283-ae48f4e4c85e. Verified ul.scheduleContent li.matchup teamWrap-1/2 teamTotal float extraction. Fantasy points primary. Credentials scrubbed. Playoff week with 4 matchups",
+  "data_completeness": "full",
   "player_stats_nfl_top10": [
     {
       "rank": 1,
@@ -308,5 +353,10 @@
     "targets": 5,
     "receiving_yards": 17,
     "receiving_tds": 0
-  }
+  },
+  "verified": true,
+  "credentials_scrubbed": true,
+  "total_matchups": 4,
+  "source": "https://fantasy.nfl.com/league/2074621/history/2020/schedule?gameSeason=2020&leagueId=2074621&scheduleDetail=16&scheduleType=week&standingsTab=schedule",
+  "blocked": false
 }
