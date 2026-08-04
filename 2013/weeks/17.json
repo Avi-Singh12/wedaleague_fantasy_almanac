@@ -16,7 +16,7 @@
       "teamB_id": "7",
       "ownerA": "Avi",
       "ownerB": "Prem",
-      "week": null,
+      "week": 17,
       "rosterA": {
         "team": "Fear the Beard",
         "teamId": 1,
@@ -822,7 +822,8 @@
           }
         ],
         "owner": "Prem"
-      }
+      },
+      "year": 2013
     },
     {
       "teamA": "Keep Calm and Megatron",
@@ -836,7 +837,7 @@
       "teamB_id": "2",
       "ownerA": "Karthik",
       "ownerB": "Krishna",
-      "week": null,
+      "week": 17,
       "rosterA": {
         "team": "Keep Calm and Megatron",
         "teamId": 3,
@@ -1546,7 +1547,8 @@
           }
         ],
         "owner": "Krishna"
-      }
+      },
+      "year": 2013
     },
     {
       "teamA": "Bharat Venkat is a poser",
@@ -1560,7 +1562,7 @@
       "teamB_id": "5",
       "ownerA": "Rishab",
       "ownerB": "Rishi",
-      "week": null,
+      "week": 17,
       "rosterA": {
         "team": "Bharat Venkat is a poser",
         "teamId": 4,
@@ -2478,7 +2480,8 @@
           }
         ],
         "owner": "Rishi"
-      }
+      },
+      "year": 2013
     },
     {
       "teamA": "SteeredPrune",
@@ -2492,7 +2495,7 @@
       "teamB_id": "8",
       "ownerA": "Bhuvanesh",
       "ownerB": "Shanker",
-      "week": null,
+      "week": 17,
       "rosterA": {
         "team": "SteeredPrune",
         "teamId": 6,
@@ -2945,11 +2948,13 @@
           }
         ],
         "owner": "Shanker"
-      }
+      },
+      "year": 2013
     }
   ],
-  "data_completeness": "full",
-  "blocked": false,
-  "fetched_at": "2026-08-04T15:53:40.221010Z",
-  "credentials_scrubbed": true
+  "data_completeness": "full_deep",
+  "dc": "full_deep",
+  "source": "REAL-ONLY deep - ordered deep backfill",
+  "validated": true,
+  "notes": "REAL-ONLY deep - ordered deep backfill W17 4 unique full_deep 484KB T01 Fear 6-8-0, 468KB T02 Hernandez 7-7-0, 476KB T03 Keep Calm 8-6-0 empty RB, 473KB T04 Bharat 8-6-0 - bye-week all 8 teams Byes logic week 17 outside fantasy playoffs points 0.00 chart Actual 114.50/118.38/62.62/68.00 minRemaining 0 of 540/480"
 }
