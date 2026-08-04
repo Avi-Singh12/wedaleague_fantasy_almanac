@@ -5,7 +5,7 @@
   "season_type": "regular",
   "matchups": [
     {
-      "week": 3,
+      "week": null,
       "teamA": "More Probable Than Not",
       "teamB": "kanye2020",
       "teamIdA": "1",
@@ -932,7 +932,7 @@
       }
     },
     {
-      "week": 3,
+      "week": null,
       "teamA": "The Dream Team",
       "teamB": "FF  Runner Up",
       "teamIdA": "5",
@@ -1841,7 +1841,7 @@
       }
     },
     {
-      "week": 3,
+      "week": null,
       "teamA": "SteeredPrune",
       "teamB": "Dak Sucks Balls",
       "teamIdA": "6",
@@ -2678,7 +2678,7 @@
       }
     },
     {
-      "week": 3,
+      "week": null,
       "teamA": "Booty Eaters",
       "teamB": "Barca Squad",
       "teamIdA": "7",
@@ -3587,17 +3587,7 @@
       }
     }
   ],
-  "team_high": null,
-  "player_high": null,
-  "team_season_high": {
-    "year": 2017,
-    "team": "More Probable Than Not",
-    "points": 1589.44
-  },
-  "champion": {
-    "team": "More Probable Than Not",
-    "owner": "Avi"
-  },
+  "data_completeness": "full",
   "owners": [
     {
       "owner": "Avi",
@@ -3640,16 +3630,5 @@
       "teamId": "8"
     }
   ],
-  "data_completeness": "full",
-  "verified": true,
-  "blocked": false,
-  "credentials_scrubbed": true,
-  "scrubbed": true,
-  "source": "gamecenter",
-  "method": "leased_vm_browser_parse",
-  "total_matchups": 4,
-  "note": "Unified reconstructed from leased VM browser parse of https://fantasy.nfl.com/league/2074621/history/2017/schedule?gameSeason=2017&leagueId=2074621&scheduleDetail=3&scheduleType=week&standingsTab=schedule - ul.scheduleContent li.matchup teamWrap-1/2 parsed; throttled 1s; credentials scrubbed; no invented scores.",
-  "extraction_method": "browser_parse ul.scheduleContent etc.",
-  "roster_enrichment_attempt": "2026-08-03T21:25:57.532242Z",
-  "extraction_date": "2026-08-03T21:43:16.120556Z"
+  "note": "Unified reconstructed from leased VM browser parse of https://fantasy.nfl.com/league/2074621/history/2017/schedule?gameSeason=2017&leagueId=2074621&scheduleDetail=3&scheduleType=week&standingsTab=schedule - ul.scheduleContent li.matchup teamWrap-1/2 parsed; throttled 1s; credentials scrubbed; no invented scores."
 }
