@@ -1,0 +1,304 @@
+[
+  {
+    "transaction_id": "1276059895120007168",
+    "week": 3,
+    "type": "trade",
+    "status": "complete",
+    "consenter_ids": [
+      1,
+      7
+    ],
+    "roster_ids": [
+      1,
+      7
+    ],
+    "participants": [
+      {
+        "roster_id": 1,
+        "owner": "Avi",
+        "received": [
+          "Marvin Harrison"
+        ],
+        "gave": [
+          "Alvin Kamara"
+        ],
+        "received_ids": [
+          "11628"
+        ],
+        "gave_ids": [
+          "4035"
+        ]
+      },
+      {
+        "roster_id": 7,
+        "owner": "Bhuvanesh",
+        "received": [
+          "Alvin Kamara"
+        ],
+        "gave": [
+          "Marvin Harrison"
+        ],
+        "received_ids": [
+          "4035"
+        ],
+        "gave_ids": [
+          "11628"
+        ]
+      }
+    ],
+    "draft_picks": [],
+    "created": 1758598896345,
+    "raw_adds": {
+      "11628": 1,
+      "4035": 7
+    },
+    "raw_drops": {
+      "11628": 7,
+      "4035": 1
+    }
+  },
+  {
+    "transaction_id": "1276251056120016896",
+    "week": 3,
+    "type": "trade",
+    "status": "complete",
+    "consenter_ids": [
+      1,
+      2
+    ],
+    "roster_ids": [
+      1,
+      2
+    ],
+    "participants": [
+      {
+        "roster_id": 1,
+        "owner": "Avi",
+        "received": [
+          "Travis Etienne"
+        ],
+        "gave": [
+          "Jordan Mason"
+        ],
+        "received_ids": [
+          "7543"
+        ],
+        "gave_ids": [
+          "8408"
+        ]
+      },
+      {
+        "roster_id": 2,
+        "owner": "Rajat",
+        "received": [
+          "Jordan Mason"
+        ],
+        "gave": [
+          "Travis Etienne"
+        ],
+        "received_ids": [
+          "8408"
+        ],
+        "gave_ids": [
+          "7543"
+        ]
+      }
+    ],
+    "draft_picks": [],
+    "created": 1758644472679,
+    "raw_adds": {
+      "7543": 1,
+      "8408": 2
+    },
+    "raw_drops": {
+      "7543": 2,
+      "8408": 1
+    }
+  },
+  {
+    "transaction_id": "1280717060950740992",
+    "week": 5,
+    "type": "trade",
+    "status": "complete",
+    "consenter_ids": [
+      3,
+      8
+    ],
+    "roster_ids": [
+      3,
+      8
+    ],
+    "participants": [
+      {
+        "roster_id": 3,
+        "owner": "Vishal",
+        "received": [
+          "Emeka Egbuka"
+        ],
+        "gave": [
+          "De'Von Achane"
+        ],
+        "received_ids": [
+          "12514"
+        ],
+        "gave_ids": [
+          "9226"
+        ]
+      },
+      {
+        "roster_id": 8,
+        "owner": "Tanvir",
+        "received": [
+          "De'Von Achane"
+        ],
+        "gave": [
+          "Emeka Egbuka"
+        ],
+        "received_ids": [
+          "9226"
+        ],
+        "gave_ids": [
+          "12514"
+        ]
+      }
+    ],
+    "draft_picks": [],
+    "created": 1759709251205,
+    "raw_adds": {
+      "12514": 3,
+      "9226": 8
+    },
+    "raw_drops": {
+      "12514": 8,
+      "9226": 3
+    }
+  },
+  {
+    "transaction_id": "1284615463401168896",
+    "week": 7,
+    "type": "trade",
+    "status": "complete",
+    "consenter_ids": [
+      4,
+      9
+    ],
+    "roster_ids": [
+      4,
+      9
+    ],
+    "participants": [
+      {
+        "roster_id": 4,
+        "owner": "Karthik",
+        "received": [
+          "Saquon Barkley"
+        ],
+        "gave": [
+          "TreVeyon Henderson",
+          "A.J. Brown",
+          "George Pickens"
+        ],
+        "received_ids": [
+          "4866"
+        ],
+        "gave_ids": [
+          "12529",
+          "5859",
+          "8137"
+        ]
+      },
+      {
+        "roster_id": 9,
+        "owner": "Krishna",
+        "received": [
+          "TreVeyon Henderson",
+          "A.J. Brown",
+          "George Pickens"
+        ],
+        "gave": [
+          "Saquon Barkley"
+        ],
+        "received_ids": [
+          "12529",
+          "5859",
+          "8137"
+        ],
+        "gave_ids": [
+          "4866"
+        ]
+      }
+    ],
+    "draft_picks": [],
+    "created": 1760638702778,
+    "raw_adds": {
+      "12529": 9,
+      "4866": 4,
+      "5859": 9,
+      "8137": 9
+    },
+    "raw_drops": {
+      "12529": 4,
+      "4866": 9,
+      "5859": 4,
+      "8137": 4
+    }
+  },
+  {
+    "transaction_id": "1287500121117822976",
+    "week": 8,
+    "type": "trade",
+    "status": "complete",
+    "consenter_ids": [
+      4,
+      6
+    ],
+    "roster_ids": [
+      4,
+      6
+    ],
+    "participants": [
+      {
+        "roster_id": 4,
+        "owner": "Karthik",
+        "received": [
+          "Zach Charbonnet"
+        ],
+        "gave": [
+          "Woody Marks"
+        ],
+        "received_ids": [
+          "9753"
+        ],
+        "gave_ids": [
+          "12474"
+        ]
+      },
+      {
+        "roster_id": 6,
+        "owner": "Ameya",
+        "received": [
+          "Woody Marks"
+        ],
+        "gave": [
+          "Zach Charbonnet"
+        ],
+        "received_ids": [
+          "12474"
+        ],
+        "gave_ids": [
+          "9753"
+        ]
+      }
+    ],
+    "draft_picks": [],
+    "created": 1761326458772,
+    "raw_adds": {
+      "12474": 6,
+      "9753": 4
+    },
+    "raw_drops": {
+      "12474": 4,
+      "9753": 6
+    }
+  }
+]
