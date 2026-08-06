@@ -1,0 +1,86 @@
+[
+  {
+    "date": "Oct 30, 7:41am",
+    "week": 9,
+    "type": "trade",
+    "by": "Tanvir",
+    "participants": [
+      {
+        "team": "FF Runner Up",
+        "gave": [
+          "Ryan Fitzpatrick QB - TB"
+        ],
+        "owner": "Karthik",
+        "received": [
+          "JuJu Smith-Schuster WR - PIT"
+        ]
+      },
+      {
+        "team": "Dogshit Baboons",
+        "gave": [
+          "JuJu Smith-Schuster WR - PIT"
+        ],
+        "owner": "Tanvir",
+        "received": [
+          "Ryan Fitzpatrick QB - TB"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Oct 22, 3:33pm",
+    "week": 7,
+    "type": "trade",
+    "by": "Avi",
+    "participants": [
+      {
+        "team": "kanye2020",
+        "gave": [
+          "Sony Michel RB - NE"
+        ],
+        "owner": "Rishab",
+        "received": [
+          "Amari Cooper WR - DAL"
+        ]
+      },
+      {
+        "team": "More Probable Than Not",
+        "gave": [
+          "Amari Cooper WR - DAL"
+        ],
+        "owner": "Avi",
+        "received": [
+          "Sony Michel RB - NE"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Oct 2, 8:21am",
+    "week": 5,
+    "type": "trade",
+    "by": "Avi",
+    "participants": [
+      {
+        "team": "I am Trash",
+        "gave": [
+          "Alshon Jeffery WR - PHI"
+        ],
+        "owner": "Krishna",
+        "received": [
+          "Devonta Freeman RB - ATL"
+        ]
+      },
+      {
+        "team": "The Dream Team",
+        "gave": [
+          "Devonta Freeman RB - ATL"
+        ],
+        "owner": "Tarun",
+        "received": [
+          "Alshon Jeffery WR - PHI"
+        ]
+      }
+    ]
+  }
+]
