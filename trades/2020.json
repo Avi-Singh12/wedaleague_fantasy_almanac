@@ -1,0 +1,200 @@
+[
+  {
+    "date": "Oct 20, 6:29am",
+    "week": 7,
+    "type": "trade",
+    "by": "Avi",
+    "participants": [
+      {
+        "team": "Stefon Diggs' Mistress",
+        "gave": [
+          "Kenyan Drake RB - ARI"
+        ],
+        "owner": "Rajat",
+        "received": [
+          "Cooper Kupp WR - LA Q"
+        ]
+      },
+      {
+        "team": "Laughing Stocks",
+        "gave": [
+          "Cooper Kupp WR - LA Q"
+        ],
+        "owner": "Avi",
+        "received": [
+          "Kenyan Drake RB - ARI"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Oct 22, 12:58pm",
+    "week": 7,
+    "type": "trade",
+    "by": "Rajat",
+    "participants": [
+      {
+        "team": "I am Trash",
+        "gave": [
+          "Robby Anderson WR - CAR"
+        ],
+        "owner": "Krishna",
+        "received": [
+          "James Robinson RB - JAX Q"
+        ]
+      },
+      {
+        "team": "Stefon Diggs' Mistress",
+        "gave": [
+          "James Robinson RB - JAX Q"
+        ],
+        "owner": "Rajat",
+        "received": [
+          "Robby Anderson WR - CAR"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Oct 14, 9:11am",
+    "week": 6,
+    "type": "trade",
+    "by": "Tanvir",
+    "participants": [
+      {
+        "team": "Stefon Diggs' Mistress",
+        "gave": [
+          "Mike Davis RB - CAR Q"
+        ],
+        "owner": "Rajat",
+        "received": [
+          "Mark Andrews TE - BAL"
+        ]
+      },
+      {
+        "team": "Dogshit Baboons",
+        "gave": [
+          "Mark Andrews TE - BAL"
+        ],
+        "owner": "Tanvir",
+        "received": [
+          "Mike Davis RB - CAR Q"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Oct 15, 5:53am",
+    "week": 6,
+    "type": "trade",
+    "by": "Karthik",
+    "participants": [
+      {
+        "team": "Tua Time",
+        "gave": [
+          "CeeDee Lamb WR - DAL"
+        ],
+        "owner": "Ameya",
+        "received": [
+          "Saquon Barkley RB - NYG IR",
+          "Joe Burrow QB - CIN IR"
+        ]
+      },
+      {
+        "team": "ameyagadkari",
+        "gave": [
+          "Saquon Barkley RB - NYG IR",
+          "Joe Burrow QB - CIN IR"
+        ],
+        "owner": "Karthik",
+        "received": [
+          "CeeDee Lamb WR - DAL"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Oct 11, 8:34am",
+    "week": 5,
+    "type": "trade",
+    "by": "Rajat",
+    "participants": [
+      {
+        "team": "Dogshit Baboons",
+        "gave": [
+          "Mike Davis RB - CAR Q"
+        ],
+        "owner": "Tanvir",
+        "received": [
+          "Mark Andrews TE - BAL"
+        ]
+      },
+      {
+        "team": "Stefon Diggs' Mistress",
+        "gave": [
+          "Mark Andrews TE - BAL"
+        ],
+        "owner": "Rajat",
+        "received": [
+          "Mike Davis RB - CAR Q"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Oct 8, 7:43am",
+    "week": 5,
+    "type": "trade",
+    "by": "Rajat",
+    "participants": [
+      {
+        "team": "Dogshit Baboons",
+        "gave": [
+          "Mark Andrews TE - BAL"
+        ],
+        "owner": "Tanvir",
+        "received": [
+          "Mike Davis RB - CAR Q"
+        ]
+      },
+      {
+        "team": "Stefon Diggs' Mistress",
+        "gave": [
+          "Mike Davis RB - CAR Q"
+        ],
+        "owner": "Rajat",
+        "received": [
+          "Mark Andrews TE - BAL"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Oct 1, 8:58pm",
+    "week": 4,
+    "type": "trade",
+    "by": "Rajat",
+    "participants": [
+      {
+        "team": "Dogshit Baboons",
+        "gave": [
+          "Mike Davis RB - CAR Q"
+        ],
+        "owner": "Tanvir",
+        "received": [
+          "Mark Andrews TE - BAL"
+        ]
+      },
+      {
+        "team": "Stefon Diggs' Mistress",
+        "gave": [
+          "Mark Andrews TE - BAL"
+        ],
+        "owner": "Rajat",
+        "received": [
+          "Mike Davis RB - CAR Q"
+        ]
+      }
+    ]
+  }
+]
