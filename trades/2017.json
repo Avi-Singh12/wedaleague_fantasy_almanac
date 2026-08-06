@@ -1,0 +1,94 @@
+[
+  {
+    "date": "Dec 1, 1:31pm",
+    "week": 13,
+    "type": "trade",
+    "by": "Avi",
+    "participants": [
+      {
+        "team": "Booty Eaters",
+        "gave": [
+          "Derek Carr QB - LV"
+        ],
+        "owner": "Sahith",
+        "received": [
+          "Jerick McKinnon RB - MIN",
+          "Jamaal Williams RB - GB"
+        ]
+      },
+      {
+        "team": "Dak Sucks Balls",
+        "gave": [
+          "Jerick McKinnon RB - MIN",
+          "Jamaal Williams RB - GB"
+        ],
+        "owner": "Krishna",
+        "received": [
+          "Derek Carr QB - LV"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Oct 17, 1:46pm",
+    "week": 7,
+    "type": "trade",
+    "by": "Avi",
+    "participants": [
+      {
+        "team": "FF Runner Up",
+        "gave": [
+          "Dak Prescott QB - DAL"
+        ],
+        "owner": "Karthik",
+        "received": [
+          "Houston Texans",
+          "DEF",
+          "Chris Thompson RB - WAS"
+        ]
+      },
+      {
+        "team": "Dak Sucks Balls",
+        "gave": [
+          "Houston Texans",
+          "DEF",
+          "Chris Thompson RB - WAS"
+        ],
+        "owner": "Krishna",
+        "received": [
+          "Dak Prescott QB - DAL"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Sep 13, 2:01pm",
+    "week": 2,
+    "type": "trade",
+    "by": "Avi",
+    "participants": [
+      {
+        "team": "Dak Sucks Balls",
+        "gave": [
+          "Ty Montgomery RB - GB"
+        ],
+        "owner": "Krishna",
+        "received": [
+          "Adrian Peterson RB - ARI",
+          "DeAndre Hopkins WR - HOU"
+        ]
+      },
+      {
+        "team": "FF Runner Up",
+        "gave": [
+          "Adrian Peterson RB - ARI",
+          "DeAndre Hopkins WR - HOU"
+        ],
+        "owner": "Karthik",
+        "received": [
+          "Ty Montgomery RB - GB"
+        ]
+      }
+    ]
+  }
+]
