@@ -1,0 +1,30 @@
+[
+  {
+    "date": "Sep 26, 6:44am",
+    "week": 4,
+    "type": "trade",
+    "by": "Avi",
+    "participants": [
+      {
+        "team": "Shake and Bake-r",
+        "gave": [
+          "Amari Cooper WR - BUF"
+        ],
+        "owner": "Rajat",
+        "received": [
+          "Jordan Mason RB - MIN Q"
+        ]
+      },
+      {
+        "team": "Laughing Stocks",
+        "gave": [
+          "Jordan Mason RB - MIN Q"
+        ],
+        "owner": "Avi",
+        "received": [
+          "Amari Cooper WR - BUF"
+        ]
+      }
+    ]
+  }
+]
