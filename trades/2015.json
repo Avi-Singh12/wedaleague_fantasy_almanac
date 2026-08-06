@@ -1,0 +1,350 @@
+[
+  {
+    "date": "Dec 1, 9:22am",
+    "week": 13,
+    "type": "trade",
+    "by": "Avi",
+    "participants": [
+      {
+        "team": "Arshdeep Throat",
+        "gave": [
+          "Thomas Rawls RB - SEA"
+        ],
+        "owner": "Krishna",
+        "received": [
+          "Javorius Allen RB - BAL"
+        ]
+      },
+      {
+        "team": "More Probable Than Not",
+        "gave": [
+          "Javorius Allen RB - BAL"
+        ],
+        "owner": "Avi",
+        "received": [
+          "Thomas Rawls RB - SEA"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Nov 29, 12:13pm",
+    "week": 12,
+    "type": "trade",
+    "by": "Avi",
+    "participants": [
+      {
+        "team": "Arshdeep Throat",
+        "gave": [
+          "Javorius Allen RB - BAL"
+        ],
+        "owner": "Krishna",
+        "received": [
+          "Thomas Rawls RB - SEA"
+        ]
+      },
+      {
+        "team": "More Probable Than Not",
+        "gave": [
+          "Thomas Rawls RB - SEA"
+        ],
+        "owner": "Avi",
+        "received": [
+          "Javorius Allen RB - BAL"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Nov 10, 5:35pm",
+    "week": 10,
+    "type": "trade",
+    "by": "Avi",
+    "participants": [
+      {
+        "team": "Arshdeep Throat",
+        "gave": [
+          "DeMarco Murray RB - PHI"
+        ],
+        "owner": "Krishna",
+        "received": [
+          "Denver Broncos",
+          "DEF",
+          "Davante Adams WR - GB"
+        ]
+      },
+      {
+        "team": "More Probable Than Not",
+        "gave": [
+          "Denver Broncos",
+          "DEF",
+          "Davante Adams WR - GB"
+        ],
+        "owner": "Avi",
+        "received": [
+          "DeMarco Murray RB - PHI"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Nov 5, 9:31am",
+    "week": 9,
+    "type": "trade",
+    "by": "Krishna",
+    "participants": [
+      {
+        "team": "Barca Squad",
+        "gave": [
+          "Justin Forsett RB - BAL",
+          "Malcom Floyd WR - LAC",
+          "Jeremy Hill RB - CIN"
+        ],
+        "owner": "Tanvir",
+        "received": [
+          "Ryan Tannehill QB - MIA",
+          "Charcandrick West RB - KC"
+        ]
+      },
+      {
+        "team": "Arshdeep Throat",
+        "gave": [
+          "Ryan Tannehill QB - MIA",
+          "Charcandrick West RB - KC"
+        ],
+        "owner": "Krishna",
+        "received": [
+          "Justin Forsett RB - BAL",
+          "Malcom Floyd WR - LAC",
+          "Jeremy Hill RB - CIN"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Oct 29, 1:30pm",
+    "week": 8,
+    "type": "trade",
+    "by": "Avi",
+    "participants": [
+      {
+        "team": "FF Runner Up",
+        "gave": [
+          "Dion Lewis RB - NE",
+          "Eddie Lacy RB - GB",
+          "Draft Pick - 2016 Rd 4"
+        ],
+        "owner": "Karthik",
+        "received": [
+          "Jordy Nelson WR - GB",
+          "Arian Foster RB - HOU",
+          "Draft Pick - 2016 Rd 20"
+        ]
+      },
+      {
+        "team": "More Probable Than Not",
+        "gave": [
+          "Jordy Nelson WR - GB",
+          "Arian Foster RB - HOU",
+          "Draft Pick - 2016 Rd 20"
+        ],
+        "owner": "Avi",
+        "received": [
+          "Dion Lewis RB - NE",
+          "Eddie Lacy RB - GB",
+          "Draft Pick - 2016 Rd 4"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Oct 20, 4:15am",
+    "week": 7,
+    "type": "trade",
+    "by": "Bhuvanesh",
+    "participants": [
+      {
+        "team": "Arshdeep Throat",
+        "gave": [
+          "Brandon McManus K - DEN",
+          "Martavis Bryant WR - PIT"
+        ],
+        "owner": "Krishna",
+        "received": [
+          "Charcandrick West RB - KC",
+          "Allen Hurns WR - JAC"
+        ]
+      },
+      {
+        "team": "SteeredPrune",
+        "gave": [
+          "Charcandrick West RB - KC",
+          "Allen Hurns WR - JAC"
+        ],
+        "owner": "Bhuvanesh",
+        "received": [
+          "Brandon McManus K - DEN",
+          "Martavis Bryant WR - PIT"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Oct 15, 3:45pm",
+    "week": 6,
+    "type": "trade",
+    "by": "Avi",
+    "participants": [
+      {
+        "team": "FF Runner Up",
+        "gave": [
+          "Ladarius Green TE - LAC",
+          "Phillip Dorsett WR - IND"
+        ],
+        "owner": "Karthik",
+        "received": [
+          "DeMarco Murray RB - PHI",
+          "Justin Tucker K - BAL",
+          "Keenan Allen WR - LAC",
+          "Carlos Hyde RB - SF",
+          "Karlos Williams RB - BUF"
+        ]
+      },
+      {
+        "team": "Arshdeep Throat",
+        "gave": [
+          "DeMarco Murray RB - PHI",
+          "Justin Tucker K - BAL",
+          "Keenan Allen WR - LAC",
+          "Carlos Hyde RB - SF",
+          "Karlos Williams RB - BUF"
+        ],
+        "owner": "Krishna",
+        "received": [
+          "Ladarius Green TE - LAC",
+          "Phillip Dorsett WR - IND"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Oct 15, 5:12pm",
+    "week": 6,
+    "type": "trade",
+    "by": "Avi",
+    "participants": [
+      {
+        "team": "FF Runner Up",
+        "gave": [
+          "DeMarco Murray RB - PHI",
+          "Justin Tucker K - BAL",
+          "Keenan Allen WR - LAC",
+          "Carlos Hyde RB - SF"
+        ],
+        "owner": "Karthik",
+        "received": [
+          "Ladarius Green TE - LAC",
+          "Phillip Dorsett WR - IND"
+        ]
+      },
+      {
+        "team": "Arshdeep Throat",
+        "gave": [
+          "Ladarius Green TE - LAC",
+          "Phillip Dorsett WR - IND"
+        ],
+        "owner": "Krishna",
+        "received": [
+          "DeMarco Murray RB - PHI",
+          "Justin Tucker K - BAL",
+          "Keenan Allen WR - LAC",
+          "Carlos Hyde RB - SF"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Oct 19, 10:00am",
+    "week": 6,
+    "type": "trade",
+    "by": "Bhuvanesh",
+    "participants": [
+      {
+        "team": "Arshdeep Throat",
+        "gave": [
+          "Gary Barnidge TE - CLE"
+        ],
+        "owner": "Krishna",
+        "received": [
+          "Alex Smith QB - KC"
+        ]
+      },
+      {
+        "team": "SteeredPrune",
+        "gave": [
+          "Alex Smith QB - KC"
+        ],
+        "owner": "Bhuvanesh",
+        "received": [
+          "Gary Barnidge TE - CLE"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Oct 19, 10:00am",
+    "week": 6,
+    "type": "trade",
+    "by": "Krishna",
+    "participants": [
+      {
+        "team": "FF Runner Up",
+        "gave": [
+          "Peyton Manning QB - DEN"
+        ],
+        "owner": "Karthik",
+        "received": [
+          "James Starks RB - GB"
+        ]
+      },
+      {
+        "team": "Arshdeep Throat",
+        "gave": [
+          "James Starks RB - GB"
+        ],
+        "owner": "Krishna",
+        "received": [
+          "Peyton Manning QB - DEN"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Sep 8, 12:14am",
+    "week": 1,
+    "type": "trade",
+    "by": "Tanvir",
+    "participants": [
+      {
+        "team": "FF Runner Up",
+        "gave": [
+          "Andy Dalton QB - CIN"
+        ],
+        "owner": "Karthik",
+        "received": [
+          "Corey Brown WR - CAR"
+        ]
+      },
+      {
+        "team": "Barca Squad",
+        "gave": [
+          "Corey Brown WR - CAR"
+        ],
+        "owner": "Tanvir",
+        "received": [
+          "Andy Dalton QB - CIN"
+        ]
+      }
+    ]
+  }
+]
