@@ -1,0 +1,124 @@
+[
+  {
+    "date": "Oct 31, 12:50am",
+    "week": 9,
+    "type": "trade",
+    "by": "Avi",
+    "participants": [
+      {
+        "team": "Keep Calm and Megatron",
+        "gave": [
+          "Danny Amendola WR - NE",
+          "Trent Richardson RB - IND"
+        ],
+        "owner": "Karthik",
+        "received": [
+          "Greg Jennings WR - MIN",
+          "Joseph Fauria TE - DET"
+        ]
+      },
+      {
+        "team": "Fear the Beard",
+        "gave": [
+          "Greg Jennings WR - MIN",
+          "Joseph Fauria TE - DET"
+        ],
+        "owner": "Avi",
+        "received": [
+          "Danny Amendola WR - NE",
+          "Trent Richardson RB - IND"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Oct 24, 12:52am",
+    "week": 8,
+    "type": "trade",
+    "by": "Krishna",
+    "participants": [
+      {
+        "team": "Keep Calm and Megatron",
+        "gave": [
+          "Andy Dalton QB - CIN",
+          "Denarius Moore WR - LV"
+        ],
+        "owner": "Karthik",
+        "received": [
+          "Ray Rice RB - BAL",
+          "Josh Gordon WR - CLE"
+        ]
+      },
+      {
+        "team": "Hernandez's Hit Men",
+        "gave": [
+          "Ray Rice RB - BAL",
+          "Josh Gordon WR - CLE"
+        ],
+        "owner": "Krishna",
+        "received": [
+          "Andy Dalton QB - CIN",
+          "Denarius Moore WR - LV"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Sep 24, 12:27am",
+    "week": 4,
+    "type": "trade",
+    "by": "Karthik",
+    "participants": [
+      {
+        "team": "Bharat Venkat is a poser",
+        "gave": [
+          "Trent Richardson RB - IND"
+        ],
+        "owner": "Rishab",
+        "received": [
+          "Eric Decker WR - DEN",
+          "Leonard Hankerson WR - WAS"
+        ]
+      },
+      {
+        "team": "Keep Calm and Megatron",
+        "gave": [
+          "Eric Decker WR - DEN",
+          "Leonard Hankerson WR - WAS"
+        ],
+        "owner": "Karthik",
+        "received": [
+          "Trent Richardson RB - IND"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Sep 26, 12:43am",
+    "week": 4,
+    "type": "trade",
+    "by": "Karthik",
+    "participants": [
+      {
+        "team": "Hernandez's Hit Men",
+        "gave": [
+          "James Jones WR - GB"
+        ],
+        "owner": "Krishna",
+        "received": [
+          "James Starks RB - GB"
+        ]
+      },
+      {
+        "team": "Keep Calm and Megatron",
+        "gave": [
+          "James Starks RB - GB"
+        ],
+        "owner": "Karthik",
+        "received": [
+          "James Jones WR - GB"
+        ]
+      }
+    ]
+  }
+]
