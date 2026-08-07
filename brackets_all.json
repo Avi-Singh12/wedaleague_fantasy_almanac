@@ -1,0 +1,1860 @@
+[
+  {
+    "year": 2013,
+    "regular_order": {
+      "Rishab": 4,
+      "Prem": 1,
+      "Krishna": 5,
+      "Karthik": 2,
+      "Rishi": 8,
+      "Avi": 7,
+      "Shanker": 3,
+      "Bhuvanesh": 6
+    },
+    "championship": {
+      "bracketType": "championship",
+      "rounds": [
+        {
+          "roundName": "Semifinal",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 2,
+              "teamA": "Keep Calm and Megatron",
+              "ownerA": "Karthik",
+              "scoreA": 134.54,
+              "seedB": 1,
+              "teamB": "PremSwag12",
+              "ownerB": "Prem",
+              "scoreB": 182.0,
+              "winner": "PremSwag12",
+              "round": "Semifinal"
+            },
+            {
+              "seedA": 4,
+              "teamA": "Bharat Venkat is a poser",
+              "ownerA": "Rishab",
+              "scoreA": 83.12,
+              "seedB": 3,
+              "teamB": "MathIsAwesome",
+              "ownerB": "Shanker",
+              "scoreB": 68.22,
+              "winner": "Bharat Venkat is a poser",
+              "round": "Semifinal"
+            }
+          ]
+        },
+        {
+          "roundName": "3rd Place",
+          "round": 2,
+          "matchups": [
+            {
+              "seedA": 2,
+              "teamA": "Keep Calm and Megatron",
+              "ownerA": "Karthik",
+              "scoreA": 76.72,
+              "seedB": 3,
+              "teamB": "MathIsAwesome",
+              "ownerB": "Shanker",
+              "scoreB": 72.42,
+              "winner": "Keep Calm and Megatron",
+              "round": "3rd Place"
+            },
+            {
+              "seedA": 1,
+              "teamA": "PremSwag12",
+              "ownerA": "Prem",
+              "scoreA": 94.0,
+              "seedB": 4,
+              "teamB": "Bharat Venkat is a poser",
+              "ownerB": "Rishab",
+              "scoreB": 109.14,
+              "winner": "Bharat Venkat is a poser",
+              "round": "3rd Place"
+            }
+          ]
+        }
+      ],
+      "champion": null,
+      "runner_up": null,
+      "third_place": "Keep Calm and Megatron"
+    },
+    "consolation": {
+      "bracketType": "consolation",
+      "rounds": [
+        {
+          "roundName": "Week 15 Consolation",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 7,
+              "teamA": "Fear the Beard",
+              "ownerA": "Avi",
+              "scoreA": 186.2,
+              "seedB": 6,
+              "teamB": "SteeredPrune",
+              "ownerB": "Bhuvanesh",
+              "scoreB": 124.94,
+              "winner": "Fear the Beard",
+              "round": "Week 15 Consolation"
+            },
+            {
+              "seedA": 5,
+              "teamA": "Hernandez's Hit Men",
+              "ownerA": "Krishna",
+              "scoreA": 117.4,
+              "seedB": 8,
+              "teamB": "Rookies",
+              "ownerB": "Rishi",
+              "scoreB": 160.44,
+              "winner": "Rookies",
+              "round": "Week 15 Consolation"
+            }
+          ]
+        },
+        {
+          "roundName": "Week 16 Consolation",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 7,
+              "teamA": "Fear the Beard",
+              "ownerA": "Avi",
+              "scoreA": 99.9,
+              "seedB": 8,
+              "teamB": "Rookies",
+              "ownerB": "Rishi",
+              "scoreB": 113.5,
+              "winner": "Rookies",
+              "round": "Week 16 Consolation"
+            },
+            {
+              "seedA": 5,
+              "teamA": "Hernandez's Hit Men",
+              "ownerA": "Krishna",
+              "scoreA": 128.62,
+              "seedB": 6,
+              "teamB": "SteeredPrune",
+              "ownerB": "Bhuvanesh",
+              "scoreB": 92.74,
+              "winner": "Hernandez's Hit Men",
+              "round": "Week 16 Consolation"
+            }
+          ]
+        }
+      ]
+    },
+    "source_urls": [
+      "https://fantasy.nfl.com/league/2074621/history/2013/playoffs?bracketType=championship&standingsTab=playoffs",
+      "https://fantasy.nfl.com/league/2074621/history/2013/playoffs?bracketType=consolation&standingsTab=playoffs",
+      "https://fantasy.nfl.com/league/2074621/history/2013/standings?historyStandingsType=regular",
+      "https://fantasy.nfl.com/league/2074621/history/2013/standings?historyStandingsType=final"
+    ],
+    "notes": "auto-generated from week jsons; seeds from regular_order (wins->PF) or avg_finishes.json when available; ground truth for 2020/2022 overridden"
+  },
+  {
+    "year": 2014,
+    "regular_order": {
+      "Rishab": 2,
+      "Prem": 6,
+      "Krishna": 1,
+      "Karthik": 3,
+      "Rishi": 7,
+      "Avi": 4,
+      "Shanker": 8,
+      "Bhuvanesh": 5
+    },
+    "championship": {
+      "bracketType": "championship",
+      "rounds": [
+        {
+          "roundName": "Semifinal",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 4,
+              "teamA": "Fear the Beard",
+              "ownerA": "Avi",
+              "scoreA": 132.88,
+              "seedB": 1,
+              "teamB": "A Poser is not Bharat Venkat",
+              "ownerB": "Krishna",
+              "scoreB": 85.82,
+              "winner": "Fear the Beard",
+              "round": "Semifinal"
+            },
+            {
+              "seedA": 2,
+              "teamA": "Bharat Venkat is not a poser",
+              "ownerA": "Rishab",
+              "scoreA": 91.68,
+              "seedB": 3,
+              "teamB": "Beard the Fear",
+              "ownerB": "Karthik",
+              "scoreB": 73.12,
+              "winner": "Bharat Venkat is not a poser",
+              "round": "Semifinal"
+            }
+          ]
+        },
+        {
+          "roundName": "3rd Place",
+          "round": 2,
+          "matchups": [
+            {
+              "seedA": 4,
+              "teamA": "Fear the Beard",
+              "ownerA": "Avi",
+              "scoreA": 124.98,
+              "seedB": 2,
+              "teamB": "Bharat Venkat is not a poser",
+              "ownerB": "Rishab",
+              "scoreB": 116.76,
+              "winner": "Fear the Beard",
+              "round": "3rd Place"
+            },
+            {
+              "seedA": 1,
+              "teamA": "A Poser is not Bharat Venkat",
+              "ownerA": "Krishna",
+              "scoreA": 88.34,
+              "seedB": 3,
+              "teamB": "Beard the Fear",
+              "ownerB": "Karthik",
+              "scoreB": 106.0,
+              "winner": "Beard the Fear",
+              "round": "3rd Place"
+            }
+          ]
+        }
+      ],
+      "champion": null,
+      "runner_up": null,
+      "third_place": "Fear the Beard"
+    },
+    "consolation": {
+      "bracketType": "consolation",
+      "rounds": [
+        {
+          "roundName": "Week 15 Consolation",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 5,
+              "teamA": "SteeredPrune",
+              "ownerA": "Bhuvanesh",
+              "scoreA": 103.68,
+              "seedB": 8,
+              "teamB": "MathIsAwesome",
+              "ownerB": "Shanker",
+              "scoreB": 51.3,
+              "winner": "SteeredPrune",
+              "round": "Week 15 Consolation"
+            },
+            {
+              "seedA": 6,
+              "teamA": "GettinBuckets",
+              "ownerA": "Prem",
+              "scoreA": 122.72,
+              "seedB": 7,
+              "teamB": "Rookies",
+              "ownerB": "Rishi",
+              "scoreB": 90.2,
+              "winner": "GettinBuckets",
+              "round": "Week 15 Consolation"
+            }
+          ]
+        },
+        {
+          "roundName": "Week 16 Consolation",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 5,
+              "teamA": "SteeredPrune",
+              "ownerA": "Bhuvanesh",
+              "scoreA": 72.28,
+              "seedB": 6,
+              "teamB": "GettinBuckets",
+              "ownerB": "Prem",
+              "scoreB": 138.9,
+              "winner": "GettinBuckets",
+              "round": "Week 16 Consolation"
+            },
+            {
+              "seedA": 8,
+              "teamA": "MathIsAwesome",
+              "ownerA": "Shanker",
+              "scoreA": 123.34,
+              "seedB": 7,
+              "teamB": "Rookies",
+              "ownerB": "Rishi",
+              "scoreB": 77.34,
+              "winner": "MathIsAwesome",
+              "round": "Week 16 Consolation"
+            }
+          ]
+        }
+      ]
+    },
+    "source_urls": [
+      "https://fantasy.nfl.com/league/2074621/history/2014/playoffs?bracketType=championship&standingsTab=playoffs",
+      "https://fantasy.nfl.com/league/2074621/history/2014/playoffs?bracketType=consolation&standingsTab=playoffs",
+      "https://fantasy.nfl.com/league/2074621/history/2014/standings?historyStandingsType=regular",
+      "https://fantasy.nfl.com/league/2074621/history/2014/standings?historyStandingsType=final"
+    ],
+    "notes": "auto-generated from week jsons; seeds from regular_order (wins->PF) or avg_finishes.json when available; ground truth for 2020/2022 overridden"
+  },
+  {
+    "year": 2015,
+    "regular_order": {
+      "Rishab": 3,
+      "Prem": 6,
+      "Krishna": 5,
+      "Karthik": 2,
+      "Avi": 1,
+      "Tarun": 8,
+      "Bhuvanesh": 7,
+      "Tanvir": 4
+    },
+    "championship": {
+      "bracketType": "championship",
+      "rounds": [
+        {
+          "roundName": "Semifinal",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 1,
+              "teamA": "More Probable Than Not",
+              "ownerA": "Avi",
+              "scoreA": 110.18,
+              "seedB": 3,
+              "teamB": "team sucks ass",
+              "ownerB": "Rishab",
+              "scoreB": 152.16,
+              "winner": "team sucks ass",
+              "round": "Semifinal"
+            }
+          ]
+        },
+        {
+          "roundName": "3rd Place",
+          "round": 2,
+          "matchups": [
+            {
+              "seedA": 3,
+              "teamA": "team sucks ass",
+              "ownerA": "Rishab",
+              "scoreA": 118.04,
+              "seedB": 2,
+              "teamB": "FF  Runner Up",
+              "ownerB": "Karthik",
+              "scoreB": 98.78,
+              "winner": "team sucks ass",
+              "round": "3rd Place"
+            }
+          ]
+        }
+      ],
+      "champion": null,
+      "runner_up": null,
+      "third_place": "team sucks ass"
+    },
+    "consolation": {
+      "bracketType": "consolation",
+      "rounds": [
+        {
+          "roundName": "Week 15 Consolation",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 2,
+              "teamA": "FF  Runner Up",
+              "ownerA": "Karthik",
+              "scoreA": 144.5,
+              "seedB": 5,
+              "teamB": "Arshdeep Throat",
+              "ownerB": "Krishna",
+              "scoreB": 117.9,
+              "winner": "FF  Runner Up",
+              "round": "Week 15 Consolation"
+            },
+            {
+              "seedA": 6,
+              "teamA": "GettinBuckets",
+              "ownerA": "Prem",
+              "scoreA": 121.94,
+              "seedB": 7,
+              "teamB": "SteeredPrune",
+              "ownerB": "Bhuvanesh",
+              "scoreB": 133.04,
+              "winner": "SteeredPrune",
+              "round": "Week 15 Consolation"
+            },
+            {
+              "seedA": 4,
+              "teamA": "Barca Squad",
+              "ownerA": "Tanvir",
+              "scoreA": 170.4,
+              "seedB": 8,
+              "teamB": "The Dream Team",
+              "ownerB": "Tarun",
+              "scoreB": 151.64,
+              "winner": "Barca Squad",
+              "round": "Week 15 Consolation"
+            }
+          ]
+        },
+        {
+          "roundName": "Week 16 Consolation",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 1,
+              "teamA": "More Probable Than Not",
+              "ownerA": "Avi",
+              "scoreA": 56.0,
+              "seedB": 5,
+              "teamB": "Arshdeep Throat",
+              "ownerB": "Krishna",
+              "scoreB": 97.74,
+              "winner": "Arshdeep Throat",
+              "round": "Week 16 Consolation"
+            },
+            {
+              "seedA": 8,
+              "teamA": "The Dream Team",
+              "ownerA": "Tarun",
+              "scoreA": 110.9,
+              "seedB": 6,
+              "teamB": "GettinBuckets",
+              "ownerB": "Prem",
+              "scoreB": 120.76,
+              "winner": "GettinBuckets",
+              "round": "Week 16 Consolation"
+            },
+            {
+              "seedA": 4,
+              "teamA": "Barca Squad",
+              "ownerA": "Tanvir",
+              "scoreA": 131.32,
+              "seedB": 7,
+              "teamB": "SteeredPrune",
+              "ownerB": "Bhuvanesh",
+              "scoreB": 123.38,
+              "winner": "Barca Squad",
+              "round": "Week 16 Consolation"
+            }
+          ]
+        }
+      ]
+    },
+    "source_urls": [
+      "https://fantasy.nfl.com/league/2074621/history/2015/playoffs?bracketType=championship&standingsTab=playoffs",
+      "https://fantasy.nfl.com/league/2074621/history/2015/playoffs?bracketType=consolation&standingsTab=playoffs",
+      "https://fantasy.nfl.com/league/2074621/history/2015/standings?historyStandingsType=regular",
+      "https://fantasy.nfl.com/league/2074621/history/2015/standings?historyStandingsType=final"
+    ],
+    "notes": "auto-generated from week jsons; seeds from regular_order (wins->PF) or avg_finishes.json when available; ground truth for 2020/2022 overridden"
+  },
+  {
+    "year": 2016,
+    "regular_order": {
+      "Rishab": 4,
+      "Prem": 8,
+      "Krishna": 3,
+      "Karthik": 2,
+      "Avi": 1,
+      "Tarun": 6,
+      "Bhuvanesh": 7,
+      "Tanvir": 5
+    },
+    "championship": {
+      "bracketType": "championship",
+      "rounds": [
+        {
+          "roundName": "Semifinal",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 1,
+              "teamA": "More Probable Than Not",
+              "ownerA": "Avi",
+              "scoreA": 111.92,
+              "seedB": 3,
+              "teamB": "Arshdeep Throat",
+              "ownerB": "Krishna",
+              "scoreB": 70.88,
+              "winner": "More Probable Than Not",
+              "round": "Semifinal"
+            },
+            {
+              "seedA": 2,
+              "teamA": "FF Runner Up",
+              "ownerA": "Karthik",
+              "scoreA": 102.74,
+              "seedB": 4,
+              "teamB": "trump2016",
+              "ownerB": "Rishab",
+              "scoreB": 128.3,
+              "winner": "trump2016",
+              "round": "Semifinal"
+            }
+          ]
+        },
+        {
+          "roundName": "3rd Place",
+          "round": 2,
+          "matchups": [
+            {
+              "seedA": 1,
+              "teamA": "More Probable Than Not",
+              "ownerA": "Avi",
+              "scoreA": 124.66,
+              "seedB": 4,
+              "teamB": "trump2016",
+              "ownerB": "Rishab",
+              "scoreB": 85.02,
+              "winner": "More Probable Than Not",
+              "round": "3rd Place"
+            },
+            {
+              "seedA": 3,
+              "teamA": "Arshdeep Throat",
+              "ownerA": "Krishna",
+              "scoreA": 155.98,
+              "seedB": 2,
+              "teamB": "FF Runner Up",
+              "ownerB": "Karthik",
+              "scoreB": 95.48,
+              "winner": "Arshdeep Throat",
+              "round": "3rd Place"
+            }
+          ]
+        }
+      ],
+      "champion": null,
+      "runner_up": null,
+      "third_place": "More Probable Than Not"
+    },
+    "consolation": {
+      "bracketType": "consolation",
+      "rounds": [
+        {
+          "roundName": "Week 15 Consolation",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 7,
+              "teamA": "SteeredPrune",
+              "ownerA": "Bhuvanesh",
+              "scoreA": 144.46,
+              "seedB": 6,
+              "teamB": "The Dream Team",
+              "ownerB": "Tarun",
+              "scoreB": 95.5,
+              "winner": "SteeredPrune",
+              "round": "Week 15 Consolation"
+            },
+            {
+              "seedA": 5,
+              "teamA": "Barca Squad",
+              "ownerA": "Tanvir",
+              "scoreA": 97.2,
+              "seedB": 8,
+              "teamB": "GettinBuckets",
+              "ownerB": "Prem",
+              "scoreB": 92.02,
+              "winner": "Barca Squad",
+              "round": "Week 15 Consolation"
+            }
+          ]
+        },
+        {
+          "roundName": "Week 16 Consolation",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 7,
+              "teamA": "SteeredPrune",
+              "ownerA": "Bhuvanesh",
+              "scoreA": 120.96,
+              "seedB": 5,
+              "teamB": "Barca Squad",
+              "ownerB": "Tanvir",
+              "scoreB": 121.72,
+              "winner": "Barca Squad",
+              "round": "Week 16 Consolation"
+            },
+            {
+              "seedA": 6,
+              "teamA": "The Dream Team",
+              "ownerA": "Tarun",
+              "scoreA": 131.1,
+              "seedB": 8,
+              "teamB": "GettinBuckets",
+              "ownerB": "Prem",
+              "scoreB": 102.06,
+              "winner": "The Dream Team",
+              "round": "Week 16 Consolation"
+            }
+          ]
+        }
+      ]
+    },
+    "source_urls": [
+      "https://fantasy.nfl.com/league/2074621/history/2016/playoffs?bracketType=championship&standingsTab=playoffs",
+      "https://fantasy.nfl.com/league/2074621/history/2016/playoffs?bracketType=consolation&standingsTab=playoffs",
+      "https://fantasy.nfl.com/league/2074621/history/2016/standings?historyStandingsType=regular",
+      "https://fantasy.nfl.com/league/2074621/history/2016/standings?historyStandingsType=final"
+    ],
+    "notes": "auto-generated from week jsons; seeds from regular_order (wins->PF) or avg_finishes.json when available; ground truth for 2020/2022 overridden"
+  },
+  {
+    "year": 2017,
+    "regular_order": {
+      "Rishab": 8,
+      "Krishna": 3,
+      "Karthik": 7,
+      "Sahith": 6,
+      "Avi": 1,
+      "Tarun": 4,
+      "Bhuvanesh": 2,
+      "Tanvir": 5
+    },
+    "championship": {
+      "bracketType": "championship",
+      "rounds": [
+        {
+          "roundName": "Semifinal",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 1,
+              "teamA": "More Probable Than Not",
+              "ownerA": "Avi",
+              "scoreA": 111.62,
+              "seedB": 4,
+              "teamB": "The Dream Team",
+              "ownerB": "Tarun",
+              "scoreB": 84.94,
+              "winner": "More Probable Than Not",
+              "round": "Semifinal"
+            },
+            {
+              "seedA": 3,
+              "teamA": "Dak Sucks Balls",
+              "ownerA": "Krishna",
+              "scoreA": 102.4,
+              "seedB": 2,
+              "teamB": "SteeredPrune",
+              "ownerB": "Bhuvanesh",
+              "scoreB": 145.94,
+              "winner": "SteeredPrune",
+              "round": "Semifinal"
+            }
+          ]
+        },
+        {
+          "roundName": "3rd Place",
+          "round": 2,
+          "matchups": [
+            {
+              "seedA": 1,
+              "teamA": "More Probable Than Not",
+              "ownerA": "Avi",
+              "scoreA": 87.56,
+              "seedB": 2,
+              "teamB": "SteeredPrune",
+              "ownerB": "Bhuvanesh",
+              "scoreB": 82.36,
+              "winner": "More Probable Than Not",
+              "round": "3rd Place"
+            },
+            {
+              "seedA": 3,
+              "teamA": "Dak Sucks Balls",
+              "ownerA": "Krishna",
+              "scoreA": 74.08,
+              "seedB": 4,
+              "teamB": "The Dream Team",
+              "ownerB": "Tarun",
+              "scoreB": 85.54,
+              "winner": "The Dream Team",
+              "round": "3rd Place"
+            }
+          ]
+        }
+      ],
+      "champion": null,
+      "runner_up": null,
+      "third_place": "More Probable Than Not"
+    },
+    "consolation": {
+      "bracketType": "consolation",
+      "rounds": [
+        {
+          "roundName": "Week 15 Consolation",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 7,
+              "teamA": "FF Runner Up",
+              "ownerA": "Karthik",
+              "scoreA": 63.48,
+              "seedB": 6,
+              "teamB": "Booty Eaters",
+              "ownerB": "Sahith",
+              "scoreB": 138.84,
+              "winner": "Booty Eaters",
+              "round": "Week 15 Consolation"
+            },
+            {
+              "seedA": 8,
+              "teamA": "kanye2020",
+              "ownerA": "Rishab",
+              "scoreA": 113.98,
+              "seedB": 5,
+              "teamB": "Barca Squad",
+              "ownerB": "Tanvir",
+              "scoreB": 75.98,
+              "winner": "kanye2020",
+              "round": "Week 15 Consolation"
+            }
+          ]
+        },
+        {
+          "roundName": "Week 16 Consolation",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 7,
+              "teamA": "FF Runner Up",
+              "ownerA": "Karthik",
+              "scoreA": 103.64,
+              "seedB": 5,
+              "teamB": "Barca Squad",
+              "ownerB": "Tanvir",
+              "scoreB": 63.12,
+              "winner": "FF Runner Up",
+              "round": "Week 16 Consolation"
+            },
+            {
+              "seedA": 8,
+              "teamA": "kanye2020",
+              "ownerA": "Rishab",
+              "scoreA": 96.32,
+              "seedB": 6,
+              "teamB": "Booty Eaters",
+              "ownerB": "Sahith",
+              "scoreB": 95.56,
+              "winner": "kanye2020",
+              "round": "Week 16 Consolation"
+            }
+          ]
+        }
+      ]
+    },
+    "source_urls": [
+      "https://fantasy.nfl.com/league/2074621/history/2017/playoffs?bracketType=championship&standingsTab=playoffs",
+      "https://fantasy.nfl.com/league/2074621/history/2017/playoffs?bracketType=consolation&standingsTab=playoffs",
+      "https://fantasy.nfl.com/league/2074621/history/2017/standings?historyStandingsType=regular",
+      "https://fantasy.nfl.com/league/2074621/history/2017/standings?historyStandingsType=final"
+    ],
+    "notes": "auto-generated from week jsons; seeds from regular_order (wins->PF) or avg_finishes.json when available; ground truth for 2020/2022 overridden"
+  },
+  {
+    "year": 2018,
+    "regular_order": {
+      "Rishab": 1,
+      "Krishna": 5,
+      "Karthik": 6,
+      "Sahith": 2,
+      "Avi": 4,
+      "Tarun": 8,
+      "Bhuvanesh": 7,
+      "Tanvir": 3
+    },
+    "championship": {
+      "bracketType": "championship",
+      "rounds": [
+        {
+          "roundName": "Semifinal",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 4,
+              "teamA": "More Probable Than Not",
+              "ownerA": "Avi",
+              "scoreA": 78.62,
+              "seedB": 1,
+              "teamB": "kanye2020",
+              "ownerB": "Rishab",
+              "scoreB": 43.6,
+              "winner": "More Probable Than Not",
+              "round": "Semifinal"
+            },
+            {
+              "seedA": 2,
+              "teamA": "Booty Eaters",
+              "ownerA": "Sahith",
+              "scoreA": 97.88,
+              "seedB": 3,
+              "teamB": "Dogshit Baboons",
+              "ownerB": "Tanvir",
+              "scoreB": 125.08,
+              "winner": "Dogshit Baboons",
+              "round": "Semifinal"
+            }
+          ]
+        },
+        {
+          "roundName": "3rd Place",
+          "round": 2,
+          "matchups": [
+            {
+              "seedA": 4,
+              "teamA": "More Probable Than Not",
+              "ownerA": "Avi",
+              "scoreA": 104.72,
+              "seedB": 3,
+              "teamB": "Dogshit Baboons",
+              "ownerB": "Tanvir",
+              "scoreB": 148.38,
+              "winner": "Dogshit Baboons",
+              "round": "3rd Place"
+            },
+            {
+              "seedA": 1,
+              "teamA": "kanye2020",
+              "ownerA": "Rishab",
+              "scoreA": 93.7,
+              "seedB": 2,
+              "teamB": "Booty Eaters",
+              "ownerB": "Sahith",
+              "scoreB": 90.54,
+              "winner": "kanye2020",
+              "round": "3rd Place"
+            }
+          ]
+        }
+      ],
+      "champion": null,
+      "runner_up": null,
+      "third_place": "Dogshit Baboons"
+    },
+    "consolation": {
+      "bracketType": "consolation",
+      "rounds": [
+        {
+          "roundName": "Week 15 Consolation",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 5,
+              "teamA": "I am Trash",
+              "ownerA": "Krishna",
+              "scoreA": 104.76,
+              "seedB": 8,
+              "teamB": "The Dream Team",
+              "ownerB": "Tarun",
+              "scoreB": 135.3,
+              "winner": "The Dream Team",
+              "round": "Week 15 Consolation"
+            },
+            {
+              "seedA": 6,
+              "teamA": "FF  Runner Up",
+              "ownerA": "Karthik",
+              "scoreA": 101.86,
+              "seedB": 7,
+              "teamB": "SteeredPrune",
+              "ownerB": "Bhuvanesh",
+              "scoreB": 89.06,
+              "winner": "FF  Runner Up",
+              "round": "Week 15 Consolation"
+            }
+          ]
+        },
+        {
+          "roundName": "Week 16 Consolation",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 8,
+              "teamA": "The Dream Team",
+              "ownerA": "Tarun",
+              "scoreA": 95.24,
+              "seedB": 6,
+              "teamB": "FF  Runner Up",
+              "ownerB": "Karthik",
+              "scoreB": 119.54,
+              "winner": "FF  Runner Up",
+              "round": "Week 16 Consolation"
+            },
+            {
+              "seedA": 5,
+              "teamA": "I am Trash",
+              "ownerA": "Krishna",
+              "scoreA": 97.96,
+              "seedB": 7,
+              "teamB": "SteeredPrune",
+              "ownerB": "Bhuvanesh",
+              "scoreB": 112.36,
+              "winner": "SteeredPrune",
+              "round": "Week 16 Consolation"
+            }
+          ]
+        }
+      ]
+    },
+    "source_urls": [
+      "https://fantasy.nfl.com/league/2074621/history/2018/playoffs?bracketType=championship&standingsTab=playoffs",
+      "https://fantasy.nfl.com/league/2074621/history/2018/playoffs?bracketType=consolation&standingsTab=playoffs",
+      "https://fantasy.nfl.com/league/2074621/history/2018/standings?historyStandingsType=regular",
+      "https://fantasy.nfl.com/league/2074621/history/2018/standings?historyStandingsType=final"
+    ],
+    "notes": "auto-generated from week jsons; seeds from regular_order (wins->PF) or avg_finishes.json when available; ground truth for 2020/2022 overridden"
+  },
+  {
+    "year": 2019,
+    "regular_order": {
+      "Rishab": 5,
+      "Krishna": 3,
+      "Karthik": 6,
+      "Sahith": 1,
+      "Avi": 2,
+      "Tarun": 4,
+      "Bhuvanesh": 8,
+      "Tanvir": 7
+    },
+    "championship": {
+      "bracketType": "championship",
+      "rounds": [
+        {
+          "roundName": "Semifinal",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 2,
+              "teamA": "More Probable Than Not",
+              "ownerA": "Avi",
+              "scoreA": 142.7,
+              "seedB": 3,
+              "teamB": "I am Trash",
+              "ownerB": "Krishna",
+              "scoreB": 182.18,
+              "winner": "I am Trash",
+              "round": "Semifinal"
+            },
+            {
+              "seedA": 1,
+              "teamA": "Booty Eaters",
+              "ownerA": "Sahith",
+              "scoreA": 120.78,
+              "seedB": 4,
+              "teamB": "Haskins Robbins",
+              "ownerB": "Tarun",
+              "scoreB": 144.62,
+              "winner": "Haskins Robbins",
+              "round": "Semifinal"
+            }
+          ]
+        },
+        {
+          "roundName": "3rd Place",
+          "round": 2,
+          "matchups": [
+            {
+              "seedA": 2,
+              "teamA": "More Probable Than Not",
+              "ownerA": "Avi",
+              "scoreA": 123.84,
+              "seedB": 1,
+              "teamB": "Booty Eaters",
+              "ownerB": "Sahith",
+              "scoreB": 91.4,
+              "winner": "More Probable Than Not",
+              "round": "3rd Place"
+            },
+            {
+              "seedA": 4,
+              "teamA": "Haskins Robbins",
+              "ownerA": "Tarun",
+              "scoreA": 113.76,
+              "seedB": 3,
+              "teamB": "I am Trash",
+              "ownerB": "Krishna",
+              "scoreB": 128.42,
+              "winner": "I am Trash",
+              "round": "3rd Place"
+            }
+          ]
+        }
+      ],
+      "champion": null,
+      "runner_up": null,
+      "third_place": "More Probable Than Not"
+    },
+    "consolation": {
+      "bracketType": "consolation",
+      "rounds": [
+        {
+          "roundName": "Week 15 Consolation",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 5,
+              "teamA": "bum",
+              "ownerA": "Rishab",
+              "scoreA": 85.62,
+              "seedB": 8,
+              "teamB": "SteeredPrune",
+              "ownerB": "Bhuvanesh",
+              "scoreB": 114.26,
+              "winner": "SteeredPrune",
+              "round": "Week 15 Consolation"
+            },
+            {
+              "seedA": 6,
+              "teamA": "Actual Dick",
+              "ownerA": "Karthik",
+              "scoreA": 86.76,
+              "seedB": 7,
+              "teamB": "Dogshit Baboons",
+              "ownerB": "Tanvir",
+              "scoreB": 94.8,
+              "winner": "Dogshit Baboons",
+              "round": "Week 15 Consolation"
+            }
+          ]
+        },
+        {
+          "roundName": "Week 16 Consolation",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 8,
+              "teamA": "SteeredPrune",
+              "ownerA": "Bhuvanesh",
+              "scoreA": 104.82,
+              "seedB": 7,
+              "teamB": "Dogshit Baboons",
+              "ownerB": "Tanvir",
+              "scoreB": 74.66,
+              "winner": "SteeredPrune",
+              "round": "Week 16 Consolation"
+            },
+            {
+              "seedA": 5,
+              "teamA": "bum",
+              "ownerA": "Rishab",
+              "scoreA": 86.46,
+              "seedB": 6,
+              "teamB": "Actual Dick",
+              "ownerB": "Karthik",
+              "scoreB": 183.28,
+              "winner": "Actual Dick",
+              "round": "Week 16 Consolation"
+            }
+          ]
+        }
+      ]
+    },
+    "source_urls": [
+      "https://fantasy.nfl.com/league/2074621/history/2019/playoffs?bracketType=championship&standingsTab=playoffs",
+      "https://fantasy.nfl.com/league/2074621/history/2019/playoffs?bracketType=consolation&standingsTab=playoffs",
+      "https://fantasy.nfl.com/league/2074621/history/2019/standings?historyStandingsType=regular",
+      "https://fantasy.nfl.com/league/2074621/history/2019/standings?historyStandingsType=final"
+    ],
+    "notes": "auto-generated from week jsons; seeds from regular_order (wins->PF) or avg_finishes.json when available; ground truth for 2020/2022 overridden"
+  },
+  {
+    "year": 2020,
+    "regular_order": {
+      "Rishab": 8,
+      "Krishna": 5,
+      "Ameya": 10,
+      "Karthik": 6,
+      "Rajat": 1,
+      "Sahith": 7,
+      "Avi": 3,
+      "Tarun": 2,
+      "Bhuvanesh": 9,
+      "Tanvir": 4
+    },
+    "championship": {
+      "bracketType": "championship",
+      "rounds": [
+        {
+          "roundName": "Semifinal",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 1,
+              "teamA": "Stefon Diggs' Mistress",
+              "ownerA": "Rajat",
+              "scoreA": 102.4,
+              "seedB": 4,
+              "teamB": "Dogshit Baboons",
+              "ownerB": "Tanvir",
+              "scoreB": 138.34,
+              "winner": "Tanvir",
+              "round": "Semifinal"
+            },
+            {
+              "seedA": 2,
+              "teamA": "Haskin for Trouble",
+              "ownerA": "Tarun",
+              "scoreA": 96.32,
+              "seedB": 3,
+              "teamB": "Laughing Stocks",
+              "ownerB": "Avi",
+              "scoreB": 125.16,
+              "winner": "Avi",
+              "round": "Semifinal"
+            }
+          ]
+        },
+        {
+          "roundName": "Final",
+          "round": 2,
+          "matchups": [
+            {
+              "seedA": 4,
+              "teamA": "Dogshit Baboons",
+              "ownerA": "Tanvir",
+              "scoreA": 91.58,
+              "seedB": 3,
+              "teamB": "Laughing Stocks",
+              "ownerB": "Avi",
+              "scoreB": 89.22,
+              "winner": "Tanvir",
+              "round": "Final"
+            }
+          ]
+        },
+        {
+          "roundName": "3rd Place",
+          "round": 2,
+          "matchups": [
+            {
+              "seedA": 1,
+              "teamA": "Stefon Diggs' Mistress",
+              "ownerA": "Rajat",
+              "scoreA": 115.32,
+              "seedB": 2,
+              "teamB": "Haskin for Trouble",
+              "ownerB": "Tarun",
+              "scoreB": 104.74,
+              "winner": "Rajat",
+              "round": "3rd Place"
+            }
+          ]
+        }
+      ],
+      "champion": "Tanvir",
+      "runner_up": "Avi",
+      "third_place": "Rajat"
+    },
+    "consolation": {
+      "bracketType": "consolation",
+      "rounds": [
+        {
+          "roundName": "Consolation",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 5,
+              "teamA": "I am Trash",
+              "ownerA": "Krishna",
+              "scoreA": 113.02,
+              "seedB": 8,
+              "teamB": "bum",
+              "ownerB": "Rishab",
+              "scoreB": 127.62,
+              "winner": "bum",
+              "round": "Week 15"
+            },
+            {
+              "seedA": 6,
+              "teamA": "ameyagadkari",
+              "ownerA": "Karthik",
+              "scoreA": 97.34,
+              "seedB": 7,
+              "teamB": "Booty Eaters",
+              "ownerB": "Sahith",
+              "scoreB": 102.36,
+              "winner": "Booty Eaters",
+              "round": "Week 15"
+            },
+            {
+              "seedA": 5,
+              "teamA": "I am Trash",
+              "ownerA": "Krishna",
+              "scoreA": 132.72,
+              "seedB": 6,
+              "teamB": "ameyagadkari",
+              "ownerB": "Karthik",
+              "scoreB": 94.3,
+              "winner": "I am Trash",
+              "round": "Week 16"
+            },
+            {
+              "seedA": 8,
+              "teamA": "bum",
+              "ownerA": "Rishab",
+              "scoreA": 120.94,
+              "seedB": 7,
+              "teamB": "Booty Eaters",
+              "ownerB": "Sahith",
+              "scoreB": 120.5,
+              "winner": "bum",
+              "round": "Week 16"
+            }
+          ]
+        }
+      ]
+    },
+    "source_urls": [
+      "https://fantasy.nfl.com/league/2074621/history/2020/playoffs?bracketType=championship&standingsTab=playoffs",
+      "https://fantasy.nfl.com/league/2074621/history/2020/playoffs?bracketType=consolation&standingsTab=playoffs",
+      "https://fantasy.nfl.com/league/2074621/history/2020/standings?historyStandingsType=regular",
+      "https://fantasy.nfl.com/league/2074621/history/2020/standings?historyStandingsType=final"
+    ],
+    "notes": "auto-generated from week jsons; seeds from regular_order (wins->PF) or avg_finishes.json when available; ground truth for 2020/2022 overridden"
+  },
+  {
+    "year": 2021,
+    "regular_order": {
+      "Rishab": 7,
+      "Krishna": 8,
+      "Ameya": 9,
+      "Karthik": 6,
+      "Rajat": 2,
+      "Sahith": 1,
+      "Avi": 4,
+      "Tarun": 10,
+      "Bhuvanesh": 3,
+      "Tanvir": 5
+    },
+    "championship": {
+      "bracketType": "championship",
+      "rounds": [
+        {
+          "roundName": "Semifinal",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 1,
+              "teamA": "Booty Eaters",
+              "ownerA": "Sahith",
+              "scoreA": 105.34,
+              "seedB": 3,
+              "teamB": "Medve-W",
+              "ownerB": "Bhuvanesh",
+              "scoreB": 132.18,
+              "winner": "Medve-W",
+              "round": "Semifinal"
+            },
+            {
+              "seedA": 2,
+              "teamA": "Diggs-ital",
+              "ownerA": "Rajat",
+              "scoreA": 137.56,
+              "seedB": 4,
+              "teamB": "Laughing Stocks",
+              "ownerB": "Avi",
+              "scoreB": 117.9,
+              "winner": "Diggs-ital",
+              "round": "Semifinal"
+            }
+          ]
+        },
+        {
+          "roundName": "3rd Place",
+          "round": 2,
+          "matchups": [
+            {
+              "seedA": 1,
+              "teamA": "Booty Eaters",
+              "ownerA": "Sahith",
+              "scoreA": 108.78,
+              "seedB": 4,
+              "teamB": "Laughing Stocks",
+              "ownerB": "Avi",
+              "scoreB": 118.82,
+              "winner": "Laughing Stocks",
+              "round": "3rd Place"
+            },
+            {
+              "seedA": 2,
+              "teamA": "Diggs-ital",
+              "ownerA": "Rajat",
+              "scoreA": 136.9,
+              "seedB": 3,
+              "teamB": "Medve-W",
+              "ownerB": "Bhuvanesh",
+              "scoreB": 133.9,
+              "winner": "Diggs-ital",
+              "round": "3rd Place"
+            }
+          ]
+        }
+      ],
+      "champion": null,
+      "runner_up": null,
+      "third_place": "Laughing Stocks"
+    },
+    "consolation": {
+      "bracketType": "consolation",
+      "rounds": [
+        {
+          "roundName": "Week 16 Consolation",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 7,
+              "teamA": "bum",
+              "ownerA": "Rishab",
+              "scoreA": 73.8,
+              "seedB": 6,
+              "teamB": "Yams the Jamaican",
+              "ownerB": "Karthik",
+              "scoreB": 34.08,
+              "winner": "bum",
+              "round": "Week 16 Consolation"
+            },
+            {
+              "seedA": 5,
+              "teamA": "Dogshit Baboons",
+              "ownerA": "Tanvir",
+              "scoreA": 98.12,
+              "seedB": 8,
+              "teamB": "I am Trash",
+              "ownerB": "Krishna",
+              "scoreB": 104.4,
+              "winner": "I am Trash",
+              "round": "Week 16 Consolation"
+            }
+          ]
+        },
+        {
+          "roundName": "Week 17 Consolation",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 7,
+              "teamA": "bum",
+              "ownerA": "Rishab",
+              "scoreA": 88.6,
+              "seedB": 8,
+              "teamB": "I am Trash",
+              "ownerB": "Krishna",
+              "scoreB": 108.06,
+              "winner": "I am Trash",
+              "round": "Week 17 Consolation"
+            },
+            {
+              "seedA": 5,
+              "teamA": "Dogshit Baboons",
+              "ownerA": "Tanvir",
+              "scoreA": 99.46,
+              "seedB": 6,
+              "teamB": "Yams the Jamaican",
+              "ownerB": "Karthik",
+              "scoreB": 84.96,
+              "winner": "Dogshit Baboons",
+              "round": "Week 17 Consolation"
+            }
+          ]
+        }
+      ]
+    },
+    "source_urls": [
+      "https://fantasy.nfl.com/league/2074621/history/2021/playoffs?bracketType=championship&standingsTab=playoffs",
+      "https://fantasy.nfl.com/league/2074621/history/2021/playoffs?bracketType=consolation&standingsTab=playoffs",
+      "https://fantasy.nfl.com/league/2074621/history/2021/standings?historyStandingsType=regular",
+      "https://fantasy.nfl.com/league/2074621/history/2021/standings?historyStandingsType=final"
+    ],
+    "notes": "auto-generated from week jsons; seeds from regular_order (wins->PF) or avg_finishes.json when available; ground truth for 2020/2022 overridden"
+  },
+  {
+    "year": 2022,
+    "regular_order": {
+      "Rishab": 8,
+      "Krishna": 6,
+      "Ameya": 7,
+      "Karthik": 9,
+      "Rajat": 5,
+      "Sahith": 1,
+      "Avi": 4,
+      "Tarun": 10,
+      "Bhuvanesh": 2,
+      "Tanvir": 3
+    },
+    "championship": {
+      "bracketType": "championship",
+      "rounds": [
+        {
+          "roundName": "Semifinal",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 1,
+              "teamA": "Booty Eaters",
+              "ownerA": "Sahith",
+              "scoreA": 121.46,
+              "seedB": 4,
+              "teamB": "Laughing Stocks",
+              "ownerB": "Avi",
+              "scoreB": 99.28,
+              "winner": "Sahith",
+              "round": "Semifinal"
+            },
+            {
+              "seedA": 2,
+              "teamA": "Medve-W",
+              "ownerA": "Bhuvanesh",
+              "scoreA": 84.4,
+              "seedB": 3,
+              "teamB": "Dogshit Baboons",
+              "ownerB": "Tanvir",
+              "scoreB": 99.56,
+              "winner": "Tanvir",
+              "round": "Semifinal"
+            }
+          ]
+        },
+        {
+          "roundName": "Final",
+          "round": 2,
+          "matchups": [
+            {
+              "seedA": 1,
+              "teamA": "Booty Eaters",
+              "ownerA": "Sahith",
+              "scoreA": 100.7,
+              "seedB": 3,
+              "teamB": "Dogshit Baboons",
+              "ownerB": "Tanvir",
+              "scoreB": 112.54,
+              "winner": "Tanvir",
+              "round": "Final"
+            }
+          ]
+        },
+        {
+          "roundName": "3rd Place",
+          "round": 2,
+          "matchups": [
+            {
+              "seedA": 4,
+              "teamA": "Laughing Stocks",
+              "ownerA": "Avi",
+              "scoreA": 43.7,
+              "seedB": 2,
+              "teamB": "Medve-W",
+              "ownerB": "Bhuvanesh",
+              "scoreB": 93.62,
+              "winner": "Bhuvanesh",
+              "round": "3rd Place"
+            }
+          ]
+        }
+      ],
+      "champion": "Tanvir",
+      "runner_up": "Sahith",
+      "third_place": "Bhuvanesh"
+    },
+    "consolation": {
+      "bracketType": "consolation",
+      "rounds": [
+        {
+          "roundName": "Consolation",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 9,
+              "teamA": "Im gonna Comm",
+              "ownerA": "Karthik",
+              "scoreA": 93.12,
+              "seedB": 6,
+              "teamB": "Wentz Fuckin Sucks",
+              "ownerB": "Krishna",
+              "scoreB": 116.34,
+              "winner": "Wentz Fuckin Sucks",
+              "round": "Week 15"
+            },
+            {
+              "seedA": 5,
+              "teamA": "Diggs-ital",
+              "ownerA": "Rajat",
+              "scoreA": 85.9,
+              "seedB": 10,
+              "teamB": "Haskin for Trouble",
+              "ownerB": "Tarun",
+              "scoreB": 107.08,
+              "winner": "Haskin for Trouble",
+              "round": "Week 15"
+            },
+            {
+              "seedA": 7,
+              "teamA": "fighting for my life",
+              "ownerA": "Ameya",
+              "scoreA": 94.92,
+              "seedB": 8,
+              "teamB": "rat bstrd",
+              "ownerB": "Rishab",
+              "scoreB": 84.78,
+              "winner": "fighting for my life",
+              "round": "Week 15"
+            },
+            {
+              "seedA": 9,
+              "teamA": "Im gonna Comm",
+              "ownerA": "Karthik",
+              "scoreA": 63.96,
+              "seedB": 6,
+              "teamB": "Wentz Fuckin Sucks",
+              "ownerB": "Krishna",
+              "scoreB": 98.46,
+              "winner": "Wentz Fuckin Sucks",
+              "round": "Week 16"
+            },
+            {
+              "seedA": 7,
+              "teamA": "fighting for my life",
+              "ownerA": "Ameya",
+              "scoreA": 76.3,
+              "seedB": 5,
+              "teamB": "Diggs-ital",
+              "ownerB": "Rajat",
+              "scoreB": 73.8,
+              "winner": "fighting for my life",
+              "round": "Week 16"
+            }
+          ]
+        }
+      ]
+    },
+    "source_urls": [
+      "https://fantasy.nfl.com/league/2074621/history/2022/playoffs?bracketType=championship&standingsTab=playoffs",
+      "https://fantasy.nfl.com/league/2074621/history/2022/playoffs?bracketType=consolation&standingsTab=playoffs",
+      "https://fantasy.nfl.com/league/2074621/history/2022/standings?historyStandingsType=regular",
+      "https://fantasy.nfl.com/league/2074621/history/2022/standings?historyStandingsType=final"
+    ],
+    "notes": "auto-generated from week jsons; seeds from regular_order (wins->PF) or avg_finishes.json when available; ground truth for 2020/2022 overridden"
+  },
+  {
+    "year": 2023,
+    "regular_order": {
+      "Rishab": 5,
+      "Krishna": 9,
+      "Ameya": 8,
+      "Karthik": 7,
+      "Rajat": 2,
+      "Sahith": 1,
+      "Avi": 6,
+      "Vishal": 4,
+      "Bhuvanesh": 10,
+      "Tanvir": 3
+    },
+    "championship": {
+      "bracketType": "championship",
+      "rounds": [
+        {
+          "roundName": "Semifinal",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 1,
+              "teamA": "Booty Eaters",
+              "ownerA": "Sahith",
+              "scoreA": 100.38,
+              "seedB": 4,
+              "teamB": "Big Arm Vishy",
+              "ownerB": "Vishal",
+              "scoreB": 80.48,
+              "winner": "Booty Eaters",
+              "round": "Semifinal"
+            },
+            {
+              "seedA": 2,
+              "teamA": "ra-him must-start",
+              "ownerA": "Rajat",
+              "scoreA": 84.9,
+              "seedB": 3,
+              "teamB": "Dogshit Baboons",
+              "ownerB": "Tanvir",
+              "scoreB": 37.6,
+              "winner": "ra-him must-start",
+              "round": "Semifinal"
+            }
+          ]
+        },
+        {
+          "roundName": "3rd Place",
+          "round": 2,
+          "matchups": [
+            {
+              "seedA": 3,
+              "teamA": "Dogshit Baboons",
+              "ownerA": "Tanvir",
+              "scoreA": 125.4,
+              "seedB": 4,
+              "teamB": "Big Arm Vishy",
+              "ownerB": "Vishal",
+              "scoreB": 78.84,
+              "winner": "Dogshit Baboons",
+              "round": "3rd Place"
+            },
+            {
+              "seedA": 2,
+              "teamA": "ra-him must-start",
+              "ownerA": "Rajat",
+              "scoreA": 92.86,
+              "seedB": 1,
+              "teamB": "Booty Eaters",
+              "ownerB": "Sahith",
+              "scoreB": 135.64,
+              "winner": "Booty Eaters",
+              "round": "3rd Place"
+            }
+          ]
+        }
+      ],
+      "champion": null,
+      "runner_up": null,
+      "third_place": "Dogshit Baboons"
+    },
+    "consolation": {
+      "bracketType": "consolation",
+      "rounds": [
+        {
+          "roundName": "Week 16 Consolation",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 8,
+              "teamA": "fighting for my life",
+              "ownerA": "Ameya",
+              "scoreA": 103.12,
+              "seedB": 6,
+              "teamB": "Laughing Stocks",
+              "ownerB": "Avi",
+              "scoreB": 82.22,
+              "winner": "fighting for my life",
+              "round": "Week 16 Consolation"
+            },
+            {
+              "seedA": 5,
+              "teamA": "rat bstrd",
+              "ownerA": "Rishab",
+              "scoreA": 115.36,
+              "seedB": 7,
+              "teamB": "Im gonna Comm",
+              "ownerB": "Karthik",
+              "scoreB": 102.74,
+              "winner": "rat bstrd",
+              "round": "Week 16 Consolation"
+            }
+          ]
+        },
+        {
+          "roundName": "Week 17 Consolation",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 8,
+              "teamA": "fighting for my life",
+              "ownerA": "Ameya",
+              "scoreA": 117.9,
+              "seedB": 5,
+              "teamB": "rat bstrd",
+              "ownerB": "Rishab",
+              "scoreB": 101.66,
+              "winner": "fighting for my life",
+              "round": "Week 17 Consolation"
+            },
+            {
+              "seedA": 7,
+              "teamA": "Im gonna Comm",
+              "ownerA": "Karthik",
+              "scoreA": 132.18,
+              "seedB": 6,
+              "teamB": "Laughing Stocks",
+              "ownerB": "Avi",
+              "scoreB": 108.98,
+              "winner": "Im gonna Comm",
+              "round": "Week 17 Consolation"
+            }
+          ]
+        }
+      ]
+    },
+    "source_urls": [
+      "https://fantasy.nfl.com/league/2074621/history/2023/playoffs?bracketType=championship&standingsTab=playoffs",
+      "https://fantasy.nfl.com/league/2074621/history/2023/playoffs?bracketType=consolation&standingsTab=playoffs",
+      "https://fantasy.nfl.com/league/2074621/history/2023/standings?historyStandingsType=regular",
+      "https://fantasy.nfl.com/league/2074621/history/2023/standings?historyStandingsType=final"
+    ],
+    "notes": "auto-generated from week jsons; seeds from regular_order (wins->PF) or avg_finishes.json when available; ground truth for 2020/2022 overridden"
+  },
+  {
+    "year": 2024,
+    "regular_order": {
+      "Rishab": 6,
+      "Krishna": 1,
+      "Ameya": 10,
+      "Karthik": 8,
+      "Rajat": 9,
+      "Sahith": 3,
+      "Avi": 4,
+      "Vishal": 7,
+      "Bhuvanesh": 2,
+      "Tanvir": 5
+    },
+    "championship": {
+      "bracketType": "championship",
+      "rounds": [
+        {
+          "roundName": "Semifinal",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 1,
+              "teamA": "Certified Ass",
+              "ownerA": "Krishna",
+              "scoreA": 128.68,
+              "seedB": 4,
+              "teamB": "Laughing Stocks",
+              "ownerB": "Avi",
+              "scoreB": 139.88,
+              "winner": "Laughing Stocks",
+              "round": "Semifinal"
+            },
+            {
+              "seedA": 3,
+              "teamA": "Booty Eaters",
+              "ownerA": "Sahith",
+              "scoreA": 125.72,
+              "seedB": 2,
+              "teamB": "Medve-W",
+              "ownerB": "Bhuvanesh",
+              "scoreB": 131.18,
+              "winner": "Medve-W",
+              "round": "Semifinal"
+            }
+          ]
+        },
+        {
+          "roundName": "3rd Place",
+          "round": 2,
+          "matchups": [
+            {
+              "seedA": 2,
+              "teamA": "Medve-W",
+              "ownerA": "Bhuvanesh",
+              "scoreA": 148.48,
+              "seedB": 4,
+              "teamB": "Laughing Stocks",
+              "ownerB": "Avi",
+              "scoreB": 145.16,
+              "winner": "Medve-W",
+              "round": "3rd Place"
+            },
+            {
+              "seedA": 3,
+              "teamA": "Booty Eaters",
+              "ownerA": "Sahith",
+              "scoreA": 128.88,
+              "seedB": 1,
+              "teamB": "Certified Ass",
+              "ownerB": "Krishna",
+              "scoreB": 122.12,
+              "winner": "Booty Eaters",
+              "round": "3rd Place"
+            }
+          ]
+        }
+      ],
+      "champion": null,
+      "runner_up": null,
+      "third_place": "Medve-W"
+    },
+    "consolation": {
+      "bracketType": "consolation",
+      "rounds": [
+        {
+          "roundName": "Week 16 Consolation",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 7,
+              "teamA": "Big Arm Vishy",
+              "ownerA": "Vishal",
+              "scoreA": 124.84,
+              "seedB": 6,
+              "teamB": "rat bstrd",
+              "ownerB": "Rishab",
+              "scoreB": 97.94,
+              "winner": "Big Arm Vishy",
+              "round": "Week 16 Consolation"
+            },
+            {
+              "seedA": 5,
+              "teamA": "Dogshit Baboons",
+              "ownerA": "Tanvir",
+              "scoreA": 101.56,
+              "seedB": 8,
+              "teamB": "Im gonna Comm",
+              "ownerB": "Karthik",
+              "scoreB": 126.46,
+              "winner": "Im gonna Comm",
+              "round": "Week 16 Consolation"
+            }
+          ]
+        },
+        {
+          "roundName": "Week 17 Consolation",
+          "round": 1,
+          "matchups": [
+            {
+              "seedA": 7,
+              "teamA": "Big Arm Vishy",
+              "ownerA": "Vishal",
+              "scoreA": 112.12,
+              "seedB": 8,
+              "teamB": "Im gonna Comm",
+              "ownerB": "Karthik",
+              "scoreB": 115.54,
+              "winner": "Im gonna Comm",
+              "round": "Week 17 Consolation"
+            },
+            {
+              "seedA": 5,
+              "teamA": "Dogshit Baboons",
+              "ownerA": "Tanvir",
+              "scoreA": 131.78,
+              "seedB": 6,
+              "teamB": "rat bstrd",
+              "ownerB": "Rishab",
+              "scoreB": 121.18,
+              "winner": "Dogshit Baboons",
+              "round": "Week 17 Consolation"
+            }
+          ]
+        }
+      ]
+    },
+    "source_urls": [
+      "https://fantasy.nfl.com/league/2074621/history/2024/playoffs?bracketType=championship&standingsTab=playoffs",
+      "https://fantasy.nfl.com/league/2074621/history/2024/playoffs?bracketType=consolation&standingsTab=playoffs",
+      "https://fantasy.nfl.com/league/2074621/history/2024/standings?historyStandingsType=regular",
+      "https://fantasy.nfl.com/league/2074621/history/2024/standings?historyStandingsType=final"
+    ],
+    "notes": "auto-generated from week jsons; seeds from regular_order (wins->PF) or avg_finishes.json when available; ground truth for 2020/2022 overridden"
+  }
+]
