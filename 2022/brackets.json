@@ -1,0 +1,167 @@
+{
+  "year": 2022,
+  "regular_order": {
+    "Rishab": 8,
+    "Krishna": 6,
+    "Ameya": 7,
+    "Karthik": 9,
+    "Rajat": 5,
+    "Sahith": 1,
+    "Avi": 4,
+    "Tarun": 10,
+    "Bhuvanesh": 2,
+    "Tanvir": 3
+  },
+  "championship": {
+    "bracketType": "championship",
+    "rounds": [
+      {
+        "roundName": "Semifinal",
+        "round": 1,
+        "matchups": [
+          {
+            "seedA": 1,
+            "teamA": "Booty Eaters",
+            "ownerA": "Sahith",
+            "scoreA": 121.46,
+            "seedB": 4,
+            "teamB": "Laughing Stocks",
+            "ownerB": "Avi",
+            "scoreB": 99.28,
+            "winner": "Sahith",
+            "round": "Semifinal"
+          },
+          {
+            "seedA": 2,
+            "teamA": "Medve-W",
+            "ownerA": "Bhuvanesh",
+            "scoreA": 84.4,
+            "seedB": 3,
+            "teamB": "Dogshit Baboons",
+            "ownerB": "Tanvir",
+            "scoreB": 99.56,
+            "winner": "Tanvir",
+            "round": "Semifinal"
+          }
+        ]
+      },
+      {
+        "roundName": "Final",
+        "round": 2,
+        "matchups": [
+          {
+            "seedA": 1,
+            "teamA": "Booty Eaters",
+            "ownerA": "Sahith",
+            "scoreA": 100.7,
+            "seedB": 3,
+            "teamB": "Dogshit Baboons",
+            "ownerB": "Tanvir",
+            "scoreB": 112.54,
+            "winner": "Tanvir",
+            "round": "Final"
+          }
+        ]
+      },
+      {
+        "roundName": "3rd Place",
+        "round": 2,
+        "matchups": [
+          {
+            "seedA": 4,
+            "teamA": "Laughing Stocks",
+            "ownerA": "Avi",
+            "scoreA": 43.7,
+            "seedB": 2,
+            "teamB": "Medve-W",
+            "ownerB": "Bhuvanesh",
+            "scoreB": 93.62,
+            "winner": "Bhuvanesh",
+            "round": "3rd Place"
+          }
+        ]
+      }
+    ],
+    "champion": "Tanvir",
+    "runner_up": "Sahith",
+    "third_place": "Bhuvanesh"
+  },
+  "consolation": {
+    "bracketType": "consolation",
+    "rounds": [
+      {
+        "roundName": "Consolation",
+        "round": 1,
+        "matchups": [
+          {
+            "seedA": 9,
+            "teamA": "Im gonna Comm",
+            "ownerA": "Karthik",
+            "scoreA": 93.12,
+            "seedB": 6,
+            "teamB": "Wentz Fuckin Sucks",
+            "ownerB": "Krishna",
+            "scoreB": 116.34,
+            "winner": "Wentz Fuckin Sucks",
+            "round": "Week 15"
+          },
+          {
+            "seedA": 5,
+            "teamA": "Diggs-ital",
+            "ownerA": "Rajat",
+            "scoreA": 85.9,
+            "seedB": 10,
+            "teamB": "Haskin for Trouble",
+            "ownerB": "Tarun",
+            "scoreB": 107.08,
+            "winner": "Haskin for Trouble",
+            "round": "Week 15"
+          },
+          {
+            "seedA": 7,
+            "teamA": "fighting for my life",
+            "ownerA": "Ameya",
+            "scoreA": 94.92,
+            "seedB": 8,
+            "teamB": "rat bstrd",
+            "ownerB": "Rishab",
+            "scoreB": 84.78,
+            "winner": "fighting for my life",
+            "round": "Week 15"
+          },
+          {
+            "seedA": 9,
+            "teamA": "Im gonna Comm",
+            "ownerA": "Karthik",
+            "scoreA": 63.96,
+            "seedB": 6,
+            "teamB": "Wentz Fuckin Sucks",
+            "ownerB": "Krishna",
+            "scoreB": 98.46,
+            "winner": "Wentz Fuckin Sucks",
+            "round": "Week 16"
+          },
+          {
+            "seedA": 7,
+            "teamA": "fighting for my life",
+            "ownerA": "Ameya",
+            "scoreA": 76.3,
+            "seedB": 5,
+            "teamB": "Diggs-ital",
+            "ownerB": "Rajat",
+            "scoreB": 73.8,
+            "winner": "fighting for my life",
+            "round": "Week 16"
+          }
+        ]
+      }
+    ]
+  },
+  "source_urls": [
+    "https://fantasy.nfl.com/league/2074621/history/2022/playoffs?bracketType=championship&standingsTab=playoffs",
+    "https://fantasy.nfl.com/league/2074621/history/2022/playoffs?bracketType=consolation&standingsTab=playoffs",
+    "https://fantasy.nfl.com/league/2074621/history/2022/standings?historyStandingsType=regular",
+    "https://fantasy.nfl.com/league/2074621/history/2022/standings?historyStandingsType=final"
+  ],
+  "notes": "auto-generated from week jsons; seeds from regular_order (wins->PF) or avg_finishes.json when available; ground truth for 2020/2022 overridden"
+}
