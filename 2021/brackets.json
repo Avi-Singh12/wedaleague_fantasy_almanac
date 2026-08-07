@@ -1,0 +1,155 @@
+{
+  "year": 2021,
+  "regular_order": {
+    "Rishab": 7,
+    "Krishna": 8,
+    "Ameya": 9,
+    "Karthik": 6,
+    "Rajat": 2,
+    "Sahith": 1,
+    "Avi": 4,
+    "Tarun": 10,
+    "Bhuvanesh": 3,
+    "Tanvir": 5
+  },
+  "championship": {
+    "bracketType": "championship",
+    "rounds": [
+      {
+        "roundName": "Semifinal",
+        "round": 1,
+        "matchups": [
+          {
+            "seedA": 1,
+            "teamA": "Booty Eaters",
+            "ownerA": "Sahith",
+            "scoreA": 105.34,
+            "seedB": 3,
+            "teamB": "Medve-W",
+            "ownerB": "Bhuvanesh",
+            "scoreB": 132.18,
+            "winner": "Medve-W",
+            "round": "Semifinal"
+          },
+          {
+            "seedA": 2,
+            "teamA": "Diggs-ital",
+            "ownerA": "Rajat",
+            "scoreA": 137.56,
+            "seedB": 4,
+            "teamB": "Laughing Stocks",
+            "ownerB": "Avi",
+            "scoreB": 117.9,
+            "winner": "Diggs-ital",
+            "round": "Semifinal"
+          }
+        ]
+      },
+      {
+        "roundName": "3rd Place",
+        "round": 2,
+        "matchups": [
+          {
+            "seedA": 1,
+            "teamA": "Booty Eaters",
+            "ownerA": "Sahith",
+            "scoreA": 108.78,
+            "seedB": 4,
+            "teamB": "Laughing Stocks",
+            "ownerB": "Avi",
+            "scoreB": 118.82,
+            "winner": "Laughing Stocks",
+            "round": "3rd Place"
+          },
+          {
+            "seedA": 2,
+            "teamA": "Diggs-ital",
+            "ownerA": "Rajat",
+            "scoreA": 136.9,
+            "seedB": 3,
+            "teamB": "Medve-W",
+            "ownerB": "Bhuvanesh",
+            "scoreB": 133.9,
+            "winner": "Diggs-ital",
+            "round": "3rd Place"
+          }
+        ]
+      }
+    ],
+    "champion": null,
+    "runner_up": null,
+    "third_place": "Laughing Stocks"
+  },
+  "consolation": {
+    "bracketType": "consolation",
+    "rounds": [
+      {
+        "roundName": "Week 16 Consolation",
+        "round": 1,
+        "matchups": [
+          {
+            "seedA": 7,
+            "teamA": "bum",
+            "ownerA": "Rishab",
+            "scoreA": 73.8,
+            "seedB": 6,
+            "teamB": "Yams the Jamaican",
+            "ownerB": "Karthik",
+            "scoreB": 34.08,
+            "winner": "bum",
+            "round": "Week 16 Consolation"
+          },
+          {
+            "seedA": 5,
+            "teamA": "Dogshit Baboons",
+            "ownerA": "Tanvir",
+            "scoreA": 98.12,
+            "seedB": 8,
+            "teamB": "I am Trash",
+            "ownerB": "Krishna",
+            "scoreB": 104.4,
+            "winner": "I am Trash",
+            "round": "Week 16 Consolation"
+          }
+        ]
+      },
+      {
+        "roundName": "Week 17 Consolation",
+        "round": 1,
+        "matchups": [
+          {
+            "seedA": 7,
+            "teamA": "bum",
+            "ownerA": "Rishab",
+            "scoreA": 88.6,
+            "seedB": 8,
+            "teamB": "I am Trash",
+            "ownerB": "Krishna",
+            "scoreB": 108.06,
+            "winner": "I am Trash",
+            "round": "Week 17 Consolation"
+          },
+          {
+            "seedA": 5,
+            "teamA": "Dogshit Baboons",
+            "ownerA": "Tanvir",
+            "scoreA": 99.46,
+            "seedB": 6,
+            "teamB": "Yams the Jamaican",
+            "ownerB": "Karthik",
+            "scoreB": 84.96,
+            "winner": "Dogshit Baboons",
+            "round": "Week 17 Consolation"
+          }
+        ]
+      }
+    ]
+  },
+  "source_urls": [
+    "https://fantasy.nfl.com/league/2074621/history/2021/playoffs?bracketType=championship&standingsTab=playoffs",
+    "https://fantasy.nfl.com/league/2074621/history/2021/playoffs?bracketType=consolation&standingsTab=playoffs",
+    "https://fantasy.nfl.com/league/2074621/history/2021/standings?historyStandingsType=regular",
+    "https://fantasy.nfl.com/league/2074621/history/2021/standings?historyStandingsType=final"
+  ],
+  "notes": "auto-generated from week jsons; seeds from regular_order (wins->PF) or avg_finishes.json when available; ground truth for 2020/2022 overridden"
+}
