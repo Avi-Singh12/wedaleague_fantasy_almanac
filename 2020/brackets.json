@@ -1,0 +1,155 @@
+{
+  "year": 2020,
+  "regular_order": {
+    "Rishab": 8,
+    "Krishna": 5,
+    "Ameya": 10,
+    "Karthik": 6,
+    "Rajat": 1,
+    "Sahith": 7,
+    "Avi": 3,
+    "Tarun": 2,
+    "Bhuvanesh": 9,
+    "Tanvir": 4
+  },
+  "championship": {
+    "bracketType": "championship",
+    "rounds": [
+      {
+        "roundName": "Semifinal",
+        "round": 1,
+        "matchups": [
+          {
+            "seedA": 1,
+            "teamA": "Stefon Diggs' Mistress",
+            "ownerA": "Rajat",
+            "scoreA": 102.4,
+            "seedB": 4,
+            "teamB": "Dogshit Baboons",
+            "ownerB": "Tanvir",
+            "scoreB": 138.34,
+            "winner": "Tanvir",
+            "round": "Semifinal"
+          },
+          {
+            "seedA": 2,
+            "teamA": "Haskin for Trouble",
+            "ownerA": "Tarun",
+            "scoreA": 96.32,
+            "seedB": 3,
+            "teamB": "Laughing Stocks",
+            "ownerB": "Avi",
+            "scoreB": 125.16,
+            "winner": "Avi",
+            "round": "Semifinal"
+          }
+        ]
+      },
+      {
+        "roundName": "Final",
+        "round": 2,
+        "matchups": [
+          {
+            "seedA": 4,
+            "teamA": "Dogshit Baboons",
+            "ownerA": "Tanvir",
+            "scoreA": 91.58,
+            "seedB": 3,
+            "teamB": "Laughing Stocks",
+            "ownerB": "Avi",
+            "scoreB": 89.22,
+            "winner": "Tanvir",
+            "round": "Final"
+          }
+        ]
+      },
+      {
+        "roundName": "3rd Place",
+        "round": 2,
+        "matchups": [
+          {
+            "seedA": 1,
+            "teamA": "Stefon Diggs' Mistress",
+            "ownerA": "Rajat",
+            "scoreA": 115.32,
+            "seedB": 2,
+            "teamB": "Haskin for Trouble",
+            "ownerB": "Tarun",
+            "scoreB": 104.74,
+            "winner": "Rajat",
+            "round": "3rd Place"
+          }
+        ]
+      }
+    ],
+    "champion": "Tanvir",
+    "runner_up": "Avi",
+    "third_place": "Rajat"
+  },
+  "consolation": {
+    "bracketType": "consolation",
+    "rounds": [
+      {
+        "roundName": "Consolation",
+        "round": 1,
+        "matchups": [
+          {
+            "seedA": 5,
+            "teamA": "I am Trash",
+            "ownerA": "Krishna",
+            "scoreA": 113.02,
+            "seedB": 8,
+            "teamB": "bum",
+            "ownerB": "Rishab",
+            "scoreB": 127.62,
+            "winner": "bum",
+            "round": "Week 15"
+          },
+          {
+            "seedA": 6,
+            "teamA": "ameyagadkari",
+            "ownerA": "Karthik",
+            "scoreA": 97.34,
+            "seedB": 7,
+            "teamB": "Booty Eaters",
+            "ownerB": "Sahith",
+            "scoreB": 102.36,
+            "winner": "Booty Eaters",
+            "round": "Week 15"
+          },
+          {
+            "seedA": 5,
+            "teamA": "I am Trash",
+            "ownerA": "Krishna",
+            "scoreA": 132.72,
+            "seedB": 6,
+            "teamB": "ameyagadkari",
+            "ownerB": "Karthik",
+            "scoreB": 94.3,
+            "winner": "I am Trash",
+            "round": "Week 16"
+          },
+          {
+            "seedA": 8,
+            "teamA": "bum",
+            "ownerA": "Rishab",
+            "scoreA": 120.94,
+            "seedB": 7,
+            "teamB": "Booty Eaters",
+            "ownerB": "Sahith",
+            "scoreB": 120.5,
+            "winner": "bum",
+            "round": "Week 16"
+          }
+        ]
+      }
+    ]
+  },
+  "source_urls": [
+    "https://fantasy.nfl.com/league/2074621/history/2020/playoffs?bracketType=championship&standingsTab=playoffs",
+    "https://fantasy.nfl.com/league/2074621/history/2020/playoffs?bracketType=consolation&standingsTab=playoffs",
+    "https://fantasy.nfl.com/league/2074621/history/2020/standings?historyStandingsType=regular",
+    "https://fantasy.nfl.com/league/2074621/history/2020/standings?historyStandingsType=final"
+  ],
+  "notes": "auto-generated from week jsons; seeds from regular_order (wins->PF) or avg_finishes.json when available; ground truth for 2020/2022 overridden"
+}
