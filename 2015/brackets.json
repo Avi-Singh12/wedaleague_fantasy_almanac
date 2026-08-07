@@ -1,0 +1,153 @@
+{
+  "year": 2015,
+  "regular_order": {
+    "Rishab": 3,
+    "Prem": 6,
+    "Krishna": 5,
+    "Karthik": 2,
+    "Avi": 1,
+    "Tarun": 8,
+    "Bhuvanesh": 7,
+    "Tanvir": 4
+  },
+  "championship": {
+    "bracketType": "championship",
+    "rounds": [
+      {
+        "roundName": "Semifinal",
+        "round": 1,
+        "matchups": [
+          {
+            "seedA": 1,
+            "teamA": "More Probable Than Not",
+            "ownerA": "Avi",
+            "scoreA": 110.18,
+            "seedB": 3,
+            "teamB": "team sucks ass",
+            "ownerB": "Rishab",
+            "scoreB": 152.16,
+            "winner": "team sucks ass",
+            "round": "Semifinal"
+          }
+        ]
+      },
+      {
+        "roundName": "3rd Place",
+        "round": 2,
+        "matchups": [
+          {
+            "seedA": 3,
+            "teamA": "team sucks ass",
+            "ownerA": "Rishab",
+            "scoreA": 118.04,
+            "seedB": 2,
+            "teamB": "FF  Runner Up",
+            "ownerB": "Karthik",
+            "scoreB": 98.78,
+            "winner": "team sucks ass",
+            "round": "3rd Place"
+          }
+        ]
+      }
+    ],
+    "champion": null,
+    "runner_up": null,
+    "third_place": "team sucks ass"
+  },
+  "consolation": {
+    "bracketType": "consolation",
+    "rounds": [
+      {
+        "roundName": "Week 15 Consolation",
+        "round": 1,
+        "matchups": [
+          {
+            "seedA": 2,
+            "teamA": "FF  Runner Up",
+            "ownerA": "Karthik",
+            "scoreA": 144.5,
+            "seedB": 5,
+            "teamB": "Arshdeep Throat",
+            "ownerB": "Krishna",
+            "scoreB": 117.9,
+            "winner": "FF  Runner Up",
+            "round": "Week 15 Consolation"
+          },
+          {
+            "seedA": 6,
+            "teamA": "GettinBuckets",
+            "ownerA": "Prem",
+            "scoreA": 121.94,
+            "seedB": 7,
+            "teamB": "SteeredPrune",
+            "ownerB": "Bhuvanesh",
+            "scoreB": 133.04,
+            "winner": "SteeredPrune",
+            "round": "Week 15 Consolation"
+          },
+          {
+            "seedA": 4,
+            "teamA": "Barca Squad",
+            "ownerA": "Tanvir",
+            "scoreA": 170.4,
+            "seedB": 8,
+            "teamB": "The Dream Team",
+            "ownerB": "Tarun",
+            "scoreB": 151.64,
+            "winner": "Barca Squad",
+            "round": "Week 15 Consolation"
+          }
+        ]
+      },
+      {
+        "roundName": "Week 16 Consolation",
+        "round": 1,
+        "matchups": [
+          {
+            "seedA": 1,
+            "teamA": "More Probable Than Not",
+            "ownerA": "Avi",
+            "scoreA": 56.0,
+            "seedB": 5,
+            "teamB": "Arshdeep Throat",
+            "ownerB": "Krishna",
+            "scoreB": 97.74,
+            "winner": "Arshdeep Throat",
+            "round": "Week 16 Consolation"
+          },
+          {
+            "seedA": 8,
+            "teamA": "The Dream Team",
+            "ownerA": "Tarun",
+            "scoreA": 110.9,
+            "seedB": 6,
+            "teamB": "GettinBuckets",
+            "ownerB": "Prem",
+            "scoreB": 120.76,
+            "winner": "GettinBuckets",
+            "round": "Week 16 Consolation"
+          },
+          {
+            "seedA": 4,
+            "teamA": "Barca Squad",
+            "ownerA": "Tanvir",
+            "scoreA": 131.32,
+            "seedB": 7,
+            "teamB": "SteeredPrune",
+            "ownerB": "Bhuvanesh",
+            "scoreB": 123.38,
+            "winner": "Barca Squad",
+            "round": "Week 16 Consolation"
+          }
+        ]
+      }
+    ]
+  },
+  "source_urls": [
+    "https://fantasy.nfl.com/league/2074621/history/2015/playoffs?bracketType=championship&standingsTab=playoffs",
+    "https://fantasy.nfl.com/league/2074621/history/2015/playoffs?bracketType=consolation&standingsTab=playoffs",
+    "https://fantasy.nfl.com/league/2074621/history/2015/standings?historyStandingsType=regular",
+    "https://fantasy.nfl.com/league/2074621/history/2015/standings?historyStandingsType=final"
+  ],
+  "notes": "auto-generated from week jsons; seeds from regular_order (wins->PF) or avg_finishes.json when available; ground truth for 2020/2022 overridden"
+}
