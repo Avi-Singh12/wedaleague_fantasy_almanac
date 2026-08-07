@@ -1,0 +1,155 @@
+{
+  "year": 2023,
+  "regular_order": {
+    "Rishab": 5,
+    "Krishna": 9,
+    "Ameya": 8,
+    "Karthik": 7,
+    "Rajat": 2,
+    "Sahith": 1,
+    "Avi": 6,
+    "Vishal": 4,
+    "Bhuvanesh": 10,
+    "Tanvir": 3
+  },
+  "championship": {
+    "bracketType": "championship",
+    "rounds": [
+      {
+        "roundName": "Semifinal",
+        "round": 1,
+        "matchups": [
+          {
+            "seedA": 1,
+            "teamA": "Booty Eaters",
+            "ownerA": "Sahith",
+            "scoreA": 100.38,
+            "seedB": 4,
+            "teamB": "Big Arm Vishy",
+            "ownerB": "Vishal",
+            "scoreB": 80.48,
+            "winner": "Booty Eaters",
+            "round": "Semifinal"
+          },
+          {
+            "seedA": 2,
+            "teamA": "ra-him must-start",
+            "ownerA": "Rajat",
+            "scoreA": 84.9,
+            "seedB": 3,
+            "teamB": "Dogshit Baboons",
+            "ownerB": "Tanvir",
+            "scoreB": 37.6,
+            "winner": "ra-him must-start",
+            "round": "Semifinal"
+          }
+        ]
+      },
+      {
+        "roundName": "3rd Place",
+        "round": 2,
+        "matchups": [
+          {
+            "seedA": 3,
+            "teamA": "Dogshit Baboons",
+            "ownerA": "Tanvir",
+            "scoreA": 125.4,
+            "seedB": 4,
+            "teamB": "Big Arm Vishy",
+            "ownerB": "Vishal",
+            "scoreB": 78.84,
+            "winner": "Dogshit Baboons",
+            "round": "3rd Place"
+          },
+          {
+            "seedA": 2,
+            "teamA": "ra-him must-start",
+            "ownerA": "Rajat",
+            "scoreA": 92.86,
+            "seedB": 1,
+            "teamB": "Booty Eaters",
+            "ownerB": "Sahith",
+            "scoreB": 135.64,
+            "winner": "Booty Eaters",
+            "round": "3rd Place"
+          }
+        ]
+      }
+    ],
+    "champion": null,
+    "runner_up": null,
+    "third_place": "Dogshit Baboons"
+  },
+  "consolation": {
+    "bracketType": "consolation",
+    "rounds": [
+      {
+        "roundName": "Week 16 Consolation",
+        "round": 1,
+        "matchups": [
+          {
+            "seedA": 8,
+            "teamA": "fighting for my life",
+            "ownerA": "Ameya",
+            "scoreA": 103.12,
+            "seedB": 6,
+            "teamB": "Laughing Stocks",
+            "ownerB": "Avi",
+            "scoreB": 82.22,
+            "winner": "fighting for my life",
+            "round": "Week 16 Consolation"
+          },
+          {
+            "seedA": 5,
+            "teamA": "rat bstrd",
+            "ownerA": "Rishab",
+            "scoreA": 115.36,
+            "seedB": 7,
+            "teamB": "Im gonna Comm",
+            "ownerB": "Karthik",
+            "scoreB": 102.74,
+            "winner": "rat bstrd",
+            "round": "Week 16 Consolation"
+          }
+        ]
+      },
+      {
+        "roundName": "Week 17 Consolation",
+        "round": 1,
+        "matchups": [
+          {
+            "seedA": 8,
+            "teamA": "fighting for my life",
+            "ownerA": "Ameya",
+            "scoreA": 117.9,
+            "seedB": 5,
+            "teamB": "rat bstrd",
+            "ownerB": "Rishab",
+            "scoreB": 101.66,
+            "winner": "fighting for my life",
+            "round": "Week 17 Consolation"
+          },
+          {
+            "seedA": 7,
+            "teamA": "Im gonna Comm",
+            "ownerA": "Karthik",
+            "scoreA": 132.18,
+            "seedB": 6,
+            "teamB": "Laughing Stocks",
+            "ownerB": "Avi",
+            "scoreB": 108.98,
+            "winner": "Im gonna Comm",
+            "round": "Week 17 Consolation"
+          }
+        ]
+      }
+    ]
+  },
+  "source_urls": [
+    "https://fantasy.nfl.com/league/2074621/history/2023/playoffs?bracketType=championship&standingsTab=playoffs",
+    "https://fantasy.nfl.com/league/2074621/history/2023/playoffs?bracketType=consolation&standingsTab=playoffs",
+    "https://fantasy.nfl.com/league/2074621/history/2023/standings?historyStandingsType=regular",
+    "https://fantasy.nfl.com/league/2074621/history/2023/standings?historyStandingsType=final"
+  ],
+  "notes": "auto-generated from week jsons; seeds from regular_order (wins->PF) or avg_finishes.json when available; ground truth for 2020/2022 overridden"
+}
