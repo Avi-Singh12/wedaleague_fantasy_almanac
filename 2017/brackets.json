@@ -1,0 +1,153 @@
+{
+  "year": 2017,
+  "regular_order": {
+    "Rishab": 8,
+    "Krishna": 3,
+    "Karthik": 7,
+    "Sahith": 6,
+    "Avi": 1,
+    "Tarun": 4,
+    "Bhuvanesh": 2,
+    "Tanvir": 5
+  },
+  "championship": {
+    "bracketType": "championship",
+    "rounds": [
+      {
+        "roundName": "Semifinal",
+        "round": 1,
+        "matchups": [
+          {
+            "seedA": 1,
+            "teamA": "More Probable Than Not",
+            "ownerA": "Avi",
+            "scoreA": 111.62,
+            "seedB": 4,
+            "teamB": "The Dream Team",
+            "ownerB": "Tarun",
+            "scoreB": 84.94,
+            "winner": "More Probable Than Not",
+            "round": "Semifinal"
+          },
+          {
+            "seedA": 3,
+            "teamA": "Dak Sucks Balls",
+            "ownerA": "Krishna",
+            "scoreA": 102.4,
+            "seedB": 2,
+            "teamB": "SteeredPrune",
+            "ownerB": "Bhuvanesh",
+            "scoreB": 145.94,
+            "winner": "SteeredPrune",
+            "round": "Semifinal"
+          }
+        ]
+      },
+      {
+        "roundName": "3rd Place",
+        "round": 2,
+        "matchups": [
+          {
+            "seedA": 1,
+            "teamA": "More Probable Than Not",
+            "ownerA": "Avi",
+            "scoreA": 87.56,
+            "seedB": 2,
+            "teamB": "SteeredPrune",
+            "ownerB": "Bhuvanesh",
+            "scoreB": 82.36,
+            "winner": "More Probable Than Not",
+            "round": "3rd Place"
+          },
+          {
+            "seedA": 3,
+            "teamA": "Dak Sucks Balls",
+            "ownerA": "Krishna",
+            "scoreA": 74.08,
+            "seedB": 4,
+            "teamB": "The Dream Team",
+            "ownerB": "Tarun",
+            "scoreB": 85.54,
+            "winner": "The Dream Team",
+            "round": "3rd Place"
+          }
+        ]
+      }
+    ],
+    "champion": null,
+    "runner_up": null,
+    "third_place": "More Probable Than Not"
+  },
+  "consolation": {
+    "bracketType": "consolation",
+    "rounds": [
+      {
+        "roundName": "Week 15 Consolation",
+        "round": 1,
+        "matchups": [
+          {
+            "seedA": 7,
+            "teamA": "FF Runner Up",
+            "ownerA": "Karthik",
+            "scoreA": 63.48,
+            "seedB": 6,
+            "teamB": "Booty Eaters",
+            "ownerB": "Sahith",
+            "scoreB": 138.84,
+            "winner": "Booty Eaters",
+            "round": "Week 15 Consolation"
+          },
+          {
+            "seedA": 8,
+            "teamA": "kanye2020",
+            "ownerA": "Rishab",
+            "scoreA": 113.98,
+            "seedB": 5,
+            "teamB": "Barca Squad",
+            "ownerB": "Tanvir",
+            "scoreB": 75.98,
+            "winner": "kanye2020",
+            "round": "Week 15 Consolation"
+          }
+        ]
+      },
+      {
+        "roundName": "Week 16 Consolation",
+        "round": 1,
+        "matchups": [
+          {
+            "seedA": 7,
+            "teamA": "FF Runner Up",
+            "ownerA": "Karthik",
+            "scoreA": 103.64,
+            "seedB": 5,
+            "teamB": "Barca Squad",
+            "ownerB": "Tanvir",
+            "scoreB": 63.12,
+            "winner": "FF Runner Up",
+            "round": "Week 16 Consolation"
+          },
+          {
+            "seedA": 8,
+            "teamA": "kanye2020",
+            "ownerA": "Rishab",
+            "scoreA": 96.32,
+            "seedB": 6,
+            "teamB": "Booty Eaters",
+            "ownerB": "Sahith",
+            "scoreB": 95.56,
+            "winner": "kanye2020",
+            "round": "Week 16 Consolation"
+          }
+        ]
+      }
+    ]
+  },
+  "source_urls": [
+    "https://fantasy.nfl.com/league/2074621/history/2017/playoffs?bracketType=championship&standingsTab=playoffs",
+    "https://fantasy.nfl.com/league/2074621/history/2017/playoffs?bracketType=consolation&standingsTab=playoffs",
+    "https://fantasy.nfl.com/league/2074621/history/2017/standings?historyStandingsType=regular",
+    "https://fantasy.nfl.com/league/2074621/history/2017/standings?historyStandingsType=final"
+  ],
+  "notes": "auto-generated from week jsons; seeds from regular_order (wins->PF) or avg_finishes.json when available; ground truth for 2020/2022 overridden"
+}
