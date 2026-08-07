@@ -1,0 +1,155 @@
+{
+  "year": 2024,
+  "regular_order": {
+    "Rishab": 6,
+    "Krishna": 1,
+    "Ameya": 10,
+    "Karthik": 8,
+    "Rajat": 9,
+    "Sahith": 3,
+    "Avi": 4,
+    "Vishal": 7,
+    "Bhuvanesh": 2,
+    "Tanvir": 5
+  },
+  "championship": {
+    "bracketType": "championship",
+    "rounds": [
+      {
+        "roundName": "Semifinal",
+        "round": 1,
+        "matchups": [
+          {
+            "seedA": 1,
+            "teamA": "Certified Ass",
+            "ownerA": "Krishna",
+            "scoreA": 128.68,
+            "seedB": 4,
+            "teamB": "Laughing Stocks",
+            "ownerB": "Avi",
+            "scoreB": 139.88,
+            "winner": "Laughing Stocks",
+            "round": "Semifinal"
+          },
+          {
+            "seedA": 3,
+            "teamA": "Booty Eaters",
+            "ownerA": "Sahith",
+            "scoreA": 125.72,
+            "seedB": 2,
+            "teamB": "Medve-W",
+            "ownerB": "Bhuvanesh",
+            "scoreB": 131.18,
+            "winner": "Medve-W",
+            "round": "Semifinal"
+          }
+        ]
+      },
+      {
+        "roundName": "3rd Place",
+        "round": 2,
+        "matchups": [
+          {
+            "seedA": 2,
+            "teamA": "Medve-W",
+            "ownerA": "Bhuvanesh",
+            "scoreA": 148.48,
+            "seedB": 4,
+            "teamB": "Laughing Stocks",
+            "ownerB": "Avi",
+            "scoreB": 145.16,
+            "winner": "Medve-W",
+            "round": "3rd Place"
+          },
+          {
+            "seedA": 3,
+            "teamA": "Booty Eaters",
+            "ownerA": "Sahith",
+            "scoreA": 128.88,
+            "seedB": 1,
+            "teamB": "Certified Ass",
+            "ownerB": "Krishna",
+            "scoreB": 122.12,
+            "winner": "Booty Eaters",
+            "round": "3rd Place"
+          }
+        ]
+      }
+    ],
+    "champion": null,
+    "runner_up": null,
+    "third_place": "Medve-W"
+  },
+  "consolation": {
+    "bracketType": "consolation",
+    "rounds": [
+      {
+        "roundName": "Week 16 Consolation",
+        "round": 1,
+        "matchups": [
+          {
+            "seedA": 7,
+            "teamA": "Big Arm Vishy",
+            "ownerA": "Vishal",
+            "scoreA": 124.84,
+            "seedB": 6,
+            "teamB": "rat bstrd",
+            "ownerB": "Rishab",
+            "scoreB": 97.94,
+            "winner": "Big Arm Vishy",
+            "round": "Week 16 Consolation"
+          },
+          {
+            "seedA": 5,
+            "teamA": "Dogshit Baboons",
+            "ownerA": "Tanvir",
+            "scoreA": 101.56,
+            "seedB": 8,
+            "teamB": "Im gonna Comm",
+            "ownerB": "Karthik",
+            "scoreB": 126.46,
+            "winner": "Im gonna Comm",
+            "round": "Week 16 Consolation"
+          }
+        ]
+      },
+      {
+        "roundName": "Week 17 Consolation",
+        "round": 1,
+        "matchups": [
+          {
+            "seedA": 7,
+            "teamA": "Big Arm Vishy",
+            "ownerA": "Vishal",
+            "scoreA": 112.12,
+            "seedB": 8,
+            "teamB": "Im gonna Comm",
+            "ownerB": "Karthik",
+            "scoreB": 115.54,
+            "winner": "Im gonna Comm",
+            "round": "Week 17 Consolation"
+          },
+          {
+            "seedA": 5,
+            "teamA": "Dogshit Baboons",
+            "ownerA": "Tanvir",
+            "scoreA": 131.78,
+            "seedB": 6,
+            "teamB": "rat bstrd",
+            "ownerB": "Rishab",
+            "scoreB": 121.18,
+            "winner": "Dogshit Baboons",
+            "round": "Week 17 Consolation"
+          }
+        ]
+      }
+    ]
+  },
+  "source_urls": [
+    "https://fantasy.nfl.com/league/2074621/history/2024/playoffs?bracketType=championship&standingsTab=playoffs",
+    "https://fantasy.nfl.com/league/2074621/history/2024/playoffs?bracketType=consolation&standingsTab=playoffs",
+    "https://fantasy.nfl.com/league/2074621/history/2024/standings?historyStandingsType=regular",
+    "https://fantasy.nfl.com/league/2074621/history/2024/standings?historyStandingsType=final"
+  ],
+  "notes": "auto-generated from week jsons; seeds from regular_order (wins->PF) or avg_finishes.json when available; ground truth for 2020/2022 overridden"
+}
