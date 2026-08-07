@@ -1,0 +1,153 @@
+{
+  "year": 2013,
+  "regular_order": {
+    "Rishab": 4,
+    "Prem": 1,
+    "Krishna": 5,
+    "Karthik": 2,
+    "Rishi": 8,
+    "Avi": 7,
+    "Shanker": 3,
+    "Bhuvanesh": 6
+  },
+  "championship": {
+    "bracketType": "championship",
+    "rounds": [
+      {
+        "roundName": "Semifinal",
+        "round": 1,
+        "matchups": [
+          {
+            "seedA": 2,
+            "teamA": "Keep Calm and Megatron",
+            "ownerA": "Karthik",
+            "scoreA": 134.54,
+            "seedB": 1,
+            "teamB": "PremSwag12",
+            "ownerB": "Prem",
+            "scoreB": 182.0,
+            "winner": "PremSwag12",
+            "round": "Semifinal"
+          },
+          {
+            "seedA": 4,
+            "teamA": "Bharat Venkat is a poser",
+            "ownerA": "Rishab",
+            "scoreA": 83.12,
+            "seedB": 3,
+            "teamB": "MathIsAwesome",
+            "ownerB": "Shanker",
+            "scoreB": 68.22,
+            "winner": "Bharat Venkat is a poser",
+            "round": "Semifinal"
+          }
+        ]
+      },
+      {
+        "roundName": "3rd Place",
+        "round": 2,
+        "matchups": [
+          {
+            "seedA": 2,
+            "teamA": "Keep Calm and Megatron",
+            "ownerA": "Karthik",
+            "scoreA": 76.72,
+            "seedB": 3,
+            "teamB": "MathIsAwesome",
+            "ownerB": "Shanker",
+            "scoreB": 72.42,
+            "winner": "Keep Calm and Megatron",
+            "round": "3rd Place"
+          },
+          {
+            "seedA": 1,
+            "teamA": "PremSwag12",
+            "ownerA": "Prem",
+            "scoreA": 94.0,
+            "seedB": 4,
+            "teamB": "Bharat Venkat is a poser",
+            "ownerB": "Rishab",
+            "scoreB": 109.14,
+            "winner": "Bharat Venkat is a poser",
+            "round": "3rd Place"
+          }
+        ]
+      }
+    ],
+    "champion": null,
+    "runner_up": null,
+    "third_place": "Keep Calm and Megatron"
+  },
+  "consolation": {
+    "bracketType": "consolation",
+    "rounds": [
+      {
+        "roundName": "Week 15 Consolation",
+        "round": 1,
+        "matchups": [
+          {
+            "seedA": 7,
+            "teamA": "Fear the Beard",
+            "ownerA": "Avi",
+            "scoreA": 186.2,
+            "seedB": 6,
+            "teamB": "SteeredPrune",
+            "ownerB": "Bhuvanesh",
+            "scoreB": 124.94,
+            "winner": "Fear the Beard",
+            "round": "Week 15 Consolation"
+          },
+          {
+            "seedA": 5,
+            "teamA": "Hernandez's Hit Men",
+            "ownerA": "Krishna",
+            "scoreA": 117.4,
+            "seedB": 8,
+            "teamB": "Rookies",
+            "ownerB": "Rishi",
+            "scoreB": 160.44,
+            "winner": "Rookies",
+            "round": "Week 15 Consolation"
+          }
+        ]
+      },
+      {
+        "roundName": "Week 16 Consolation",
+        "round": 1,
+        "matchups": [
+          {
+            "seedA": 7,
+            "teamA": "Fear the Beard",
+            "ownerA": "Avi",
+            "scoreA": 99.9,
+            "seedB": 8,
+            "teamB": "Rookies",
+            "ownerB": "Rishi",
+            "scoreB": 113.5,
+            "winner": "Rookies",
+            "round": "Week 16 Consolation"
+          },
+          {
+            "seedA": 5,
+            "teamA": "Hernandez's Hit Men",
+            "ownerA": "Krishna",
+            "scoreA": 128.62,
+            "seedB": 6,
+            "teamB": "SteeredPrune",
+            "ownerB": "Bhuvanesh",
+            "scoreB": 92.74,
+            "winner": "Hernandez's Hit Men",
+            "round": "Week 16 Consolation"
+          }
+        ]
+      }
+    ]
+  },
+  "source_urls": [
+    "https://fantasy.nfl.com/league/2074621/history/2013/playoffs?bracketType=championship&standingsTab=playoffs",
+    "https://fantasy.nfl.com/league/2074621/history/2013/playoffs?bracketType=consolation&standingsTab=playoffs",
+    "https://fantasy.nfl.com/league/2074621/history/2013/standings?historyStandingsType=regular",
+    "https://fantasy.nfl.com/league/2074621/history/2013/standings?historyStandingsType=final"
+  ],
+  "notes": "auto-generated from week jsons; seeds from regular_order (wins->PF) or avg_finishes.json when available; ground truth for 2020/2022 overridden"
+}
