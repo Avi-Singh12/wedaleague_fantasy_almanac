@@ -1,0 +1,153 @@
+{
+  "year": 2018,
+  "regular_order": {
+    "Rishab": 1,
+    "Krishna": 5,
+    "Karthik": 6,
+    "Sahith": 2,
+    "Avi": 4,
+    "Tarun": 8,
+    "Bhuvanesh": 7,
+    "Tanvir": 3
+  },
+  "championship": {
+    "bracketType": "championship",
+    "rounds": [
+      {
+        "roundName": "Semifinal",
+        "round": 1,
+        "matchups": [
+          {
+            "seedA": 4,
+            "teamA": "More Probable Than Not",
+            "ownerA": "Avi",
+            "scoreA": 78.62,
+            "seedB": 1,
+            "teamB": "kanye2020",
+            "ownerB": "Rishab",
+            "scoreB": 43.6,
+            "winner": "More Probable Than Not",
+            "round": "Semifinal"
+          },
+          {
+            "seedA": 2,
+            "teamA": "Booty Eaters",
+            "ownerA": "Sahith",
+            "scoreA": 97.88,
+            "seedB": 3,
+            "teamB": "Dogshit Baboons",
+            "ownerB": "Tanvir",
+            "scoreB": 125.08,
+            "winner": "Dogshit Baboons",
+            "round": "Semifinal"
+          }
+        ]
+      },
+      {
+        "roundName": "3rd Place",
+        "round": 2,
+        "matchups": [
+          {
+            "seedA": 4,
+            "teamA": "More Probable Than Not",
+            "ownerA": "Avi",
+            "scoreA": 104.72,
+            "seedB": 3,
+            "teamB": "Dogshit Baboons",
+            "ownerB": "Tanvir",
+            "scoreB": 148.38,
+            "winner": "Dogshit Baboons",
+            "round": "3rd Place"
+          },
+          {
+            "seedA": 1,
+            "teamA": "kanye2020",
+            "ownerA": "Rishab",
+            "scoreA": 93.7,
+            "seedB": 2,
+            "teamB": "Booty Eaters",
+            "ownerB": "Sahith",
+            "scoreB": 90.54,
+            "winner": "kanye2020",
+            "round": "3rd Place"
+          }
+        ]
+      }
+    ],
+    "champion": null,
+    "runner_up": null,
+    "third_place": "Dogshit Baboons"
+  },
+  "consolation": {
+    "bracketType": "consolation",
+    "rounds": [
+      {
+        "roundName": "Week 15 Consolation",
+        "round": 1,
+        "matchups": [
+          {
+            "seedA": 5,
+            "teamA": "I am Trash",
+            "ownerA": "Krishna",
+            "scoreA": 104.76,
+            "seedB": 8,
+            "teamB": "The Dream Team",
+            "ownerB": "Tarun",
+            "scoreB": 135.3,
+            "winner": "The Dream Team",
+            "round": "Week 15 Consolation"
+          },
+          {
+            "seedA": 6,
+            "teamA": "FF  Runner Up",
+            "ownerA": "Karthik",
+            "scoreA": 101.86,
+            "seedB": 7,
+            "teamB": "SteeredPrune",
+            "ownerB": "Bhuvanesh",
+            "scoreB": 89.06,
+            "winner": "FF  Runner Up",
+            "round": "Week 15 Consolation"
+          }
+        ]
+      },
+      {
+        "roundName": "Week 16 Consolation",
+        "round": 1,
+        "matchups": [
+          {
+            "seedA": 8,
+            "teamA": "The Dream Team",
+            "ownerA": "Tarun",
+            "scoreA": 95.24,
+            "seedB": 6,
+            "teamB": "FF  Runner Up",
+            "ownerB": "Karthik",
+            "scoreB": 119.54,
+            "winner": "FF  Runner Up",
+            "round": "Week 16 Consolation"
+          },
+          {
+            "seedA": 5,
+            "teamA": "I am Trash",
+            "ownerA": "Krishna",
+            "scoreA": 97.96,
+            "seedB": 7,
+            "teamB": "SteeredPrune",
+            "ownerB": "Bhuvanesh",
+            "scoreB": 112.36,
+            "winner": "SteeredPrune",
+            "round": "Week 16 Consolation"
+          }
+        ]
+      }
+    ]
+  },
+  "source_urls": [
+    "https://fantasy.nfl.com/league/2074621/history/2018/playoffs?bracketType=championship&standingsTab=playoffs",
+    "https://fantasy.nfl.com/league/2074621/history/2018/playoffs?bracketType=consolation&standingsTab=playoffs",
+    "https://fantasy.nfl.com/league/2074621/history/2018/standings?historyStandingsType=regular",
+    "https://fantasy.nfl.com/league/2074621/history/2018/standings?historyStandingsType=final"
+  ],
+  "notes": "auto-generated from week jsons; seeds from regular_order (wins->PF) or avg_finishes.json when available; ground truth for 2020/2022 overridden"
+}
