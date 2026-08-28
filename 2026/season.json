@@ -1,0 +1,100 @@
+{
+  "year": 2026,
+  "season": 2026,
+  "platform": "sleeper",
+  "status": "pre-season",
+  "draft": "complete",
+  "draft_id": "1312125711099654144",
+  "teams": [
+    "Rajat",
+    "Karthik",
+    "Vishal",
+    "Tanvir",
+    "Rishab",
+    "Krishna",
+    "Sahith",
+    "Avi",
+    "Ameya",
+    "Bhuvanesh"
+  ],
+  "champion": "TBD",
+  "standings": [
+    {
+      "owner": "Rajat",
+      "wins": 0,
+      "losses": 0,
+      "fpts": 0,
+      "status": "TBD"
+    },
+    {
+      "owner": "Karthik",
+      "wins": 0,
+      "losses": 0,
+      "fpts": 0,
+      "status": "TBD"
+    },
+    {
+      "owner": "Vishal",
+      "wins": 0,
+      "losses": 0,
+      "fpts": 0,
+      "status": "TBD"
+    },
+    {
+      "owner": "Tanvir",
+      "wins": 0,
+      "losses": 0,
+      "fpts": 0,
+      "status": "TBD"
+    },
+    {
+      "owner": "Rishab",
+      "wins": 0,
+      "losses": 0,
+      "fpts": 0,
+      "status": "TBD"
+    },
+    {
+      "owner": "Krishna",
+      "wins": 0,
+      "losses": 0,
+      "fpts": 0,
+      "status": "TBD"
+    },
+    {
+      "owner": "Sahith",
+      "wins": 0,
+      "losses": 0,
+      "fpts": 0,
+      "status": "TBD"
+    },
+    {
+      "owner": "Avi",
+      "wins": 0,
+      "losses": 0,
+      "fpts": 0,
+      "status": "TBD"
+    },
+    {
+      "owner": "Ameya",
+      "wins": 0,
+      "losses": 0,
+      "fpts": 0,
+      "status": "TBD"
+    },
+    {
+      "owner": "Bhuvanesh",
+      "wins": 0,
+      "losses": 0,
+      "fpts": 0,
+      "status": "TBD"
+    }
+  ],
+  "weeks": {
+    "regular": 14,
+    "playoff": 3,
+    "total": 17,
+    "completed": 0
+  },
+  "note": "Season hasn't started yet - all weeks TBD"
+}
