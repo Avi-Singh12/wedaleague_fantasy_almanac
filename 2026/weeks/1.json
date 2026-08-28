@@ -1,0 +1,107 @@
+{
+  "year": 2026,
+  "week": 1,
+  "platform": "sleeper",
+  "season_type": "regular",
+  "matchups": [],
+  "data_completeness": "tbd",
+  "note": "2026 Week 1 - Season not started - TBD",
+  "owners": [
+    "Rajat",
+    "Karthik",
+    "Vishal",
+    "Tanvir",
+    "Rishab",
+    "Krishna",
+    "Sahith",
+    "Avi",
+    "Ameya",
+    "Bhuvanesh"
+  ],
+  "verified": false,
+  "deep_verified": false,
+  "tbd": true,
+  "standings_tbd": true,
+  "standings": [
+    {
+      "owner": "Rajat",
+      "wins": 0,
+      "losses": 0,
+      "fpts": 0,
+      "team_name": "Rajat",
+      "status": "TBD"
+    },
+    {
+      "owner": "Karthik",
+      "wins": 0,
+      "losses": 0,
+      "fpts": 0,
+      "team_name": "Karthik",
+      "status": "TBD"
+    },
+    {
+      "owner": "Vishal",
+      "wins": 0,
+      "losses": 0,
+      "fpts": 0,
+      "team_name": "Vishal",
+      "status": "TBD"
+    },
+    {
+      "owner": "Tanvir",
+      "wins": 0,
+      "losses": 0,
+      "fpts": 0,
+      "team_name": "Tanvir",
+      "status": "TBD"
+    },
+    {
+      "owner": "Rishab",
+      "wins": 0,
+      "losses": 0,
+      "fpts": 0,
+      "team_name": "Rishab",
+      "status": "TBD"
+    },
+    {
+      "owner": "Krishna",
+      "wins": 0,
+      "losses": 0,
+      "fpts": 0,
+      "team_name": "Krishna",
+      "status": "TBD"
+    },
+    {
+      "owner": "Sahith",
+      "wins": 0,
+      "losses": 0,
+      "fpts": 0,
+      "team_name": "Sahith",
+      "status": "TBD"
+    },
+    {
+      "owner": "Avi",
+      "wins": 0,
+      "losses": 0,
+      "fpts": 0,
+      "team_name": "Avi",
+      "status": "TBD"
+    },
+    {
+      "owner": "Ameya",
+      "wins": 0,
+      "losses": 0,
+      "fpts": 0,
+      "team_name": "Ameya",
+      "status": "TBD"
+    },
+    {
+      "owner": "Bhuvanesh",
+      "wins": 0,
+      "losses": 0,
+      "fpts": 0,
+      "team_name": "Bhuvanesh",
+      "status": "TBD"
+    }
+  ]
+}
